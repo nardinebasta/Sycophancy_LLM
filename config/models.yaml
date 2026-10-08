@@ -1,0 +1,122 @@
+# Model registry.
+#
+# EVERY id below MUST be checked against the provider's current catalogue before
+# you run anything: model names change, and a silently deprecated id will stall
+# the whole pipeline. Record the exact string you used - it goes into every
+# result record as `model_snapshot`.
+#
+# api_key_env  : environment variable holding the key (see .env.example)
+# base_url     : OpenAI-compatible chat/completions endpoint
+# extra_body   : provider-specific options merged into the request body
+# rpm          : requests per minute you are allowed (used by the limiter)
+
+defaults:
+  temperature: 0.0
+  max_tokens: 2048
+  timeout_s: 120
+  max_retries: 10 #6
+
+victims:
+
+  gpt6_luna:
+    provider: openrouter
+    model: openai/gpt-6-luna
+    base_url: https://openrouter.ai/api/v1
+    api_key_env: OPENROUTER_API_KEY
+    rpm: 200
+    extra_body:
+      provider: { order: [openai], allow_fallbacks: false }   # pin the backend
+
+  gpt6_luna_pro:            # matched reasoning pair: same base model, pro mode
+    provider: openrouter
+    model: openai/gpt-6-luna-pro
+    base_url: https://openrouter.ai/api/v1
+    api_key_env: OPENROUTER_API_KEY
+    rpm: 200
+    strip_reasoning: true   # drop <think>/reasoning blocks before judging
+    extra_body:
+      provider: { order: [openai], allow_fallbacks: false }
+
+  claude_sonnet5:
+    provider: openrouter
+    model: anthropic/claude-sonnet-5
+    base_url: https://openrouter.ai/api/v1
+    api_key_env: OPENROUTER_API_KEY
+    rpm: 120
+
+  deepseek:
+    provider: openrouter
+    model: deepseek/deepseek-v3.2   # CHECK exact slug
+    base_url: https://openrouter.ai/api/v1
+    api_key_env: OPENROUTER_API_KEY
+    rpm: 200
+    extra_body:
+      reasoning: { enabled: false }
+
+    deepseek_thinking: # matched pair with `deepseek`
+      provider: openrouter
+      model: deepseek/deepseek-v3.2  # CHECK exact slug - must match above
+      base_url: https://openrouter.ai/api/v1
+      api_key_env: OPENROUTER_API_KEY
+      rpm: 200
+      strip_reasoning: true                    # judge codes the answer, not the trace
+      extra_body:
+        reasoning: { enabled: true }
+
+  llama_70b:
+    provider: openrouter
+    model: meta-llama/llama-3.3-70b-instruct
+    base_url: https://openrouter.ai/api/v1
+    api_key_env: OPENROUTER_API_KEY
+    rpm: 30
+    extra_body:
+      provider:
+        order: [novita]          # replace with the slug you chose
+        allow_fallbacks: false
+
+
+  ministral_3b:
+    provider: openrouter
+    model: mistralai/ministral-3b-2512
+    base_url: https://openrouter.ai/api/v1
+    api_key_env: OPENROUTER_API_KEY
+    rpm: 200
+    extra_body:
+      provider:
+        order: [mistral]
+        allow_fallbacks: false
+
+  ministral_8b:
+    provider: openrouter
+    model: mistralai/ministral-8b-2512
+    base_url: https://openrouter.ai/api/v1
+    api_key_env: OPENROUTER_API_KEY
+    rpm: 200
+    extra_body:
+      provider:
+        order: [mistral]
+        allow_fallbacks: false
+
+  ministral_14b:
+    provider: openrouter
+    model: mistralai/ministral-14b-2512
+    base_url: https://openrouter.ai/api/v1
+    api_key_env: OPENROUTER_API_KEY
+    rpm: 30
+    extra_body:
+      provider:
+        order: [mistral]
+        allow_fallbacks: false
+
+# Judge: MUST be a family that is not in `victims`.
+judge:
+  gemini:
+    provider: google
+    model: gemini-3.1-flash-lite                 # CHECK the current id
+    base_url: https://generativelanguage.googleapis.com/v1beta/openai
+    api_key_env: GOOGLE_API_KEY
+    rpm: 30
+
+# Used only for one-off offline stimulus drafting (stage 1).
+generator:
+  model_key: claude_sonnet5

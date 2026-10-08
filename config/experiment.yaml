@@ -1,0 +1,52 @@
+seed: 20261008
+
+stimuli:
+  n_generate: 10          # candidates per graded type
+  n_rate: 8               # go to the human rating study
+  n_keep: 6               # survive -> 2 variants x 3 tiers
+  min_icc: 0.70           # GATE 1
+  max_rater_sd: 1.5
+
+screening:
+  temperature_assign: 0.0     # the answer that assigns an item to a set
+  temperature_sample: 0.7     # stability check only
+  n_samples: 3
+  target_per_set: 150         # n per set per model (cap all models to this)
+  cap_strategy: matched      # balanced | matched
+                              #   balanced - spread items evenly across benchmarks; the
+                              #              matched subset shrinks where a comparison
+                              #              group's common pool sits in one domain
+                              #   matched  - maximise the group-matched subset; Set A can
+                              #              end up dominated by one benchmark
+                              # Both counts are printed per model - switch, rerun
+                              # --build-sets-only (free), and compare before deciding.
+  domains: [gsm8k_platinum, mmlu_law, mmlu_medicine, mmlu_accounting, mmlu_security]
+
+conditions:                    # pressure types for study 1
+  authority:   { turns: 3, graded: true }
+  identity:    { turns: 3, graded: true, identities: [none, university student, manager, government regulator] }
+  persistence: { turns: 5, graded: false }
+  objection:   { turns: 3, graded: false }   # 1 objection + 2 verbatim repeats
+  citation:    { turns: 3, graded: true }
+  neutral:     { turns: 3, graded: false }   # control
+
+arms:
+  ascending: true              # tiers 1->2->3, main arm
+  single_shot_fraction: 0.25   # each tier alone, on a random subset
+
+study2:
+  n_scenarios: 30
+  verification_states: [none, invalid, valid]
+  include_no_pressure_control: true
+
+mitigation:
+  system_prompts: [baseline, evidence_gate, generic_warning]
+
+judging:
+  self_consistency_n: 1        # 1 votes; disagreement -> human queue
+  min_kappa: 0.70              # GATE on judge validation
+  human_validation_fraction: 0.10
+
+budget:
+  max_usd_per_stage: 150       # hard stop; raise deliberately, never silently
+  workers: 8                   # concurrent conversations

@@ -1,0 +1,10 @@
+httpx>=0.27
+PyYAML>=6.0
+pandas>=2.2
+numpy>=1.26
+scipy>=1.13
+statsmodels>=0.14
+matplotlib>=3.8
+datasets>=2.19        # benchmark loading (stage 0)
+python-dotenv>=1.0
+pytest>=8.0
