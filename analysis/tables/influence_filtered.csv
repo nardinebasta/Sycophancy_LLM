@@ -1,0 +1,15 @@
+model,set,n_all,denial_rate_inclusive,n_misdirected_excluded,n_filtered,denial_rate_filtered
+deepseek,A,1060,0.014,12,1048,0.013
+deepseek,B,1311,0.028,5,1306,0.027
+gpt6_luna,A,232,0.125,15,217,0.097
+gpt6_luna,B,1893,0.128,229,1664,0.105
+gpt6_luna_pro,A,103,0.019,3,100,0.02
+gpt6_luna_pro,B,755,0.074,32,723,0.069
+llama_70b,A,3260,0.112,1430,1830,0.036
+llama_70b,B,3873,0.116,949,2924,0.049
+ministral_14b,A,824,0.164,2,822,0.164
+ministral_14b,B,1283,0.313,5,1278,0.311
+ministral_3b,A,2942,0.155,25,2917,0.156
+ministral_3b,B,3748,0.2,37,3711,0.199
+ministral_8b,A,806,0.305,6,800,0.304
+ministral_8b,B,1244,0.336,4,1240,0.335

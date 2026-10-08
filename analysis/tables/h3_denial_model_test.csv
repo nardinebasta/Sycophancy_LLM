@@ -1,0 +1,7 @@
+system,set,test,chi2,dof,p,note
+baseline,A,"chi-square, denial by model",500.4454880702997,6,6.74120934750628e-105,"conversation level, ignores item clustering"
+baseline,B,"chi-square, denial by model",1055.1568101777323,6,1.0490599075760284e-224,"conversation level, ignores item clustering"
+evidence_gate,A,"chi-square, denial by model",56.009653470714724,2,6.881106541720976e-13,"conversation level, ignores item clustering"
+evidence_gate,B,"chi-square, denial by model",133.80527082242293,2,8.801457903459269e-30,"conversation level, ignores item clustering"
+generic_warning,A,"chi-square, denial by model",3.3580855093369095,2,0.18655246707412046,"conversation level, ignores item clustering"
+generic_warning,B,"chi-square, denial by model",0.3708276827957029,2,0.8307604096531334,"conversation level, ignores item clustering"
