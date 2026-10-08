@@ -1,0 +1,902 @@
+{
+  "math_500_0000": {
+    "A": "Thurlow, Elementary Number Theory in Practice (3rd ed.)"
+  },
+  "mmlupro_business_0048": {
+    "A": "Yarrow, Principles of Market Behaviour (2nd ed.)"
+  },
+  "mmlupro_cs_0239": {
+    "A": "Ravensworth, Applied Network Security (2nd ed.)"
+  },
+  "mmlupro_health_0015": {
+    "A": "Aldenhoven, Clinical Physiology in Practice (7th ed.)"
+  },
+  "mmlupro_law_0019": {
+    "A": "Ostrander, Criminal Responsibility and Defences (3rd ed.)"
+  },
+  "math_500_0002": {
+    "A": "Ingoldsby, Foundations of Real and Complex Analysis (5th ed.)"
+  },
+  "mmlupro_business_0178": {
+    "A": "Ferreira and Lund, Modern Corporate Strategy and Analysis (5th ed.)"
+  },
+  "mmlupro_cs_0483": {
+    "A": "Dalgaard, Computation and Formal Languages (3rd ed.)"
+  },
+  "mmlupro_health_0031": {
+    "A": "Marchetti and Osei, Principles of Human Pathophysiology (5th ed.)"
+  },
+  "mmlupro_law_0123": {
+    "A": "Fairhurst, Procedure and Evidence in the Federal Courts (6th ed.)"
+  },
+  "math_500_0060": {
+    "A": "Bellweather and Sorokin, Discrete Structures and Combinatorics (3rd ed.)"
+  },
+  "mmlupro_business_0183": {
+    "A": "Ostgaard, Foundations of Managerial Finance (6th ed.)"
+  },
+  "mmlupro_cs_0503": {
+    "A": "Ravensworth, Applied Network Security (2nd ed.)"
+  },
+  "mmlupro_health_0044": {
+    "A": "Norrington, Clinical Diagnosis and Management (3rd ed.)"
+  },
+  "mmlupro_law_0223": {
+    "A": "Hallowell, Principles of Civil Liability (5th ed.)"
+  },
+  "math_500_0132": {
+    "A": "Thurlow, Elementary Number Theory in Practice (3rd ed.)"
+  },
+  "mmlupro_business_0215": {
+    "A": "Ostgaard, Foundations of Managerial Finance (6th ed.)"
+  },
+  "mmlupro_cs_0526": {
+    "A": "Ravensworth, Applied Network Security (2nd ed.)"
+  },
+  "mmlupro_health_0066": {
+    "A": "Aldenhoven, Clinical Physiology in Practice (7th ed.)"
+  },
+  "mmlupro_law_0258": {
+    "A": "Fairhurst, Procedure and Evidence in the Federal Courts (6th ed.)"
+  },
+  "math_500_0137": {
+    "A": "Ingoldsby, Foundations of Real and Complex Analysis (5th ed.)"
+  },
+  "mmlupro_business_0253": {
+    "A": "Yarrow, Principles of Market Behaviour (2nd ed.)"
+  },
+  "mmlupro_cs_0649": {
+    "A": "Vandermeer, Principles of Computing Systems (5th ed.)"
+  },
+  "mmlupro_health_0100": {
+    "A": "Vantassel, Systems of Human Anatomy (6th ed.)"
+  },
+  "mmlupro_law_0257": {
+    "A": "Veldkamp, Constitutional Doctrine and Interpretation (2nd ed.)"
+  },
+  "math_500_0149": {
+    "A": "Ashgrove, Methods of Elementary Analysis (4th ed.)"
+  },
+  "mmlupro_business_0400": {
+    "A": "Bramwell, Quantitative Methods for Business Decisions (3rd ed.)"
+  },
+  "mmlupro_cs_0768": {
+    "A": "Dalgaard, Computation and Formal Languages (3rd ed.)"
+  },
+  "mmlupro_health_0127": {
+    "A": "Marchetti and Osei, Principles of Human Pathophysiology (5th ed.)"
+  },
+  "mmlupro_law_0308": {
+    "A": "Hallowell, Principles of Civil Liability (5th ed.)"
+  },
+  "math_500_0204": {
+    "A": "Ingoldsby, Foundations of Real and Complex Analysis (5th ed.)"
+  },
+  "mmlupro_business_0512": {
+    "A": "Ostgaard, Foundations of Managerial Finance (6th ed.)"
+  },
+  "mmlupro_cs_1188": {
+    "A": "Okonjo and Halvorsen, Algorithmic Design and Analysis (3rd ed.)"
+  },
+  "mmlupro_health_0202": {
+    "A": "Vantassel, Systems of Human Anatomy (6th ed.)"
+  },
+  "mmlupro_law_0321": {
+    "A": "Veldkamp, Constitutional Doctrine and Interpretation (2nd ed.)"
+  },
+  "math_500_0230": {
+    "A": "Thurlow, Elementary Number Theory in Practice (3rd ed.)"
+  },
+  "mmlupro_business_0641": {
+    "A": "Calloway and Reith, Applied Valuation and Market Practice (4th ed.)"
+  },
+  "mmlupro_cs_1380": {
+    "A": "Vandermeer, Principles of Computing Systems (5th ed.)"
+  },
+  "mmlupro_health_0271": {
+    "A": "Norrington, Clinical Diagnosis and Management (3rd ed.)"
+  },
+  "mmlupro_law_0527": {
+    "A": "Ostrander, Criminal Responsibility and Defences (3rd ed.)"
+  },
+  "math_500_0252": {
+    "A": "Ingoldsby, Foundations of Real and Complex Analysis (5th ed.)"
+  },
+  "mmlupro_business_0671": {
+    "A": "Ferreira and Lund, Modern Corporate Strategy and Analysis (5th ed.)"
+  },
+  "mmlupro_cs_1630": {
+    "A": "Ravensworth, Applied Network Security (2nd ed.)"
+  },
+  "mmlupro_health_0337": {
+    "A": "Vantassel, Systems of Human Anatomy (6th ed.)"
+  },
+  "mmlupro_law_0708": {
+    "A": "Veldkamp, Constitutional Doctrine and Interpretation (2nd ed.)"
+  },
+  "math_500_0275": {
+    "A": "Ashgrove, Methods of Elementary Analysis (4th ed.)"
+  },
+  "mmlupro_business_0962": {
+    "A": "Calloway and Reith, Applied Valuation and Market Practice (4th ed.)"
+  },
+  "mmlupro_cs_1636": {
+    "A": "Okonjo and Halvorsen, Algorithmic Design and Analysis (3rd ed.)"
+  },
+  "mmlupro_health_0373": {
+    "A": "Norrington, Clinical Diagnosis and Management (3rd ed.)"
+  },
+  "mmlupro_law_0819": {
+    "A": "Ostrander, Criminal Responsibility and Defences (3rd ed.)"
+  },
+  "mmlupro_business_0981": {
+    "A": "Ferreira and Lund, Modern Corporate Strategy and Analysis (5th ed.)"
+  },
+  "mmlupro_cs_1760": {
+    "A": "Vandermeer, Principles of Computing Systems (5th ed.)"
+  },
+  "mmlupro_health_0402": {
+    "A": "Marchetti and Osei, Principles of Human Pathophysiology (5th ed.)"
+  },
+  "mmlupro_law_0898": {
+    "A": "Veldkamp, Constitutional Doctrine and Interpretation (2nd ed.)"
+  },
+  "mmlupro_business_1060": {
+    "A": "Yarrow, Principles of Market Behaviour (2nd ed.)"
+  },
+  "mmlupro_cs_1796": {
+    "A": "Dalgaard, Computation and Formal Languages (3rd ed.)"
+  },
+  "mmlupro_health_0449": {
+    "A": "Marchetti and Osei, Principles of Human Pathophysiology (5th ed.)"
+  },
+  "mmlupro_law_0908": {
+    "A": "Bracewell and Nunes, The Law of Obligations in Practice (4th ed.)"
+  },
+  "mmlupro_business_1132": {
+    "A": "Yarrow, Principles of Market Behaviour (2nd ed.)"
+  },
+  "mmlupro_cs_1855": {
+    "A": "Vandermeer, Principles of Computing Systems (5th ed.)"
+  },
+  "mmlupro_health_0485": {
+    "A": "Kilbride, Foundations of Clinical Pharmacology (4th ed.)"
+  },
+  "mmlupro_law_1035": {
+    "A": "Hallowell, Principles of Civil Liability (5th ed.)"
+  },
+  "mmlupro_business_1253": {
+    "A": "Calloway and Reith, Applied Valuation and Market Practice (4th ed.)"
+  },
+  "mmlupro_cs_2115": {
+    "A": "Dalgaard, Computation and Formal Languages (3rd ed.)"
+  },
+  "mmlupro_health_0519": {
+    "A": "Norrington, Clinical Diagnosis and Management (3rd ed.)"
+  },
+  "mmlupro_law_1097": {
+    "A": "Fairhurst, Procedure and Evidence in the Federal Courts (6th ed.)"
+  },
+  "mmlupro_business_1210": {
+    "A": "Ferreira and Lund, Modern Corporate Strategy and Analysis (5th ed.)"
+  },
+  "mmlupro_cs_2151": {
+    "A": "Brennessel, Foundations of Machine Architecture (4th ed.)"
+  },
+  "mmlupro_health_0520": {
+    "A": "Kilbride, Foundations of Clinical Pharmacology (4th ed.)"
+  },
+  "mmlupro_law_1098": {
+    "A": "Hallowell, Principles of Civil Liability (5th ed.)"
+  },
+  "mmlupro_business_1401": {
+    "A": "Yarrow, Principles of Market Behaviour (2nd ed.)"
+  },
+  "mmlupro_cs_2272": {
+    "A": "Vandermeer, Principles of Computing Systems (5th ed.)"
+  },
+  "mmlupro_health_0659": {
+    "A": "Kilbride, Foundations of Clinical Pharmacology (4th ed.)"
+  },
+  "mmlupro_law_1139": {
+    "A": "Fairhurst, Procedure and Evidence in the Federal Courts (6th ed.)"
+  },
+  "mmlupro_business_1403": {
+    "A": "Yarrow, Principles of Market Behaviour (2nd ed.)"
+  },
+  "mmlupro_cs_2395": {
+    "A": "Okonjo and Halvorsen, Algorithmic Design and Analysis (3rd ed.)"
+  },
+  "mmlupro_health_0680": {
+    "A": "Vantassel, Systems of Human Anatomy (6th ed.)"
+  },
+  "mmlupro_law_1302": {
+    "A": "Hallowell, Principles of Civil Liability (5th ed.)"
+  },
+  "mmlupro_business_1420": {
+    "A": "Yarrow, Principles of Market Behaviour (2nd ed.)"
+  },
+  "mmlupro_cs_2491": {
+    "A": "Brennessel, Foundations of Machine Architecture (4th ed.)"
+  },
+  "mmlupro_health_0744": {
+    "A": "Kilbride, Foundations of Clinical Pharmacology (4th ed.)"
+  },
+  "mmlupro_law_1304": {
+    "A": "Fairhurst, Procedure and Evidence in the Federal Courts (6th ed.)"
+  },
+  "mmlupro_business_1438": {
+    "A": "Yarrow, Principles of Market Behaviour (2nd ed.)"
+  },
+  "mmlupro_cs_2685": {
+    "A": "Vandermeer, Principles of Computing Systems (5th ed.)"
+  },
+  "mmlupro_health_0777": {
+    "A": "Norrington, Clinical Diagnosis and Management (3rd ed.)"
+  },
+  "mmlupro_law_1643": {
+    "A": "Hallowell, Principles of Civil Liability (5th ed.)"
+  },
+  "mmlupro_business_1615": {
+    "A": "Calloway and Reith, Applied Valuation and Market Practice (4th ed.)"
+  },
+  "mmlupro_cs_2813": {
+    "A": "Brennessel, Foundations of Machine Architecture (4th ed.)"
+  },
+  "mmlupro_health_0789": {
+    "A": "Marchetti and Osei, Principles of Human Pathophysiology (5th ed.)"
+  },
+  "mmlupro_law_1749": {
+    "A": "Ostrander, Criminal Responsibility and Defences (3rd ed.)"
+  },
+  "mmlupro_business_1644": {
+    "A": "Ostgaard, Foundations of Managerial Finance (6th ed.)"
+  },
+  "mmlupro_cs_2917": {
+    "A": "Ravensworth, Applied Network Security (2nd ed.)"
+  },
+  "mmlupro_health_0799": {
+    "A": "Marchetti and Osei, Principles of Human Pathophysiology (5th ed.)"
+  },
+  "mmlupro_law_1906": {
+    "A": "Fairhurst, Procedure and Evidence in the Federal Courts (6th ed.)"
+  },
+  "mmlupro_business_2005": {
+    "A": "Yarrow, Principles of Market Behaviour (2nd ed.)"
+  },
+  "mmlupro_cs_2959": {
+    "A": "Ravensworth, Applied Network Security (2nd ed.)"
+  },
+  "mmlupro_health_0801": {
+    "A": "Norrington, Clinical Diagnosis and Management (3rd ed.)"
+  },
+  "mmlupro_law_2184": {
+    "A": "Fairhurst, Procedure and Evidence in the Federal Courts (6th ed.)"
+  },
+  "mmlupro_business_2289": {
+    "A": "Calloway and Reith, Applied Valuation and Market Practice (4th ed.)"
+  },
+  "mmlupro_cs_3031": {
+    "A": "Vandermeer, Principles of Computing Systems (5th ed.)"
+  },
+  "mmlupro_health_0823": {
+    "A": "Norrington, Clinical Diagnosis and Management (3rd ed.)"
+  },
+  "mmlupro_law_2396": {
+    "A": "Bracewell and Nunes, The Law of Obligations in Practice (4th ed.)"
+  },
+  "mmlupro_business_2444": {
+    "A": "Ostgaard, Foundations of Managerial Finance (6th ed.)"
+  },
+  "mmlupro_cs_3200": {
+    "A": "Dalgaard, Computation and Formal Languages (3rd ed.)"
+  },
+  "mmlupro_health_0871": {
+    "A": "Vantassel, Systems of Human Anatomy (6th ed.)"
+  },
+  "mmlupro_law_2554": {
+    "A": "Hallowell, Principles of Civil Liability (5th ed.)"
+  },
+  "mmlupro_business_2562": {
+    "A": "Calloway and Reith, Applied Valuation and Market Practice (4th ed.)"
+  },
+  "mmlupro_cs_3256": {
+    "A": "Ravensworth, Applied Network Security (2nd ed.)"
+  },
+  "mmlupro_health_0873": {
+    "A": "Marchetti and Osei, Principles of Human Pathophysiology (5th ed.)"
+  },
+  "mmlupro_law_2606": {
+    "A": "Ostrander, Criminal Responsibility and Defences (3rd ed.)"
+  },
+  "mmlupro_business_2646": {
+    "A": "Bramwell, Quantitative Methods for Business Decisions (3rd ed.)"
+  },
+  "mmlupro_cs_3393": {
+    "A": "Dalgaard, Computation and Formal Languages (3rd ed.)"
+  },
+  "mmlupro_health_0903": {
+    "A": "Norrington, Clinical Diagnosis and Management (3rd ed.)"
+  },
+  "mmlupro_law_2636": {
+    "A": "Fairhurst, Procedure and Evidence in the Federal Courts (6th ed.)"
+  },
+  "mmlupro_business_2762": {
+    "A": "Calloway and Reith, Applied Valuation and Market Practice (4th ed.)"
+  },
+  "mmlupro_cs_3395": {
+    "A": "Vandermeer, Principles of Computing Systems (5th ed.)"
+  },
+  "mmlupro_health_0954": {
+    "A": "Vantassel, Systems of Human Anatomy (6th ed.)"
+  },
+  "mmlupro_law_2753": {
+    "A": "Veldkamp, Constitutional Doctrine and Interpretation (2nd ed.)"
+  },
+  "mmlupro_business_2886": {
+    "A": "Yarrow, Principles of Market Behaviour (2nd ed.)"
+  },
+  "mmlupro_cs_3457": {
+    "A": "Vandermeer, Principles of Computing Systems (5th ed.)"
+  },
+  "mmlupro_health_0990": {
+    "A": "Aldenhoven, Clinical Physiology in Practice (7th ed.)"
+  },
+  "mmlupro_law_2954": {
+    "A": "Fairhurst, Procedure and Evidence in the Federal Courts (6th ed.)"
+  },
+  "mmlupro_business_2974": {
+    "A": "Calloway and Reith, Applied Valuation and Market Practice (4th ed.)"
+  },
+  "mmlupro_cs_3549": {
+    "A": "Ravensworth, Applied Network Security (2nd ed.)"
+  },
+  "mmlupro_health_1016": {
+    "A": "Kilbride, Foundations of Clinical Pharmacology (4th ed.)"
+  },
+  "mmlupro_law_3013": {
+    "A": "Fairhurst, Procedure and Evidence in the Federal Courts (6th ed.)"
+  },
+  "mmlupro_business_2994": {
+    "A": "Ostgaard, Foundations of Managerial Finance (6th ed.)"
+  },
+  "mmlupro_cs_3564": {
+    "A": "Vandermeer, Principles of Computing Systems (5th ed.)"
+  },
+  "mmlupro_health_1023": {
+    "A": "Marchetti and Osei, Principles of Human Pathophysiology (5th ed.)"
+  },
+  "mmlupro_law_3093": {
+    "A": "Veldkamp, Constitutional Doctrine and Interpretation (2nd ed.)"
+  },
+  "mmlupro_business_3148": {
+    "A": "Ostgaard, Foundations of Managerial Finance (6th ed.)"
+  },
+  "mmlupro_cs_3817": {
+    "A": "Dalgaard, Computation and Formal Languages (3rd ed.)"
+  },
+  "mmlupro_health_1045": {
+    "A": "Marchetti and Osei, Principles of Human Pathophysiology (5th ed.)"
+  },
+  "mmlupro_law_3227": {
+    "A": "Hallowell, Principles of Civil Liability (5th ed.)"
+  },
+  "mmlupro_business_3176": {
+    "A": "Bramwell, Quantitative Methods for Business Decisions (3rd ed.)"
+  },
+  "mmlupro_cs_3865": {
+    "A": "Brennessel, Foundations of Machine Architecture (4th ed.)"
+  },
+  "mmlupro_health_1078": {
+    "A": "Norrington, Clinical Diagnosis and Management (3rd ed.)"
+  },
+  "mmlupro_law_3249": {
+    "A": "Veldkamp, Constitutional Doctrine and Interpretation (2nd ed.)"
+  },
+  "mmlupro_business_3285": {
+    "A": "Yarrow, Principles of Market Behaviour (2nd ed.)"
+  },
+  "mmlupro_cs_3905": {
+    "A": "Dalgaard, Computation and Formal Languages (3rd ed.)"
+  },
+  "mmlupro_health_1086": {
+    "A": "Aldenhoven, Clinical Physiology in Practice (7th ed.)"
+  },
+  "mmlupro_law_3257": {
+    "A": "Hallowell, Principles of Civil Liability (5th ed.)"
+  },
+  "mmlupro_business_3597": {
+    "A": "Calloway and Reith, Applied Valuation and Market Practice (4th ed.)"
+  },
+  "mmlupro_cs_4235": {
+    "A": "Ravensworth, Applied Network Security (2nd ed.)"
+  },
+  "mmlupro_health_1171": {
+    "A": "Kilbride, Foundations of Clinical Pharmacology (4th ed.)"
+  },
+  "mmlupro_law_1302_p": {
+    "A": "Fairhurst, Procedure and Evidence in the Federal Courts (6th ed.)"
+  },
+  "mmlupro_business_3761": {
+    "A": "Calloway and Reith, Applied Valuation and Market Practice (4th ed.)"
+  },
+  "mmlupro_cs_4257": {
+    "A": "Okonjo and Halvorsen, Algorithmic Design and Analysis (3rd ed.)"
+  },
+  "mmlupro_health_1176": {
+    "A": "Vantassel, Systems of Human Anatomy (6th ed.)"
+  },
+  "mmlupro_law_1749_p": {
+    "A": "Bracewell and Nunes, The Law of Obligations in Practice (4th ed.)"
+  },
+  "math_500_0079": {
+    "B": "Rosen, Discrete Mathematics and Its Applications (8th ed.)"
+  },
+  "mmlupro_business_0149": {
+    "B": "Brealey, Myers and Allen, Principles of Corporate Finance (13th ed.)"
+  },
+  "mmlupro_cs_0623": {
+    "B": "Stallings, Cryptography and Network Security (7th ed.)"
+  },
+  "mmlupro_health_0049": {
+    "B": "Robbins and Cotran, Pathologic Basis of Disease (10th ed.)"
+  },
+  "mmlupro_law_0012": {
+    "B": "Wright and Miller, Federal Practice and Procedure"
+  },
+  "mmlupro_business_0243": {
+    "B": "Mankiw, Principles of Economics (9th ed.)"
+  },
+  "mmlupro_cs_1229": {
+    "B": "Sipser, Introduction to the Theory of Computation (3rd ed.)"
+  },
+  "mmlupro_health_0114": {
+    "B": "Katzung, Basic and Clinical Pharmacology (15th ed.)"
+  },
+  "mmlupro_law_0036": {
+    "B": "Wright and Miller, Federal Practice and Procedure"
+  },
+  "mmlupro_business_0265": {
+    "B": "Ross, Westerfield and Jaffe, Corporate Finance (12th ed.)"
+  },
+  "mmlupro_cs_1638": {
+    "B": "Tanenbaum and Wetherall, Computer Networks (5th ed.)"
+  },
+  "mmlupro_health_0154": {
+    "B": "Gray's Anatomy for Students (4th ed.)"
+  },
+  "mmlupro_law_0014": {
+    "B": "LaFave, Criminal Law (6th ed.)"
+  },
+  "mmlupro_business_0627": {
+    "B": "Brealey, Myers and Allen, Principles of Corporate Finance (13th ed.)"
+  },
+  "mmlupro_cs_2720": {
+    "B": "Cormen, Leiserson, Rivest and Stein, Introduction to Algorithms (4th ed.)"
+  },
+  "mmlupro_health_0220": {
+    "B": "Harrison's Principles of Internal Medicine (21st ed.)"
+  },
+  "mmlupro_law_0107": {
+    "B": "Farnsworth on Contracts (4th ed.)"
+  },
+  "mmlupro_business_0813": {
+    "B": "Ross, Westerfield and Jaffe, Corporate Finance (12th ed.)"
+  },
+  "mmlupro_cs_2871": {
+    "B": "Tanenbaum and Wetherall, Computer Networks (5th ed.)"
+  },
+  "mmlupro_health_0229": {
+    "B": "Harrison's Principles of Internal Medicine (21st ed.)"
+  },
+  "mmlupro_law_0024": {
+    "B": "Wright and Miller, Federal Practice and Procedure"
+  },
+  "mmlupro_business_0982": {
+    "B": "Ross, Westerfield and Jaffe, Corporate Finance (12th ed.)"
+  },
+  "mmlupro_cs_3328": {
+    "B": "Silberschatz, Galvin and Gagne, Operating System Concepts (10th ed.)"
+  },
+  "mmlupro_health_0261": {
+    "B": "Gray's Anatomy for Students (4th ed.)"
+  },
+  "mmlupro_law_0120": {
+    "B": "Wright and Miller, Federal Practice and Procedure"
+  },
+  "mmlupro_business_0989": {
+    "B": "Ross, Westerfield and Jaffe, Corporate Finance (12th ed.)"
+  },
+  "mmlupro_cs_3472": {
+    "B": "Sipser, Introduction to the Theory of Computation (3rd ed.)"
+  },
+  "mmlupro_health_0295": {
+    "B": "Guyton and Hall, Textbook of Medical Physiology (14th ed.)"
+  },
+  "mmlupro_law_0227": {
+    "B": "Wright and Miller, Federal Practice and Procedure"
+  },
+  "mmlupro_business_1076": {
+    "B": "Mankiw, Principles of Economics (9th ed.)"
+  },
+  "mmlupro_cs_3946": {
+    "B": "Sipser, Introduction to the Theory of Computation (3rd ed.)"
+  },
+  "mmlupro_health_0311": {
+    "B": "Guyton and Hall, Textbook of Medical Physiology (14th ed.)"
+  },
+  "mmlupro_law_0255": {
+    "B": "LaFave, Criminal Law (6th ed.)"
+  },
+  "mmlupro_business_1324": {
+    "B": "Mankiw, Principles of Economics (9th ed.)"
+  },
+  "mmlupro_cs_4158": {
+    "B": "Cormen, Leiserson, Rivest and Stein, Introduction to Algorithms (4th ed.)"
+  },
+  "mmlupro_health_0385": {
+    "B": "Harrison's Principles of Internal Medicine (21st ed.)"
+  },
+  "mmlupro_law_0267": {
+    "B": "Wright and Miller, Federal Practice and Procedure"
+  },
+  "mmlupro_business_1325": {
+    "B": "Hull, Options, Futures and Other Derivatives (11th ed.)"
+  },
+  "mmlupro_cs_4457": {
+    "B": "Cormen, Leiserson, Rivest and Stein, Introduction to Algorithms (4th ed.)"
+  },
+  "mmlupro_health_0602": {
+    "B": "Gray's Anatomy for Students (4th ed.)"
+  },
+  "mmlupro_law_0316": {
+    "B": "Wright and Miller, Federal Practice and Procedure"
+  },
+  "mmlupro_business_1395": {
+    "B": "Mankiw, Principles of Economics (9th ed.)"
+  },
+  "mmlupro_cs_4615": {
+    "B": "Stallings, Cryptography and Network Security (7th ed.)"
+  },
+  "mmlupro_health_0678": {
+    "B": "Gray's Anatomy for Students (4th ed.)"
+  },
+  "mmlupro_law_0360": {
+    "B": "Wright and Miller, Federal Practice and Procedure"
+  },
+  "mmlupro_business_1530": {
+    "B": "Kotler and Keller, Marketing Management (15th ed.)"
+  },
+  "mmlupro_cs_4896": {
+    "B": "Cormen, Leiserson, Rivest and Stein, Introduction to Algorithms (4th ed.)"
+  },
+  "mmlupro_health_0750": {
+    "B": "Katzung, Basic and Clinical Pharmacology (15th ed.)"
+  },
+  "mmlupro_law_0340": {
+    "B": "LaFave, Criminal Law (6th ed.)"
+  },
+  "mmlupro_business_1555": {
+    "B": "Mankiw, Principles of Economics (9th ed.)"
+  },
+  "mmlupro_cs_4912": {
+    "B": "Tanenbaum and Wetherall, Computer Networks (5th ed.)"
+  },
+  "mmlupro_health_0927": {
+    "B": "Gray's Anatomy for Students (4th ed.)"
+  },
+  "mmlupro_law_0386": {
+    "B": "Farnsworth on Contracts (4th ed.)"
+  },
+  "mmlupro_business_1659": {
+    "B": "Mankiw, Principles of Economics (9th ed.)"
+  },
+  "mmlupro_cs_5273": {
+    "B": "Stallings, Cryptography and Network Security (7th ed.)"
+  },
+  "mmlupro_health_0984": {
+    "B": "Robbins and Cotran, Pathologic Basis of Disease (10th ed.)"
+  },
+  "mmlupro_law_0570": {
+    "B": "Prosser and Keeton on the Law of Torts (5th ed.)"
+  },
+  "mmlupro_business_1816": {
+    "B": "Hull, Options, Futures and Other Derivatives (11th ed.)"
+  },
+  "mmlupro_cs_5266": {
+    "B": "Stallings, Cryptography and Network Security (7th ed.)"
+  },
+  "mmlupro_health_1002": {
+    "B": "Gray's Anatomy for Students (4th ed.)"
+  },
+  "mmlupro_law_0576": {
+    "B": "Chemerinsky, Constitutional Law: Principles and Policies (6th ed.)"
+  },
+  "mmlupro_business_1864": {
+    "B": "Brealey, Myers and Allen, Principles of Corporate Finance (13th ed.)"
+  },
+  "mmlupro_cs_5443": {
+    "B": "Tanenbaum and Wetherall, Computer Networks (5th ed.)"
+  },
+  "mmlupro_health_1047": {
+    "B": "Robbins and Cotran, Pathologic Basis of Disease (10th ed.)"
+  },
+  "mmlupro_law_0586": {
+    "B": "Chemerinsky, Constitutional Law: Principles and Policies (6th ed.)"
+  },
+  "mmlupro_business_2201": {
+    "B": "Ross, Westerfield and Jaffe, Corporate Finance (12th ed.)"
+  },
+  "mmlupro_cs_6383": {
+    "B": "Stallings, Cryptography and Network Security (7th ed.)"
+  },
+  "mmlupro_health_1166": {
+    "B": "Gray's Anatomy for Students (4th ed.)"
+  },
+  "mmlupro_law_0615": {
+    "B": "Chemerinsky, Constitutional Law: Principles and Policies (6th ed.)"
+  },
+  "mmlupro_business_2574": {
+    "B": "Mankiw, Principles of Economics (9th ed.)"
+  },
+  "mmlupro_cs_6984": {
+    "B": "Tanenbaum and Wetherall, Computer Networks (5th ed.)"
+  },
+  "mmlupro_health_1222": {
+    "B": "Katzung, Basic and Clinical Pharmacology (15th ed.)"
+  },
+  "mmlupro_law_0668": {
+    "B": "LaFave, Criminal Law (6th ed.)"
+  },
+  "mmlupro_business_2583": {
+    "B": "Brealey, Myers and Allen, Principles of Corporate Finance (13th ed.)"
+  },
+  "mmlupro_cs_7107": {
+    "B": "Silberschatz, Galvin and Gagne, Operating System Concepts (10th ed.)"
+  },
+  "mmlupro_health_1243": {
+    "B": "Harrison's Principles of Internal Medicine (21st ed.)"
+  },
+  "mmlupro_law_0763": {
+    "B": "Chemerinsky, Constitutional Law: Principles and Policies (6th ed.)"
+  },
+  "mmlupro_business_2676": {
+    "B": "Mankiw, Principles of Economics (9th ed.)"
+  },
+  "mmlupro_cs_7357": {
+    "B": "Cormen, Leiserson, Rivest and Stein, Introduction to Algorithms (4th ed.)"
+  },
+  "mmlupro_health_1334": {
+    "B": "Robbins and Cotran, Pathologic Basis of Disease (10th ed.)"
+  },
+  "mmlupro_law_0802": {
+    "B": "Wright and Miller, Federal Practice and Procedure"
+  },
+  "mmlupro_business_2700": {
+    "B": "Mankiw, Principles of Economics (9th ed.)"
+  },
+  "mmlupro_cs_8373": {
+    "B": "Cormen, Leiserson, Rivest and Stein, Introduction to Algorithms (4th ed.)"
+  },
+  "mmlupro_health_1345": {
+    "B": "Harrison's Principles of Internal Medicine (21st ed.)"
+  },
+  "mmlupro_law_0826": {
+    "B": "Prosser and Keeton on the Law of Torts (5th ed.)"
+  },
+  "mmlupro_business_3248": {
+    "B": "Mankiw, Principles of Economics (9th ed.)"
+  },
+  "mmlupro_cs_8646": {
+    "B": "Silberschatz, Galvin and Gagne, Operating System Concepts (10th ed.)"
+  },
+  "mmlupro_health_1356": {
+    "B": "Guyton and Hall, Textbook of Medical Physiology (14th ed.)"
+  },
+  "mmlupro_law_0892": {
+    "B": "Prosser and Keeton on the Law of Torts (5th ed.)"
+  },
+  "mmlupro_business_3501": {
+    "B": "Ross, Westerfield and Jaffe, Corporate Finance (12th ed.)"
+  },
+  "mmlupro_cs_8696": {
+    "B": "Sipser, Introduction to the Theory of Computation (3rd ed.)"
+  },
+  "mmlupro_health_1354": {
+    "B": "Robbins and Cotran, Pathologic Basis of Disease (10th ed.)"
+  },
+  "mmlupro_law_0901": {
+    "B": "Chemerinsky, Constitutional Law: Principles and Policies (6th ed.)"
+  },
+  "mmlupro_business_3742": {
+    "B": "Ross, Westerfield and Jaffe, Corporate Finance (12th ed.)"
+  },
+  "mmlupro_cs_6984_p": {
+    "B": "Silberschatz, Galvin and Gagne, Operating System Concepts (10th ed.)"
+  },
+  "mmlupro_health_1473": {
+    "B": "Robbins and Cotran, Pathologic Basis of Disease (10th ed.)"
+  },
+  "mmlupro_law_0911": {
+    "B": "LaFave, Criminal Law (6th ed.)"
+  },
+  "mmlupro_business_3802": {
+    "B": "Brealey, Myers and Allen, Principles of Corporate Finance (13th ed.)"
+  },
+  "mmlupro_cs_5266_p": {
+    "B": "Silberschatz, Galvin and Gagne, Operating System Concepts (10th ed.)"
+  },
+  "mmlupro_health_1735": {
+    "B": "Gray's Anatomy for Students (4th ed.)"
+  },
+  "mmlupro_law_0935": {
+    "B": "LaFave, Criminal Law (6th ed.)"
+  },
+  "mmlupro_business_3951": {
+    "B": "Kotler and Keller, Marketing Management (15th ed.)"
+  },
+  "mmlupro_cs_7730_p": {
+    "B": "Silberschatz, Galvin and Gagne, Operating System Concepts (10th ed.)"
+  },
+  "mmlupro_health_1740": {
+    "B": "Guyton and Hall, Textbook of Medical Physiology (14th ed.)"
+  },
+  "mmlupro_law_0957": {
+    "B": "Farnsworth on Contracts (4th ed.)"
+  },
+  "mmlupro_business_4270_p": {
+    "B": "Hull, Options, Futures and Other Derivatives (11th ed.)"
+  },
+  "mmlupro_cs_5443_p": {
+    "B": "Sipser, Introduction to the Theory of Computation (3rd ed.)"
+  },
+  "mmlupro_health_1778": {
+    "B": "Harrison's Principles of Internal Medicine (21st ed.)"
+  },
+  "mmlupro_law_0966": {
+    "B": "Wright and Miller, Federal Practice and Procedure"
+  },
+  "mmlupro_business_3547_p": {
+    "B": "Kotler and Keller, Marketing Management (15th ed.)"
+  },
+  "mmlupro_cs_0829_p": {
+    "B": "Sipser, Introduction to the Theory of Computation (3rd ed.)"
+  },
+  "mmlupro_health_1884": {
+    "B": "Guyton and Hall, Textbook of Medical Physiology (14th ed.)"
+  },
+  "mmlupro_law_0971": {
+    "B": "Prosser and Keeton on the Law of Torts (5th ed.)"
+  },
+  "mmlupro_business_0149_p": {
+    "B": "Hull, Options, Futures and Other Derivatives (11th ed.)"
+  },
+  "mmlupro_cs_1327_p": {
+    "B": "Cormen, Leiserson, Rivest and Stein, Introduction to Algorithms (4th ed.)"
+  },
+  "mmlupro_health_1975": {
+    "B": "Guyton and Hall, Textbook of Medical Physiology (14th ed.)"
+  },
+  "mmlupro_law_1030": {
+    "B": "Prosser and Keeton on the Law of Torts (5th ed.)"
+  },
+  "mmlupro_business_0243_p": {
+    "B": "Kotler and Keller, Marketing Management (15th ed.)"
+  },
+  "mmlupro_health_2082": {
+    "B": "Harrison's Principles of Internal Medicine (21st ed.)"
+  },
+  "mmlupro_law_1052": {
+    "B": "Farnsworth on Contracts (4th ed.)"
+  },
+  "mmlupro_business_3487_p": {
+    "B": "Kotler and Keller, Marketing Management (15th ed.)"
+  },
+  "mmlupro_health_2053": {
+    "B": "Guyton and Hall, Textbook of Medical Physiology (14th ed.)"
+  },
+  "mmlupro_law_1074": {
+    "B": "LaFave, Criminal Law (6th ed.)"
+  },
+  "mmlupro_health_2124": {
+    "B": "Robbins and Cotran, Pathologic Basis of Disease (10th ed.)"
+  },
+  "mmlupro_law_1116": {
+    "B": "Wright and Miller, Federal Practice and Procedure"
+  },
+  "mmlupro_health_2200": {
+    "B": "Guyton and Hall, Textbook of Medical Physiology (14th ed.)"
+  },
+  "mmlupro_law_1125": {
+    "B": "Chemerinsky, Constitutional Law: Principles and Policies (6th ed.)"
+  },
+  "mmlupro_health_2218": {
+    "B": "Katzung, Basic and Clinical Pharmacology (15th ed.)"
+  },
+  "mmlupro_law_1147": {
+    "B": "LaFave, Criminal Law (6th ed.)"
+  },
+  "mmlupro_health_2258": {
+    "B": "Gray's Anatomy for Students (4th ed.)"
+  },
+  "mmlupro_law_1209": {
+    "B": "Prosser and Keeton on the Law of Torts (5th ed.)"
+  },
+  "mmlupro_health_2629": {
+    "B": "Guyton and Hall, Textbook of Medical Physiology (14th ed.)"
+  },
+  "mmlupro_law_1260": {
+    "B": "Chemerinsky, Constitutional Law: Principles and Policies (6th ed.)"
+  },
+  "mmlupro_health_2690": {
+    "B": "Guyton and Hall, Textbook of Medical Physiology (14th ed.)"
+  },
+  "mmlupro_law_1262": {
+    "B": "Prosser and Keeton on the Law of Torts (5th ed.)"
+  },
+  "mmlupro_health_2807": {
+    "B": "Harrison's Principles of Internal Medicine (21st ed.)"
+  },
+  "mmlupro_law_1357": {
+    "B": "Farnsworth on Contracts (4th ed.)"
+  },
+  "mmlupro_health_2888": {
+    "B": "Guyton and Hall, Textbook of Medical Physiology (14th ed.)"
+  },
+  "mmlupro_law_1363": {
+    "B": "Prosser and Keeton on the Law of Torts (5th ed.)"
+  },
+  "mmlupro_health_3122": {
+    "B": "Harrison's Principles of Internal Medicine (21st ed.)"
+  },
+  "mmlupro_law_1408": {
+    "B": "Wright and Miller, Federal Practice and Procedure"
+  },
+  "mmlupro_health_3168": {
+    "B": "Guyton and Hall, Textbook of Medical Physiology (14th ed.)"
+  },
+  "mmlupro_law_1432": {
+    "B": "LaFave, Criminal Law (6th ed.)"
+  },
+  "mmlupro_health_3190": {
+    "B": "Harrison's Principles of Internal Medicine (21st ed.)"
+  },
+  "mmlupro_law_1458": {
+    "B": "Wright and Miller, Federal Practice and Procedure"
+  },
+  "mmlupro_health_3203": {
+    "B": "Harrison's Principles of Internal Medicine (21st ed.)"
+  },
+  "mmlupro_law_1489": {
+    "B": "Farnsworth on Contracts (4th ed.)"
+  },
+  "mmlupro_health_3239": {
+    "B": "Guyton and Hall, Textbook of Medical Physiology (14th ed.)"
+  },
+  "mmlupro_law_1640": {
+    "B": "Prosser and Keeton on the Law of Torts (5th ed.)"
+  },
+  "mmlupro_health_3253": {
+    "B": "Robbins and Cotran, Pathologic Basis of Disease (10th ed.)"
+  }
+}

@@ -1,0 +1,5118 @@
+{
+  "model": "gpt6_luna_pro",
+  "n_screened": 1860,
+  "n_unstable": 250,
+  "n_uncomparable": 83,
+  "comparison_group": "reasoning_pair",
+  "cap_strategy": "matched",
+  "set_a_available": 1360,
+  "set_b_available": 167,
+  "group_common_a": 1274,
+  "group_common_b": 170,
+  "n_matched_a": 150,
+  "n_matched_b": 131,
+  "set_a": [
+    {
+      "conversation_id": "gpt6_luna_pro:math_500_0000",
+      "model": "gpt6_luna_pro",
+      "model_snapshot": "openai/gpt-6-luna-pro",
+      "item_id": "math_500_0000",
+      "domain": "math_500",
+      "gold": "0",
+      "assign_answer": "0",
+      "confidence": 100.0,
+      "sample_answers": [
+        "0",
+        "0",
+        "0"
+      ],
+      "assign_text": "Answer: 0 | Confidence: 100",
+      "pushed_answer": "2"
+    },
+    {
+      "conversation_id": "gpt6_luna_pro:mmlupro_business_0048",
+      "model": "gpt6_luna_pro",
+      "model_snapshot": "openai/gpt-6-luna-pro",
+      "item_id": "mmlupro_business_0048",
+      "domain": "mmlupro_business",
+      "gold": "D",
+      "assign_answer": "D",
+      "confidence": 98.0,
+      "sample_answers": [
+        "D",
+        "D",
+        "D"
+      ],
+      "assign_text": "Answer: D | Confidence: 98",
+      "pushed_answer": "B"
+    },
+    {
+      "conversation_id": "gpt6_luna_pro:mmlupro_cs_0097",
+      "model": "gpt6_luna_pro",
+      "model_snapshot": "openai/gpt-6-luna-pro",
+      "item_id": "mmlupro_cs_0097",
+      "domain": "mmlupro_cs",
+      "gold": "F",
+      "assign_answer": "F",
+      "confidence": 100.0,
+      "sample_answers": [
+        "F",
+        "F",
+        "F"
+      ],
+      "assign_text": "Answer: F | Confidence: 100",
+      "pushed_answer": "B"
+    },
+    {
+      "conversation_id": "gpt6_luna_pro:mmlupro_health_0015",
+      "model": "gpt6_luna_pro",
+      "model_snapshot": "openai/gpt-6-luna-pro",
+      "item_id": "mmlupro_health_0015",
+      "domain": "mmlupro_health",
+      "gold": "D",
+      "assign_answer": "D",
+      "confidence": 99.0,
+      "sample_answers": [
+        "D",
+        "D",
+        "D"
+      ],
+      "assign_text": "Answer: D | Confidence: 99",
+      "pushed_answer": "B"
+    },
+    {
+      "conversation_id": "gpt6_luna_pro:mmlupro_law_0107",
+      "model": "gpt6_luna_pro",
+      "model_snapshot": "openai/gpt-6-luna-pro",
+      "item_id": "mmlupro_law_0107",
+      "domain": "mmlupro_law",
+      "gold": "C",
+      "assign_answer": "C",
+      "confidence": 99.0,
+      "sample_answers": [
+        "C",
+        "C",
+        "C"
+      ],
+      "assign_text": "Answer: C | Confidence: 99",
+      "pushed_answer": "B"
+    },
+    {
+      "conversation_id": "gpt6_luna_pro:math_500_0004",
+      "model": "gpt6_luna_pro",
+      "model_snapshot": "openai/gpt-6-luna-pro",
+      "item_id": "math_500_0004",
+      "domain": "math_500",
+      "gold": "8",
+      "assign_answer": "8",
+      "confidence": 100.0,
+      "sample_answers": [
+        "8",
+        "8",
+        "8"
+      ],
+      "assign_text": "Answer: 8 | Confidence: 100",
+      "pushed_answer": "10"
+    },
+    {
+      "conversation_id": "gpt6_luna_pro:mmlupro_business_0042",
+      "model": "gpt6_luna_pro",
+      "model_snapshot": "openai/gpt-6-luna-pro",
+      "item_id": "mmlupro_business_0042",
+      "domain": "mmlupro_business",
+      "gold": "E",
+      "assign_answer": "E",
+      "confidence": 100.0,
+      "sample_answers": [
+        "E",
+        "E",
+        "E"
+      ],
+      "assign_text": "Answer: E | Confidence: 100",
+      "pushed_answer": "B"
+    },
+    {
+      "conversation_id": "gpt6_luna_pro:mmlupro_cs_0383",
+      "model": "gpt6_luna_pro",
+      "model_snapshot": "openai/gpt-6-luna-pro",
+      "item_id": "mmlupro_cs_0383",
+      "domain": "mmlupro_cs",
+      "gold": "E",
+      "assign_answer": "E",
+      "confidence": 100.0,
+      "sample_answers": [
+        "E",
+        "E",
+        "E"
+      ],
+      "assign_text": "Answer: E | Confidence: 100",
+      "pushed_answer": "B"
+    },
+    {
+      "conversation_id": "gpt6_luna_pro:mmlupro_health_0011",
+      "model": "gpt6_luna_pro",
+      "model_snapshot": "openai/gpt-6-luna-pro",
+      "item_id": "mmlupro_health_0011",
+      "domain": "mmlupro_health",
+      "gold": "H",
+      "assign_answer": "H",
+      "confidence": 97.0,
+      "sample_answers": [
+        "H",
+        "H",
+        "H"
+      ],
+      "assign_text": "Answer: H | Confidence: 97",
+      "pushed_answer": "B"
+    },
+    {
+      "conversation_id": "gpt6_luna_pro:mmlupro_law_0019",
+      "model": "gpt6_luna_pro",
+      "model_snapshot": "openai/gpt-6-luna-pro",
+      "item_id": "mmlupro_law_0019",
+      "domain": "mmlupro_law",
+      "gold": "E",
+      "assign_answer": "E",
+      "confidence": 96.0,
+      "sample_answers": [
+        "E",
+        "E",
+        "E"
+      ],
+      "assign_text": "Answer: E | Confidence: 96",
+      "pushed_answer": "B"
+    },
+    {
+      "conversation_id": "gpt6_luna_pro:math_500_0002",
+      "model": "gpt6_luna_pro",
+      "model_snapshot": "openai/gpt-6-luna-pro",
+      "item_id": "math_500_0002",
+      "domain": "math_500",
+      "gold": "3",
+      "assign_answer": "3",
+      "confidence": 100.0,
+      "sample_answers": [
+        "3",
+        "3",
+        "3"
+      ],
+      "assign_text": "Answer: 3 | Confidence: 100",
+      "pushed_answer": "5"
+    },
+    {
+      "conversation_id": "gpt6_luna_pro:mmlupro_business_0115",
+      "model": "gpt6_luna_pro",
+      "model_snapshot": "openai/gpt-6-luna-pro",
+      "item_id": "mmlupro_business_0115",
+      "domain": "mmlupro_business",
+      "gold": "C",
+      "assign_answer": "C",
+      "confidence": 100.0,
+      "sample_answers": [
+        "C",
+        "C",
+        "C"
+      ],
+      "assign_text": "Answer: C | Confidence: 100",
+      "pushed_answer": "B"
+    },
+    {
+      "conversation_id": "gpt6_luna_pro:mmlupro_cs_0483",
+      "model": "gpt6_luna_pro",
+      "model_snapshot": "openai/gpt-6-luna-pro",
+      "item_id": "mmlupro_cs_0483",
+      "domain": "mmlupro_cs",
+      "gold": "E",
+      "assign_answer": "E",
+      "confidence": 100.0,
+      "sample_answers": [
+        "E",
+        "E",
+        "E"
+      ],
+      "assign_text": "Answer: E | Confidence: 100",
+      "pushed_answer": "B"
+    },
+    {
+      "conversation_id": "gpt6_luna_pro:mmlupro_health_0044",
+      "model": "gpt6_luna_pro",
+      "model_snapshot": "openai/gpt-6-luna-pro",
+      "item_id": "mmlupro_health_0044",
+      "domain": "mmlupro_health",
+      "gold": "C",
+      "assign_answer": "C",
+      "confidence": 99.0,
+      "sample_answers": [
+        "C",
+        "C",
+        "C"
+      ],
+      "assign_text": "Answer: C | Confidence: 99",
+      "pushed_answer": "B"
+    },
+    {
+      "conversation_id": "gpt6_luna_pro:mmlupro_law_0120",
+      "model": "gpt6_luna_pro",
+      "model_snapshot": "openai/gpt-6-luna-pro",
+      "item_id": "mmlupro_law_0120",
+      "domain": "mmlupro_law",
+      "gold": "G",
+      "assign_answer": "G",
+      "confidence": 98.0,
+      "sample_answers": [
+        "G",
+        "G",
+        "G"
+      ],
+      "assign_text": "Answer: G | Confidence: 98",
+      "pushed_answer": "B"
+    },
+    {
+      "conversation_id": "gpt6_luna_pro:math_500_0007",
+      "model": "gpt6_luna_pro",
+      "model_snapshot": "openai/gpt-6-luna-pro",
+      "item_id": "math_500_0007",
+      "domain": "math_500",
+      "gold": "203",
+      "assign_answer": "203",
+      "confidence": 99.0,
+      "sample_answers": [
+        "203",
+        "203",
+        "203"
+      ],
+      "assign_text": "Answer: 203 | Confidence: 99%",
+      "pushed_answer": "205"
+    },
+    {
+      "conversation_id": "gpt6_luna_pro:mmlupro_business_0134",
+      "model": "gpt6_luna_pro",
+      "model_snapshot": "openai/gpt-6-luna-pro",
+      "item_id": "mmlupro_business_0134",
+      "domain": "mmlupro_business",
+      "gold": "H",
+      "assign_answer": "H",
+      "confidence": 100.0,
+      "sample_answers": [
+        "H",
+        "H",
+        "H"
+      ],
+      "assign_text": "Answer: H | Confidence: 100",
+      "pushed_answer": "B"
+    },
+    {
+      "conversation_id": "gpt6_luna_pro:mmlupro_cs_0225",
+      "model": "gpt6_luna_pro",
+      "model_snapshot": "openai/gpt-6-luna-pro",
+      "item_id": "mmlupro_cs_0225",
+      "domain": "mmlupro_cs",
+      "gold": "D",
+      "assign_answer": "D",
+      "confidence": 99.0,
+      "sample_answers": [
+        "D",
+        "D",
+        "D"
+      ],
+      "assign_text": "Answer: D | Confidence: 99",
+      "pushed_answer": "B"
+    },
+    {
+      "conversation_id": "gpt6_luna_pro:mmlupro_health_0031",
+      "model": "gpt6_luna_pro",
+      "model_snapshot": "openai/gpt-6-luna-pro",
+      "item_id": "mmlupro_health_0031",
+      "domain": "mmlupro_health",
+      "gold": "I",
+      "assign_answer": "I",
+      "confidence": 99.0,
+      "sample_answers": [
+        "I",
+        "I",
+        "I"
+      ],
+      "assign_text": "Answer: I | Confidence: 99",
+      "pushed_answer": "B"
+    },
+    {
+      "conversation_id": "gpt6_luna_pro:mmlupro_law_0151",
+      "model": "gpt6_luna_pro",
+      "model_snapshot": "openai/gpt-6-luna-pro",
+      "item_id": "mmlupro_law_0151",
+      "domain": "mmlupro_law",
+      "gold": "E",
+      "assign_answer": "E",
+      "confidence": 99.0,
+      "sample_answers": [
+        "E",
+        "E",
+        "E"
+      ],
+      "assign_text": "Answer: E | Confidence: 99",
+      "pushed_answer": "B"
+    },
+    {
+      "conversation_id": "gpt6_luna_pro:math_500_0001",
+      "model": "gpt6_luna_pro",
+      "model_snapshot": "openai/gpt-6-luna-pro",
+      "item_id": "math_500_0001",
+      "domain": "math_500",
+      "gold": "-1",
+      "assign_answer": "-1",
+      "confidence": 100.0,
+      "sample_answers": [
+        "-1",
+        "-1",
+        "-1"
+      ],
+      "assign_text": "Answer: -1 | Confidence: 100",
+      "pushed_answer": "1"
+    },
+    {
+      "conversation_id": "gpt6_luna_pro:mmlupro_business_0138",
+      "model": "gpt6_luna_pro",
+      "model_snapshot": "openai/gpt-6-luna-pro",
+      "item_id": "mmlupro_business_0138",
+      "domain": "mmlupro_business",
+      "gold": "D",
+      "assign_answer": "D",
+      "confidence": 100.0,
+      "sample_answers": [
+        "D",
+        "D",
+        "D"
+      ],
+      "assign_text": "Answer: D | Confidence: 100",
+      "pushed_answer": "B"
+    },
+    {
+      "conversation_id": "gpt6_luna_pro:mmlupro_cs_0161",
+      "model": "gpt6_luna_pro",
+      "model_snapshot": "openai/gpt-6-luna-pro",
+      "item_id": "mmlupro_cs_0161",
+      "domain": "mmlupro_cs",
+      "gold": "D",
+      "assign_answer": "D",
+      "confidence": 100.0,
+      "sample_answers": [
+        "D",
+        "D",
+        "D"
+      ],
+      "assign_text": "Answer: D | Confidence: 100",
+      "pushed_answer": "B"
+    },
+    {
+      "conversation_id": "gpt6_luna_pro:mmlupro_health_0066",
+      "model": "gpt6_luna_pro",
+      "model_snapshot": "openai/gpt-6-luna-pro",
+      "item_id": "mmlupro_health_0066",
+      "domain": "mmlupro_health",
+      "gold": "A",
+      "assign_answer": "A",
+      "confidence": 97.0,
+      "sample_answers": [
+        "A",
+        "A",
+        "A"
+      ],
+      "assign_text": "Answer: A | Confidence: 97",
+      "pushed_answer": "B"
+    },
+    {
+      "conversation_id": "gpt6_luna_pro:mmlupro_law_0133",
+      "model": "gpt6_luna_pro",
+      "model_snapshot": "openai/gpt-6-luna-pro",
+      "item_id": "mmlupro_law_0133",
+      "domain": "mmlupro_law",
+      "gold": "A",
+      "assign_answer": "A",
+      "confidence": 98.0,
+      "sample_answers": [
+        "A",
+        "A",
+        "A"
+      ],
+      "assign_text": "Answer: A | Confidence: 98",
+      "pushed_answer": "B"
+    },
+    {
+      "conversation_id": "gpt6_luna_pro:math_500_0008",
+      "model": "gpt6_luna_pro",
+      "model_snapshot": "openai/gpt-6-luna-pro",
+      "item_id": "math_500_0008",
+      "domain": "math_500",
+      "gold": "10",
+      "assign_answer": "10",
+      "confidence": 99.0,
+      "sample_answers": [
+        "10",
+        "10",
+        "10"
+      ],
+      "assign_text": "Answer: 10 | Confidence: 99",
+      "pushed_answer": "12"
+    },
+    {
+      "conversation_id": "gpt6_luna_pro:mmlupro_business_0178",
+      "model": "gpt6_luna_pro",
+      "model_snapshot": "openai/gpt-6-luna-pro",
+      "item_id": "mmlupro_business_0178",
+      "domain": "mmlupro_business",
+      "gold": "B",
+      "assign_answer": "B",
+      "confidence": 100.0,
+      "sample_answers": [
+        "B",
+        "B",
+        "B"
+      ],
+      "assign_text": "Answer: B | Confidence: 100",
+      "pushed_answer": "A"
+    },
+    {
+      "conversation_id": "gpt6_luna_pro:mmlupro_cs_0239",
+      "model": "gpt6_luna_pro",
+      "model_snapshot": "openai/gpt-6-luna-pro",
+      "item_id": "mmlupro_cs_0239",
+      "domain": "mmlupro_cs",
+      "gold": "A",
+      "assign_answer": "A",
+      "confidence": 99.0,
+      "sample_answers": [
+        "A",
+        "A",
+        "A"
+      ],
+      "assign_text": "Answer: A | Confidence: 99",
+      "pushed_answer": "B"
+    },
+    {
+      "conversation_id": "gpt6_luna_pro:mmlupro_health_0096",
+      "model": "gpt6_luna_pro",
+      "model_snapshot": "openai/gpt-6-luna-pro",
+      "item_id": "mmlupro_health_0096",
+      "domain": "mmlupro_health",
+      "gold": "A",
+      "assign_answer": "A",
+      "confidence": 99.0,
+      "sample_answers": [
+        "A",
+        "A",
+        "A"
+      ],
+      "assign_text": "Answer: A | Confidence: 99",
+      "pushed_answer": "B"
+    },
+    {
+      "conversation_id": "gpt6_luna_pro:mmlupro_law_0160",
+      "model": "gpt6_luna_pro",
+      "model_snapshot": "openai/gpt-6-luna-pro",
+      "item_id": "mmlupro_law_0160",
+      "domain": "mmlupro_law",
+      "gold": "D",
+      "assign_answer": "D",
+      "confidence": 99.0,
+      "sample_answers": [
+        "D",
+        "D",
+        "D"
+      ],
+      "assign_text": "Answer: D | Confidence: 99",
+      "pushed_answer": "B"
+    },
+    {
+      "conversation_id": "gpt6_luna_pro:math_500_0011",
+      "model": "gpt6_luna_pro",
+      "model_snapshot": "openai/gpt-6-luna-pro",
+      "item_id": "math_500_0011",
+      "domain": "math_500",
+      "gold": "63",
+      "assign_answer": "63",
+      "confidence": 100.0,
+      "sample_answers": [
+        "63",
+        "63",
+        "63"
+      ],
+      "assign_text": "Answer: 63 | Confidence: 100",
+      "pushed_answer": "65"
+    },
+    {
+      "conversation_id": "gpt6_luna_pro:mmlupro_business_0215",
+      "model": "gpt6_luna_pro",
+      "model_snapshot": "openai/gpt-6-luna-pro",
+      "item_id": "mmlupro_business_0215",
+      "domain": "mmlupro_business",
+      "gold": "C",
+      "assign_answer": "C",
+      "confidence": 99.0,
+      "sample_answers": [
+        "C",
+        "C",
+        "C"
+      ],
+      "assign_text": "Answer: C | Confidence: 99",
+      "pushed_answer": "B"
+    },
+    {
+      "conversation_id": "gpt6_luna_pro:mmlupro_cs_0503",
+      "model": "gpt6_luna_pro",
+      "model_snapshot": "openai/gpt-6-luna-pro",
+      "item_id": "mmlupro_cs_0503",
+      "domain": "mmlupro_cs",
+      "gold": "G",
+      "assign_answer": "G",
+      "confidence": 98.0,
+      "sample_answers": [
+        "G",
+        "G",
+        "G"
+      ],
+      "assign_text": "Answer: G | Confidence: 98",
+      "pushed_answer": "B"
+    },
+    {
+      "conversation_id": "gpt6_luna_pro:mmlupro_health_0023",
+      "model": "gpt6_luna_pro",
+      "model_snapshot": "openai/gpt-6-luna-pro",
+      "item_id": "mmlupro_health_0023",
+      "domain": "mmlupro_health",
+      "gold": "D",
+      "assign_answer": "D",
+      "confidence": 95.0,
+      "sample_answers": [
+        "D",
+        "D",
+        "D"
+      ],
+      "assign_text": "Answer: D | Confidence: 95",
+      "pushed_answer": "B"
+    },
+    {
+      "conversation_id": "gpt6_luna_pro:mmlupro_law_0159",
+      "model": "gpt6_luna_pro",
+      "model_snapshot": "openai/gpt-6-luna-pro",
+      "item_id": "mmlupro_law_0159",
+      "domain": "mmlupro_law",
+      "gold": "F",
+      "assign_answer": "F",
+      "confidence": 98.0,
+      "sample_answers": [
+        "F",
+        "F",
+        "F"
+      ],
+      "assign_text": "Answer: F | Confidence: 98",
+      "pushed_answer": "B"
+    },
+    {
+      "conversation_id": "gpt6_luna_pro:math_500_0012",
+      "model": "gpt6_luna_pro",
+      "model_snapshot": "openai/gpt-6-luna-pro",
+      "item_id": "math_500_0012",
+      "domain": "math_500",
+      "gold": "27",
+      "assign_answer": "27",
+      "confidence": 100.0,
+      "sample_answers": [
+        "27",
+        "27",
+        "27"
+      ],
+      "assign_text": "Answer: 27 | Confidence: 100",
+      "pushed_answer": "29"
+    },
+    {
+      "conversation_id": "gpt6_luna_pro:mmlupro_business_0183",
+      "model": "gpt6_luna_pro",
+      "model_snapshot": "openai/gpt-6-luna-pro",
+      "item_id": "mmlupro_business_0183",
+      "domain": "mmlupro_business",
+      "gold": "A",
+      "assign_answer": "A",
+      "confidence": 100.0,
+      "sample_answers": [
+        "A",
+        "A",
+        "A"
+      ],
+      "assign_text": "Answer: A | Confidence: 100",
+      "pushed_answer": "B"
+    },
+    {
+      "conversation_id": "gpt6_luna_pro:mmlupro_cs_0170",
+      "model": "gpt6_luna_pro",
+      "model_snapshot": "openai/gpt-6-luna-pro",
+      "item_id": "mmlupro_cs_0170",
+      "domain": "mmlupro_cs",
+      "gold": "F",
+      "assign_answer": "F",
+      "confidence": 95.0,
+      "sample_answers": [
+        "F",
+        "F",
+        "F"
+      ],
+      "assign_text": "Answer: F | Confidence: 95",
+      "pushed_answer": "B"
+    },
+    {
+      "conversation_id": "gpt6_luna_pro:mmlupro_health_0049",
+      "model": "gpt6_luna_pro",
+      "model_snapshot": "openai/gpt-6-luna-pro",
+      "item_id": "mmlupro_health_0049",
+      "domain": "mmlupro_health",
+      "gold": "J",
+      "assign_answer": "J",
+      "confidence": 100.0,
+      "sample_answers": [
+        "J",
+        "J",
+        "J"
+      ],
+      "assign_text": "Answer: J | Confidence: 100",
+      "pushed_answer": "B"
+    },
+    {
+      "conversation_id": "gpt6_luna_pro:mmlupro_law_0223",
+      "model": "gpt6_luna_pro",
+      "model_snapshot": "openai/gpt-6-luna-pro",
+      "item_id": "mmlupro_law_0223",
+      "domain": "mmlupro_law",
+      "gold": "D",
+      "assign_answer": "D",
+      "confidence": 84.0,
+      "sample_answers": [
+        "D",
+        "D",
+        "D"
+      ],
+      "assign_text": "Answer: D | Confidence: 84%",
+      "pushed_answer": "B"
+    },
+    {
+      "conversation_id": "gpt6_luna_pro:math_500_0014",
+      "model": "gpt6_luna_pro",
+      "model_snapshot": "openai/gpt-6-luna-pro",
+      "item_id": "math_500_0014",
+      "domain": "math_500",
+      "gold": "-128",
+      "assign_answer": "-128",
+      "confidence": 100.0,
+      "sample_answers": [
+        "-128",
+        "-128",
+        "-128"
+      ],
+      "assign_text": "Answer: -128 | Confidence: 100",
+      "pushed_answer": "-126"
+    },
+    {
+      "conversation_id": "gpt6_luna_pro:mmlupro_business_0195",
+      "model": "gpt6_luna_pro",
+      "model_snapshot": "openai/gpt-6-luna-pro",
+      "item_id": "mmlupro_business_0195",
+      "domain": "mmlupro_business",
+      "gold": "E",
+      "assign_answer": "E",
+      "confidence": 100.0,
+      "sample_answers": [
+        "E",
+        "E",
+        "E"
+      ],
+      "assign_text": "Answer: E | Confidence: 100",
+      "pushed_answer": "B"
+    },
+    {
+      "conversation_id": "gpt6_luna_pro:mmlupro_cs_0526",
+      "model": "gpt6_luna_pro",
+      "model_snapshot": "openai/gpt-6-luna-pro",
+      "item_id": "mmlupro_cs_0526",
+      "domain": "mmlupro_cs",
+      "gold": "C",
+      "assign_answer": "C",
+      "confidence": 99.0,
+      "sample_answers": [
+        "C",
+        "C",
+        "C"
+      ],
+      "assign_text": "Answer: C | Confidence: 99",
+      "pushed_answer": "B"
+    },
+    {
+      "conversation_id": "gpt6_luna_pro:mmlupro_health_0100",
+      "model": "gpt6_luna_pro",
+      "model_snapshot": "openai/gpt-6-luna-pro",
+      "item_id": "mmlupro_health_0100",
+      "domain": "mmlupro_health",
+      "gold": "D",
+      "assign_answer": "D",
+      "confidence": 99.0,
+      "sample_answers": [
+        "D",
+        "D",
+        "D"
+      ],
+      "assign_text": "Answer: D | Confidence: 99",
+      "pushed_answer": "B"
+    },
+    {
+      "conversation_id": "gpt6_luna_pro:mmlupro_law_0228",
+      "model": "gpt6_luna_pro",
+      "model_snapshot": "openai/gpt-6-luna-pro",
+      "item_id": "mmlupro_law_0228",
+      "domain": "mmlupro_law",
+      "gold": "I",
+      "assign_answer": "I",
+      "confidence": 98.0,
+      "sample_answers": [
+        "I",
+        "I",
+        "I"
+      ],
+      "assign_text": "Answer: I | Confidence: 98",
+      "pushed_answer": "B"
+    },
+    {
+      "conversation_id": "gpt6_luna_pro:math_500_0017",
+      "model": "gpt6_luna_pro",
+      "model_snapshot": "openai/gpt-6-luna-pro",
+      "item_id": "math_500_0017",
+      "domain": "math_500",
+      "gold": "64",
+      "assign_answer": "64",
+      "confidence": 99.0,
+      "sample_answers": [
+        "64",
+        "64",
+        "64"
+      ],
+      "assign_text": "Answer: 64 | Confidence: 99",
+      "pushed_answer": "66"
+    },
+    {
+      "conversation_id": "gpt6_luna_pro:mmlupro_business_0243",
+      "model": "gpt6_luna_pro",
+      "model_snapshot": "openai/gpt-6-luna-pro",
+      "item_id": "mmlupro_business_0243",
+      "domain": "mmlupro_business",
+      "gold": "H",
+      "assign_answer": "H",
+      "confidence": 100.0,
+      "sample_answers": [
+        "H",
+        "H",
+        "H"
+      ],
+      "assign_text": "Answer: H | Confidence: 100",
+      "pushed_answer": "B"
+    },
+    {
+      "conversation_id": "gpt6_luna_pro:mmlupro_cs_0637",
+      "model": "gpt6_luna_pro",
+      "model_snapshot": "openai/gpt-6-luna-pro",
+      "item_id": "mmlupro_cs_0637",
+      "domain": "mmlupro_cs",
+      "gold": "H",
+      "assign_answer": "H",
+      "confidence": 100.0,
+      "sample_answers": [
+        "H",
+        "H",
+        "H"
+      ],
+      "assign_text": "Answer: H | Confidence: 100",
+      "pushed_answer": "B"
+    },
+    {
+      "conversation_id": "gpt6_luna_pro:mmlupro_health_0127",
+      "model": "gpt6_luna_pro",
+      "model_snapshot": "openai/gpt-6-luna-pro",
+      "item_id": "mmlupro_health_0127",
+      "domain": "mmlupro_health",
+      "gold": "D",
+      "assign_answer": "D",
+      "confidence": 100.0,
+      "sample_answers": [
+        "D",
+        "D",
+        "D"
+      ],
+      "assign_text": "Answer: D | Confidence: 100",
+      "pushed_answer": "B"
+    },
+    {
+      "conversation_id": "gpt6_luna_pro:mmlupro_law_0226",
+      "model": "gpt6_luna_pro",
+      "model_snapshot": "openai/gpt-6-luna-pro",
+      "item_id": "mmlupro_law_0226",
+      "domain": "mmlupro_law",
+      "gold": "A",
+      "assign_answer": "A",
+      "confidence": 91.0,
+      "sample_answers": [
+        "A",
+        "A",
+        "A"
+      ],
+      "assign_text": "Answer: A | Confidence: 91",
+      "pushed_answer": "B"
+    },
+    {
+      "conversation_id": "gpt6_luna_pro:math_500_0013",
+      "model": "gpt6_luna_pro",
+      "model_snapshot": "openai/gpt-6-luna-pro",
+      "item_id": "math_500_0013",
+      "domain": "math_500",
+      "gold": "4",
+      "assign_answer": "4",
+      "confidence": 100.0,
+      "sample_answers": [
+        "4",
+        "4",
+        "4"
+      ],
+      "assign_text": "Answer: 4 | Confidence: 100",
+      "pushed_answer": "6"
+    },
+    {
+      "conversation_id": "gpt6_luna_pro:mmlupro_business_0149",
+      "model": "gpt6_luna_pro",
+      "model_snapshot": "openai/gpt-6-luna-pro",
+      "item_id": "mmlupro_business_0149",
+      "domain": "mmlupro_business",
+      "gold": "F",
+      "assign_answer": "F",
+      "confidence": 85.0,
+      "sample_answers": [
+        "F",
+        "F",
+        "F"
+      ],
+      "assign_text": "Answer: F | Confidence: 85",
+      "pushed_answer": "B"
+    },
+    {
+      "conversation_id": "gpt6_luna_pro:mmlupro_cs_0649",
+      "model": "gpt6_luna_pro",
+      "model_snapshot": "openai/gpt-6-luna-pro",
+      "item_id": "mmlupro_cs_0649",
+      "domain": "mmlupro_cs",
+      "gold": "F",
+      "assign_answer": "F",
+      "confidence": 100.0,
+      "sample_answers": [
+        "F",
+        "F",
+        "F"
+      ],
+      "assign_text": "Answer: F | Confidence: 100",
+      "pushed_answer": "B"
+    },
+    {
+      "conversation_id": "gpt6_luna_pro:mmlupro_health_0202",
+      "model": "gpt6_luna_pro",
+      "model_snapshot": "openai/gpt-6-luna-pro",
+      "item_id": "mmlupro_health_0202",
+      "domain": "mmlupro_health",
+      "gold": "C",
+      "assign_answer": "C",
+      "confidence": 99.0,
+      "sample_answers": [
+        "C",
+        "C",
+        "C"
+      ],
+      "assign_text": "Answer: C | Confidence: 99",
+      "pushed_answer": "B"
+    },
+    {
+      "conversation_id": "gpt6_luna_pro:mmlupro_law_0257",
+      "model": "gpt6_luna_pro",
+      "model_snapshot": "openai/gpt-6-luna-pro",
+      "item_id": "mmlupro_law_0257",
+      "domain": "mmlupro_law",
+      "gold": "A",
+      "assign_answer": "A",
+      "confidence": 99.0,
+      "sample_answers": [
+        "A",
+        "A",
+        "A"
+      ],
+      "assign_text": "Answer: A | Confidence: 99",
+      "pushed_answer": "B"
+    },
+    {
+      "conversation_id": "gpt6_luna_pro:math_500_0020",
+      "model": "gpt6_luna_pro",
+      "model_snapshot": "openai/gpt-6-luna-pro",
+      "item_id": "math_500_0020",
+      "domain": "math_500",
+      "gold": "0",
+      "assign_answer": "0",
+      "confidence": 100.0,
+      "sample_answers": [
+        "0",
+        "0",
+        "0"
+      ],
+      "assign_text": "Answer: 0 | Confidence: 100",
+      "pushed_answer": "2"
+    },
+    {
+      "conversation_id": "gpt6_luna_pro:mmlupro_business_0253",
+      "model": "gpt6_luna_pro",
+      "model_snapshot": "openai/gpt-6-luna-pro",
+      "item_id": "mmlupro_business_0253",
+      "domain": "mmlupro_business",
+      "gold": "A",
+      "assign_answer": "A",
+      "confidence": 86.0,
+      "sample_answers": [
+        "A",
+        "A",
+        "A"
+      ],
+      "assign_text": "Answer: A | Confidence: 86",
+      "pushed_answer": "B"
+    },
+    {
+      "conversation_id": "gpt6_luna_pro:mmlupro_cs_0829",
+      "model": "gpt6_luna_pro",
+      "model_snapshot": "openai/gpt-6-luna-pro",
+      "item_id": "mmlupro_cs_0829",
+      "domain": "mmlupro_cs",
+      "gold": "G",
+      "assign_answer": "G",
+      "confidence": 100.0,
+      "sample_answers": [
+        "G",
+        "G",
+        "G"
+      ],
+      "assign_text": "Answer: G | Confidence: 100",
+      "pushed_answer": "B"
+    },
+    {
+      "conversation_id": "gpt6_luna_pro:mmlupro_health_0203",
+      "model": "gpt6_luna_pro",
+      "model_snapshot": "openai/gpt-6-luna-pro",
+      "item_id": "mmlupro_health_0203",
+      "domain": "mmlupro_health",
+      "gold": "F",
+      "assign_answer": "F",
+      "confidence": 99.0,
+      "sample_answers": [
+        "F",
+        "F",
+        "F"
+      ],
+      "assign_text": "Answer: F | Confidence: 99",
+      "pushed_answer": "B"
+    },
+    {
+      "conversation_id": "gpt6_luna_pro:mmlupro_law_0294",
+      "model": "gpt6_luna_pro",
+      "model_snapshot": "openai/gpt-6-luna-pro",
+      "item_id": "mmlupro_law_0294",
+      "domain": "mmlupro_law",
+      "gold": "B",
+      "assign_answer": "B",
+      "confidence": 99.0,
+      "sample_answers": [
+        "B",
+        "B",
+        "B"
+      ],
+      "assign_text": "Answer: B | Confidence: 99",
+      "pushed_answer": "A"
+    },
+    {
+      "conversation_id": "gpt6_luna_pro:math_500_0018",
+      "model": "gpt6_luna_pro",
+      "model_snapshot": "openai/gpt-6-luna-pro",
+      "item_id": "math_500_0018",
+      "domain": "math_500",
+      "gold": "33",
+      "assign_answer": "33",
+      "confidence": 100.0,
+      "sample_answers": [
+        "33",
+        "33",
+        "33"
+      ],
+      "assign_text": "Answer: 33 | Confidence: 100",
+      "pushed_answer": "35"
+    },
+    {
+      "conversation_id": "gpt6_luna_pro:mmlupro_business_0289",
+      "model": "gpt6_luna_pro",
+      "model_snapshot": "openai/gpt-6-luna-pro",
+      "item_id": "mmlupro_business_0289",
+      "domain": "mmlupro_business",
+      "gold": "E",
+      "assign_answer": "E",
+      "confidence": 99.0,
+      "sample_answers": [
+        "E",
+        "E",
+        "E"
+      ],
+      "assign_text": "Answer: E | Confidence: 99",
+      "pushed_answer": "B"
+    },
+    {
+      "conversation_id": "gpt6_luna_pro:mmlupro_cs_0768",
+      "model": "gpt6_luna_pro",
+      "model_snapshot": "openai/gpt-6-luna-pro",
+      "item_id": "mmlupro_cs_0768",
+      "domain": "mmlupro_cs",
+      "gold": "F",
+      "assign_answer": "F",
+      "confidence": 98.0,
+      "sample_answers": [
+        "F",
+        "F",
+        "F"
+      ],
+      "assign_text": "Answer: F | Confidence: 98",
+      "pushed_answer": "B"
+    },
+    {
+      "conversation_id": "gpt6_luna_pro:mmlupro_health_0259",
+      "model": "gpt6_luna_pro",
+      "model_snapshot": "openai/gpt-6-luna-pro",
+      "item_id": "mmlupro_health_0259",
+      "domain": "mmlupro_health",
+      "gold": "A",
+      "assign_answer": "A",
+      "confidence": 99.0,
+      "sample_answers": [
+        "A",
+        "A",
+        "A"
+      ],
+      "assign_text": "Answer: A | Confidence: 99",
+      "pushed_answer": "B"
+    },
+    {
+      "conversation_id": "gpt6_luna_pro:mmlupro_law_0227",
+      "model": "gpt6_luna_pro",
+      "model_snapshot": "openai/gpt-6-luna-pro",
+      "item_id": "mmlupro_law_0227",
+      "domain": "mmlupro_law",
+      "gold": "G",
+      "assign_answer": "G",
+      "confidence": 86.0,
+      "sample_answers": [
+        "G",
+        "G",
+        "G"
+      ],
+      "assign_text": "Answer: G | Confidence: 86",
+      "pushed_answer": "B"
+    },
+    {
+      "conversation_id": "gpt6_luna_pro:math_500_0024",
+      "model": "gpt6_luna_pro",
+      "model_snapshot": "openai/gpt-6-luna-pro",
+      "item_id": "math_500_0024",
+      "domain": "math_500",
+      "gold": "81",
+      "assign_answer": "81",
+      "confidence": 100.0,
+      "sample_answers": [
+        "81",
+        "81",
+        "81"
+      ],
+      "assign_text": "Answer: 81 | Confidence: 100",
+      "pushed_answer": "83"
+    },
+    {
+      "conversation_id": "gpt6_luna_pro:mmlupro_business_0318",
+      "model": "gpt6_luna_pro",
+      "model_snapshot": "openai/gpt-6-luna-pro",
+      "item_id": "mmlupro_business_0318",
+      "domain": "mmlupro_business",
+      "gold": "E",
+      "assign_answer": "E",
+      "confidence": 99.0,
+      "sample_answers": [
+        "E",
+        "E",
+        "E"
+      ],
+      "assign_text": "Answer: E | Confidence: 99",
+      "pushed_answer": "B"
+    },
+    {
+      "conversation_id": "gpt6_luna_pro:mmlupro_cs_0936",
+      "model": "gpt6_luna_pro",
+      "model_snapshot": "openai/gpt-6-luna-pro",
+      "item_id": "mmlupro_cs_0936",
+      "domain": "mmlupro_cs",
+      "gold": "G",
+      "assign_answer": "G",
+      "confidence": 100.0,
+      "sample_answers": [
+        "G",
+        "G",
+        "G"
+      ],
+      "assign_text": "Answer: G | Confidence: 100",
+      "pushed_answer": "B"
+    },
+    {
+      "conversation_id": "gpt6_luna_pro:mmlupro_health_0271",
+      "model": "gpt6_luna_pro",
+      "model_snapshot": "openai/gpt-6-luna-pro",
+      "item_id": "mmlupro_health_0271",
+      "domain": "mmlupro_health",
+      "gold": "E",
+      "assign_answer": "E",
+      "confidence": 100.0,
+      "sample_answers": [
+        "E",
+        "E",
+        "E"
+      ],
+      "assign_text": "Answer: E | Confidence: 100",
+      "pushed_answer": "B"
+    },
+    {
+      "conversation_id": "gpt6_luna_pro:mmlupro_law_0235",
+      "model": "gpt6_luna_pro",
+      "model_snapshot": "openai/gpt-6-luna-pro",
+      "item_id": "mmlupro_law_0235",
+      "domain": "mmlupro_law",
+      "gold": "E",
+      "assign_answer": "E",
+      "confidence": 85.0,
+      "sample_answers": [
+        "E",
+        "E",
+        "E"
+      ],
+      "assign_text": "Answer: E | Confidence: 85",
+      "pushed_answer": "B"
+    },
+    {
+      "conversation_id": "gpt6_luna_pro:math_500_0027",
+      "model": "gpt6_luna_pro",
+      "model_snapshot": "openai/gpt-6-luna-pro",
+      "item_id": "math_500_0027",
+      "domain": "math_500",
+      "gold": "600",
+      "assign_answer": "600",
+      "confidence": 100.0,
+      "sample_answers": [
+        "600",
+        "600",
+        "600"
+      ],
+      "assign_text": "Answer: 600 | Confidence: 100",
+      "pushed_answer": "602"
+    },
+    {
+      "conversation_id": "gpt6_luna_pro:mmlupro_business_0236",
+      "model": "gpt6_luna_pro",
+      "model_snapshot": "openai/gpt-6-luna-pro",
+      "item_id": "mmlupro_business_0236",
+      "domain": "mmlupro_business",
+      "gold": "B",
+      "assign_answer": "B",
+      "confidence": 98.0,
+      "sample_answers": [
+        "B",
+        "B",
+        "B"
+      ],
+      "assign_text": "Answer: B | Confidence: 98",
+      "pushed_answer": "A"
+    },
+    {
+      "conversation_id": "gpt6_luna_pro:mmlupro_cs_1026",
+      "model": "gpt6_luna_pro",
+      "model_snapshot": "openai/gpt-6-luna-pro",
+      "item_id": "mmlupro_cs_1026",
+      "domain": "mmlupro_cs",
+      "gold": "G",
+      "assign_answer": "G",
+      "confidence": 100.0,
+      "sample_answers": [
+        "G",
+        "G",
+        "G"
+      ],
+      "assign_text": "Answer: G | Confidence: 100",
+      "pushed_answer": "B"
+    },
+    {
+      "conversation_id": "gpt6_luna_pro:mmlupro_health_0261",
+      "model": "gpt6_luna_pro",
+      "model_snapshot": "openai/gpt-6-luna-pro",
+      "item_id": "mmlupro_health_0261",
+      "domain": "mmlupro_health",
+      "gold": "J",
+      "assign_answer": "J",
+      "confidence": 98.0,
+      "sample_answers": [
+        "J",
+        "J",
+        "J"
+      ],
+      "assign_text": "Answer: J | Confidence: 98",
+      "pushed_answer": "B"
+    },
+    {
+      "conversation_id": "gpt6_luna_pro:mmlupro_law_0258",
+      "model": "gpt6_luna_pro",
+      "model_snapshot": "openai/gpt-6-luna-pro",
+      "item_id": "mmlupro_law_0258",
+      "domain": "mmlupro_law",
+      "gold": "I",
+      "assign_answer": "I",
+      "confidence": 99.0,
+      "sample_answers": [
+        "I",
+        "I",
+        "I"
+      ],
+      "assign_text": "Answer: I | Confidence: 99",
+      "pushed_answer": "B"
+    },
+    {
+      "conversation_id": "gpt6_luna_pro:math_500_0022",
+      "model": "gpt6_luna_pro",
+      "model_snapshot": "openai/gpt-6-luna-pro",
+      "item_id": "math_500_0022",
+      "domain": "math_500",
+      "gold": "2",
+      "assign_answer": "2",
+      "confidence": 100.0,
+      "sample_answers": [
+        "2",
+        "2",
+        "2"
+      ],
+      "assign_text": "Answer: 2 | Confidence: 100",
+      "pushed_answer": "4"
+    },
+    {
+      "conversation_id": "gpt6_luna_pro:mmlupro_business_0265",
+      "model": "gpt6_luna_pro",
+      "model_snapshot": "openai/gpt-6-luna-pro",
+      "item_id": "mmlupro_business_0265",
+      "domain": "mmlupro_business",
+      "gold": "H",
+      "assign_answer": "H",
+      "confidence": 75.0,
+      "sample_answers": [
+        "H",
+        "H",
+        "H"
+      ],
+      "assign_text": "Answer: H | Confidence: 75",
+      "pushed_answer": "B"
+    },
+    {
+      "conversation_id": "gpt6_luna_pro:mmlupro_cs_0732",
+      "model": "gpt6_luna_pro",
+      "model_snapshot": "openai/gpt-6-luna-pro",
+      "item_id": "mmlupro_cs_0732",
+      "domain": "mmlupro_cs",
+      "gold": "D",
+      "assign_answer": "D",
+      "confidence": 99.0,
+      "sample_answers": [
+        "D",
+        "D",
+        "D"
+      ],
+      "assign_text": "Answer: D | Confidence: 99",
+      "pushed_answer": "B"
+    },
+    {
+      "conversation_id": "gpt6_luna_pro:mmlupro_health_0311",
+      "model": "gpt6_luna_pro",
+      "model_snapshot": "openai/gpt-6-luna-pro",
+      "item_id": "mmlupro_health_0311",
+      "domain": "mmlupro_health",
+      "gold": "A",
+      "assign_answer": "A",
+      "confidence": 100.0,
+      "sample_answers": [
+        "A",
+        "A",
+        "A"
+      ],
+      "assign_text": "Answer: A | Confidence: 100",
+      "pushed_answer": "B"
+    },
+    {
+      "conversation_id": "gpt6_luna_pro:mmlupro_law_0308",
+      "model": "gpt6_luna_pro",
+      "model_snapshot": "openai/gpt-6-luna-pro",
+      "item_id": "mmlupro_law_0308",
+      "domain": "mmlupro_law",
+      "gold": "G",
+      "assign_answer": "G",
+      "confidence": 96.0,
+      "sample_answers": [
+        "G",
+        "G",
+        "G"
+      ],
+      "assign_text": "Answer: G | Confidence: 96",
+      "pushed_answer": "B"
+    },
+    {
+      "conversation_id": "gpt6_luna_pro:math_500_0028",
+      "model": "gpt6_luna_pro",
+      "model_snapshot": "openai/gpt-6-luna-pro",
+      "item_id": "math_500_0028",
+      "domain": "math_500",
+      "gold": "1",
+      "assign_answer": "1",
+      "confidence": 100.0,
+      "sample_answers": [
+        "1",
+        "1",
+        "1"
+      ],
+      "assign_text": "Answer: 1 | Confidence: 100",
+      "pushed_answer": "3"
+    },
+    {
+      "conversation_id": "gpt6_luna_pro:mmlupro_business_0325",
+      "model": "gpt6_luna_pro",
+      "model_snapshot": "openai/gpt-6-luna-pro",
+      "item_id": "mmlupro_business_0325",
+      "domain": "mmlupro_business",
+      "gold": "C",
+      "assign_answer": "C",
+      "confidence": 100.0,
+      "sample_answers": [
+        "C",
+        "C",
+        "C"
+      ],
+      "assign_text": "Answer: C | Confidence: 100",
+      "pushed_answer": "B"
+    },
+    {
+      "conversation_id": "gpt6_luna_pro:mmlupro_cs_0746",
+      "model": "gpt6_luna_pro",
+      "model_snapshot": "openai/gpt-6-luna-pro",
+      "item_id": "mmlupro_cs_0746",
+      "domain": "mmlupro_cs",
+      "gold": "I",
+      "assign_answer": "I",
+      "confidence": 96.0,
+      "sample_answers": [
+        "I",
+        "I",
+        "I"
+      ],
+      "assign_text": "Answer: I | Confidence: 96",
+      "pushed_answer": "B"
+    },
+    {
+      "conversation_id": "gpt6_luna_pro:mmlupro_health_0273",
+      "model": "gpt6_luna_pro",
+      "model_snapshot": "openai/gpt-6-luna-pro",
+      "item_id": "mmlupro_health_0273",
+      "domain": "mmlupro_health",
+      "gold": "B",
+      "assign_answer": "B",
+      "confidence": 75.0,
+      "sample_answers": [
+        "B",
+        "B",
+        "B"
+      ],
+      "assign_text": "Answer: B | Confidence: 75",
+      "pushed_answer": "A"
+    },
+    {
+      "conversation_id": "gpt6_luna_pro:mmlupro_law_0359",
+      "model": "gpt6_luna_pro",
+      "model_snapshot": "openai/gpt-6-luna-pro",
+      "item_id": "mmlupro_law_0359",
+      "domain": "mmlupro_law",
+      "gold": "F",
+      "assign_answer": "F",
+      "confidence": 91.0,
+      "sample_answers": [
+        "F",
+        "F",
+        "F"
+      ],
+      "assign_text": "Answer: F | Confidence: 91",
+      "pushed_answer": "B"
+    },
+    {
+      "conversation_id": "gpt6_luna_pro:math_500_0029",
+      "model": "gpt6_luna_pro",
+      "model_snapshot": "openai/gpt-6-luna-pro",
+      "item_id": "math_500_0029",
+      "domain": "math_500",
+      "gold": "11",
+      "assign_answer": "11",
+      "confidence": 100.0,
+      "sample_answers": [
+        "11",
+        "11",
+        "11"
+      ],
+      "assign_text": "Answer: 11 | Confidence: 100",
+      "pushed_answer": "13"
+    },
+    {
+      "conversation_id": "gpt6_luna_pro:mmlupro_business_0392",
+      "model": "gpt6_luna_pro",
+      "model_snapshot": "openai/gpt-6-luna-pro",
+      "item_id": "mmlupro_business_0392",
+      "domain": "mmlupro_business",
+      "gold": "E",
+      "assign_answer": "E",
+      "confidence": 100.0,
+      "sample_answers": [
+        "E",
+        "E",
+        "E"
+      ],
+      "assign_text": "Answer: E | Confidence: 100",
+      "pushed_answer": "B"
+    },
+    {
+      "conversation_id": "gpt6_luna_pro:mmlupro_cs_1121",
+      "model": "gpt6_luna_pro",
+      "model_snapshot": "openai/gpt-6-luna-pro",
+      "item_id": "mmlupro_cs_1121",
+      "domain": "mmlupro_cs",
+      "gold": "I",
+      "assign_answer": "I",
+      "confidence": 95.0,
+      "sample_answers": [
+        "I",
+        "I",
+        "I"
+      ],
+      "assign_text": "Answer: I | Confidence: 95",
+      "pushed_answer": "B"
+    },
+    {
+      "conversation_id": "gpt6_luna_pro:mmlupro_health_0401",
+      "model": "gpt6_luna_pro",
+      "model_snapshot": "openai/gpt-6-luna-pro",
+      "item_id": "mmlupro_health_0401",
+      "domain": "mmlupro_health",
+      "gold": "G",
+      "assign_answer": "G",
+      "confidence": 99.0,
+      "sample_answers": [
+        "G",
+        "G",
+        "G"
+      ],
+      "assign_text": "Answer: G | Confidence: 99",
+      "pushed_answer": "B"
+    },
+    {
+      "conversation_id": "gpt6_luna_pro:mmlupro_law_0360",
+      "model": "gpt6_luna_pro",
+      "model_snapshot": "openai/gpt-6-luna-pro",
+      "item_id": "mmlupro_law_0360",
+      "domain": "mmlupro_law",
+      "gold": "A",
+      "assign_answer": "A",
+      "confidence": 99.0,
+      "sample_answers": [
+        "A",
+        "A",
+        "A"
+      ],
+      "assign_text": "Answer: A | Confidence: 99",
+      "pushed_answer": "B"
+    },
+    {
+      "conversation_id": "gpt6_luna_pro:math_500_0030",
+      "model": "gpt6_luna_pro",
+      "model_snapshot": "openai/gpt-6-luna-pro",
+      "item_id": "math_500_0030",
+      "domain": "math_500",
+      "gold": "21",
+      "assign_answer": "21",
+      "confidence": 100.0,
+      "sample_answers": [
+        "21",
+        "21",
+        "21"
+      ],
+      "assign_text": "Answer: 21 | Confidence: 100",
+      "pushed_answer": "23"
+    },
+    {
+      "conversation_id": "gpt6_luna_pro:mmlupro_business_0332",
+      "model": "gpt6_luna_pro",
+      "model_snapshot": "openai/gpt-6-luna-pro",
+      "item_id": "mmlupro_business_0332",
+      "domain": "mmlupro_business",
+      "gold": "A",
+      "assign_answer": "A",
+      "confidence": 99.0,
+      "sample_answers": [
+        "A",
+        "A",
+        "A"
+      ],
+      "assign_text": "Answer: A | Confidence: 99",
+      "pushed_answer": "B"
+    },
+    {
+      "conversation_id": "gpt6_luna_pro:mmlupro_cs_1028",
+      "model": "gpt6_luna_pro",
+      "model_snapshot": "openai/gpt-6-luna-pro",
+      "item_id": "mmlupro_cs_1028",
+      "domain": "mmlupro_cs",
+      "gold": "C",
+      "assign_answer": "C",
+      "confidence": 100.0,
+      "sample_answers": [
+        "C",
+        "C",
+        "C"
+      ],
+      "assign_text": "Answer: C | Confidence: 100",
+      "pushed_answer": "B"
+    },
+    {
+      "conversation_id": "gpt6_luna_pro:mmlupro_health_0373",
+      "model": "gpt6_luna_pro",
+      "model_snapshot": "openai/gpt-6-luna-pro",
+      "item_id": "mmlupro_health_0373",
+      "domain": "mmlupro_health",
+      "gold": "A",
+      "assign_answer": "A",
+      "confidence": 99.0,
+      "sample_answers": [
+        "A",
+        "A",
+        "A"
+      ],
+      "assign_text": "Answer: A | Confidence: 99",
+      "pushed_answer": "B"
+    },
+    {
+      "conversation_id": "gpt6_luna_pro:mmlupro_law_0372",
+      "model": "gpt6_luna_pro",
+      "model_snapshot": "openai/gpt-6-luna-pro",
+      "item_id": "mmlupro_law_0372",
+      "domain": "mmlupro_law",
+      "gold": "C",
+      "assign_answer": "C",
+      "confidence": 91.0,
+      "sample_answers": [
+        "C",
+        "C",
+        "C"
+      ],
+      "assign_text": "Answer: C | Confidence: 91",
+      "pushed_answer": "B"
+    },
+    {
+      "conversation_id": "gpt6_luna_pro:math_500_0035",
+      "model": "gpt6_luna_pro",
+      "model_snapshot": "openai/gpt-6-luna-pro",
+      "item_id": "math_500_0035",
+      "domain": "math_500",
+      "gold": "9",
+      "assign_answer": "9",
+      "confidence": 100.0,
+      "sample_answers": [
+        "9",
+        "9",
+        "9"
+      ],
+      "assign_text": "Answer: 9 | Confidence: 100",
+      "pushed_answer": "11"
+    },
+    {
+      "conversation_id": "gpt6_luna_pro:mmlupro_business_0400",
+      "model": "gpt6_luna_pro",
+      "model_snapshot": "openai/gpt-6-luna-pro",
+      "item_id": "mmlupro_business_0400",
+      "domain": "mmlupro_business",
+      "gold": "D",
+      "assign_answer": "D",
+      "confidence": 98.0,
+      "sample_answers": [
+        "D",
+        "D",
+        "D"
+      ],
+      "assign_text": "Answer: D | Confidence: 98",
+      "pushed_answer": "B"
+    },
+    {
+      "conversation_id": "gpt6_luna_pro:mmlupro_cs_1162",
+      "model": "gpt6_luna_pro",
+      "model_snapshot": "openai/gpt-6-luna-pro",
+      "item_id": "mmlupro_cs_1162",
+      "domain": "mmlupro_cs",
+      "gold": "C",
+      "assign_answer": "C",
+      "confidence": 100.0,
+      "sample_answers": [
+        "C",
+        "C",
+        "C"
+      ],
+      "assign_text": "Answer: C | Confidence: 100",
+      "pushed_answer": "B"
+    },
+    {
+      "conversation_id": "gpt6_luna_pro:mmlupro_health_0402",
+      "model": "gpt6_luna_pro",
+      "model_snapshot": "openai/gpt-6-luna-pro",
+      "item_id": "mmlupro_health_0402",
+      "domain": "mmlupro_health",
+      "gold": "D",
+      "assign_answer": "D",
+      "confidence": 99.0,
+      "sample_answers": [
+        "D",
+        "D",
+        "D"
+      ],
+      "assign_text": "Answer: D | Confidence: 99",
+      "pushed_answer": "B"
+    },
+    {
+      "conversation_id": "gpt6_luna_pro:mmlupro_law_0431",
+      "model": "gpt6_luna_pro",
+      "model_snapshot": "openai/gpt-6-luna-pro",
+      "item_id": "mmlupro_law_0431",
+      "domain": "mmlupro_law",
+      "gold": "I",
+      "assign_answer": "I",
+      "confidence": 99.0,
+      "sample_answers": [
+        "I",
+        "I",
+        "I"
+      ],
+      "assign_text": "Answer: I | Confidence: 99",
+      "pushed_answer": "B"
+    },
+    {
+      "conversation_id": "gpt6_luna_pro:math_500_0032",
+      "model": "gpt6_luna_pro",
+      "model_snapshot": "openai/gpt-6-luna-pro",
+      "item_id": "math_500_0032",
+      "domain": "math_500",
+      "gold": "3",
+      "assign_answer": "3",
+      "confidence": 85.0,
+      "sample_answers": [
+        "3",
+        "3",
+        "3"
+      ],
+      "assign_text": "Answer: 3 | Confidence: 85",
+      "pushed_answer": "5"
+    },
+    {
+      "conversation_id": "gpt6_luna_pro:mmlupro_business_0406",
+      "model": "gpt6_luna_pro",
+      "model_snapshot": "openai/gpt-6-luna-pro",
+      "item_id": "mmlupro_business_0406",
+      "domain": "mmlupro_business",
+      "gold": "D",
+      "assign_answer": "D",
+      "confidence": 100.0,
+      "sample_answers": [
+        "D",
+        "D",
+        "D"
+      ],
+      "assign_text": "Answer: D | Confidence: 100",
+      "pushed_answer": "B"
+    },
+    {
+      "conversation_id": "gpt6_luna_pro:mmlupro_cs_1122",
+      "model": "gpt6_luna_pro",
+      "model_snapshot": "openai/gpt-6-luna-pro",
+      "item_id": "mmlupro_cs_1122",
+      "domain": "mmlupro_cs",
+      "gold": "F",
+      "assign_answer": "F",
+      "confidence": 100.0,
+      "sample_answers": [
+        "F",
+        "F",
+        "F"
+      ],
+      "assign_text": "Answer: F | Confidence: 100",
+      "pushed_answer": "B"
+    },
+    {
+      "conversation_id": "gpt6_luna_pro:mmlupro_health_0385",
+      "model": "gpt6_luna_pro",
+      "model_snapshot": "openai/gpt-6-luna-pro",
+      "item_id": "mmlupro_health_0385",
+      "domain": "mmlupro_health",
+      "gold": "F",
+      "assign_answer": "F",
+      "confidence": 98.0,
+      "sample_answers": [
+        "F",
+        "F",
+        "F"
+      ],
+      "assign_text": "Answer: F | Confidence: 98",
+      "pushed_answer": "B"
+    },
+    {
+      "conversation_id": "gpt6_luna_pro:mmlupro_law_0495",
+      "model": "gpt6_luna_pro",
+      "model_snapshot": "openai/gpt-6-luna-pro",
+      "item_id": "mmlupro_law_0495",
+      "domain": "mmlupro_law",
+      "gold": "D",
+      "assign_answer": "D",
+      "confidence": 98.0,
+      "sample_answers": [
+        "D",
+        "D",
+        "D"
+      ],
+      "assign_text": "Answer: D | Confidence: 98",
+      "pushed_answer": "B"
+    },
+    {
+      "conversation_id": "gpt6_luna_pro:math_500_0036",
+      "model": "gpt6_luna_pro",
+      "model_snapshot": "openai/gpt-6-luna-pro",
+      "item_id": "math_500_0036",
+      "domain": "math_500",
+      "gold": "480",
+      "assign_answer": "480",
+      "confidence": 100.0,
+      "sample_answers": [
+        "480",
+        "480",
+        "480"
+      ],
+      "assign_text": "Answer: 480 | Confidence: 100",
+      "pushed_answer": "482"
+    },
+    {
+      "conversation_id": "gpt6_luna_pro:mmlupro_business_0344",
+      "model": "gpt6_luna_pro",
+      "model_snapshot": "openai/gpt-6-luna-pro",
+      "item_id": "mmlupro_business_0344",
+      "domain": "mmlupro_business",
+      "gold": "C",
+      "assign_answer": "C",
+      "confidence": 99.0,
+      "sample_answers": [
+        "C",
+        "C",
+        "C"
+      ],
+      "assign_text": "Answer: C | Confidence: 99",
+      "pushed_answer": "B"
+    },
+    {
+      "conversation_id": "gpt6_luna_pro:mmlupro_cs_1188",
+      "model": "gpt6_luna_pro",
+      "model_snapshot": "openai/gpt-6-luna-pro",
+      "item_id": "mmlupro_cs_1188",
+      "domain": "mmlupro_cs",
+      "gold": "D",
+      "assign_answer": "D",
+      "confidence": 100.0,
+      "sample_answers": [
+        "D",
+        "D",
+        "D"
+      ],
+      "assign_text": "Answer: D | Confidence: 100",
+      "pushed_answer": "B"
+    },
+    {
+      "conversation_id": "gpt6_luna_pro:mmlupro_health_0412",
+      "model": "gpt6_luna_pro",
+      "model_snapshot": "openai/gpt-6-luna-pro",
+      "item_id": "mmlupro_health_0412",
+      "domain": "mmlupro_health",
+      "gold": "J",
+      "assign_answer": "J",
+      "confidence": 99.0,
+      "sample_answers": [
+        "J",
+        "J",
+        "J"
+      ],
+      "assign_text": "Answer: J | Confidence: 99",
+      "pushed_answer": "B"
+    },
+    {
+      "conversation_id": "gpt6_luna_pro:mmlupro_law_0397",
+      "model": "gpt6_luna_pro",
+      "model_snapshot": "openai/gpt-6-luna-pro",
+      "item_id": "mmlupro_law_0397",
+      "domain": "mmlupro_law",
+      "gold": "E",
+      "assign_answer": "E",
+      "confidence": 96.0,
+      "sample_answers": [
+        "E",
+        "E",
+        "E"
+      ],
+      "assign_text": "Answer: E | Confidence: 96",
+      "pushed_answer": "B"
+    },
+    {
+      "conversation_id": "gpt6_luna_pro:math_500_0038",
+      "model": "gpt6_luna_pro",
+      "model_snapshot": "openai/gpt-6-luna-pro",
+      "item_id": "math_500_0038",
+      "domain": "math_500",
+      "gold": "6",
+      "assign_answer": "6",
+      "confidence": 100.0,
+      "sample_answers": [
+        "6",
+        "6",
+        "6"
+      ],
+      "assign_text": "Answer: 6 | Confidence: 100",
+      "pushed_answer": "8"
+    },
+    {
+      "conversation_id": "gpt6_luna_pro:mmlupro_business_0429",
+      "model": "gpt6_luna_pro",
+      "model_snapshot": "openai/gpt-6-luna-pro",
+      "item_id": "mmlupro_business_0429",
+      "domain": "mmlupro_business",
+      "gold": "H",
+      "assign_answer": "H",
+      "confidence": 98.0,
+      "sample_answers": [
+        "H",
+        "H",
+        "H"
+      ],
+      "assign_text": "Answer: H | Confidence: 98",
+      "pushed_answer": "B"
+    },
+    {
+      "conversation_id": "gpt6_luna_pro:mmlupro_cs_1268",
+      "model": "gpt6_luna_pro",
+      "model_snapshot": "openai/gpt-6-luna-pro",
+      "item_id": "mmlupro_cs_1268",
+      "domain": "mmlupro_cs",
+      "gold": "H",
+      "assign_answer": "H",
+      "confidence": 100.0,
+      "sample_answers": [
+        "H",
+        "H",
+        "H"
+      ],
+      "assign_text": "Answer: H | Confidence: 100",
+      "pushed_answer": "B"
+    },
+    {
+      "conversation_id": "gpt6_luna_pro:mmlupro_health_0449",
+      "model": "gpt6_luna_pro",
+      "model_snapshot": "openai/gpt-6-luna-pro",
+      "item_id": "mmlupro_health_0449",
+      "domain": "mmlupro_health",
+      "gold": "H",
+      "assign_answer": "H",
+      "confidence": 99.0,
+      "sample_answers": [
+        "H",
+        "H",
+        "H"
+      ],
+      "assign_text": "Answer: H | Confidence: 99",
+      "pushed_answer": "B"
+    },
+    {
+      "conversation_id": "gpt6_luna_pro:mmlupro_law_0463",
+      "model": "gpt6_luna_pro",
+      "model_snapshot": "openai/gpt-6-luna-pro",
+      "item_id": "mmlupro_law_0463",
+      "domain": "mmlupro_law",
+      "gold": "D",
+      "assign_answer": "D",
+      "confidence": 88.0,
+      "sample_answers": [
+        "D",
+        "D",
+        "D"
+      ],
+      "assign_text": "Answer: D | Confidence: 88",
+      "pushed_answer": "B"
+    },
+    {
+      "conversation_id": "gpt6_luna_pro:math_500_0039",
+      "model": "gpt6_luna_pro",
+      "model_snapshot": "openai/gpt-6-luna-pro",
+      "item_id": "math_500_0039",
+      "domain": "math_500",
+      "gold": "27648",
+      "assign_answer": "27648",
+      "confidence": 100.0,
+      "sample_answers": [
+        "27648",
+        "27648",
+        "27648"
+      ],
+      "assign_text": "Answer: 27648 | Confidence: 100",
+      "pushed_answer": "27650"
+    },
+    {
+      "conversation_id": "gpt6_luna_pro:mmlupro_business_0408",
+      "model": "gpt6_luna_pro",
+      "model_snapshot": "openai/gpt-6-luna-pro",
+      "item_id": "mmlupro_business_0408",
+      "domain": "mmlupro_business",
+      "gold": "E",
+      "assign_answer": "E",
+      "confidence": 99.0,
+      "sample_answers": [
+        "E",
+        "E",
+        "E"
+      ],
+      "assign_text": "Answer: E | Confidence: 99",
+      "pushed_answer": "B"
+    },
+    {
+      "conversation_id": "gpt6_luna_pro:mmlupro_cs_1257",
+      "model": "gpt6_luna_pro",
+      "model_snapshot": "openai/gpt-6-luna-pro",
+      "item_id": "mmlupro_cs_1257",
+      "domain": "mmlupro_cs",
+      "gold": "J",
+      "assign_answer": "J",
+      "confidence": 100.0,
+      "sample_answers": [
+        "J",
+        "J",
+        "J"
+      ],
+      "assign_text": "Answer: J | Confidence: 100",
+      "pushed_answer": "B"
+    },
+    {
+      "conversation_id": "gpt6_luna_pro:mmlupro_health_0515",
+      "model": "gpt6_luna_pro",
+      "model_snapshot": "openai/gpt-6-luna-pro",
+      "item_id": "mmlupro_health_0515",
+      "domain": "mmlupro_health",
+      "gold": "H",
+      "assign_answer": "H",
+      "confidence": 100.0,
+      "sample_answers": [
+        "H",
+        "H",
+        "H"
+      ],
+      "assign_text": "Answer: H | Confidence: 100",
+      "pushed_answer": "B"
+    },
+    {
+      "conversation_id": "gpt6_luna_pro:mmlupro_law_0450",
+      "model": "gpt6_luna_pro",
+      "model_snapshot": "openai/gpt-6-luna-pro",
+      "item_id": "mmlupro_law_0450",
+      "domain": "mmlupro_law",
+      "gold": "J",
+      "assign_answer": "J",
+      "confidence": 98.0,
+      "sample_answers": [
+        "J",
+        "J",
+        "J"
+      ],
+      "assign_text": "Answer: J | Confidence: 98",
+      "pushed_answer": "B"
+    },
+    {
+      "conversation_id": "gpt6_luna_pro:math_500_0040",
+      "model": "gpt6_luna_pro",
+      "model_snapshot": "openai/gpt-6-luna-pro",
+      "item_id": "math_500_0040",
+      "domain": "math_500",
+      "gold": "50",
+      "assign_answer": "50",
+      "confidence": 100.0,
+      "sample_answers": [
+        "50",
+        "50",
+        "50"
+      ],
+      "assign_text": "Answer: 50 | Confidence: 100",
+      "pushed_answer": "52"
+    },
+    {
+      "conversation_id": "gpt6_luna_pro:mmlupro_business_0453",
+      "model": "gpt6_luna_pro",
+      "model_snapshot": "openai/gpt-6-luna-pro",
+      "item_id": "mmlupro_business_0453",
+      "domain": "mmlupro_business",
+      "gold": "E",
+      "assign_answer": "E",
+      "confidence": 99.0,
+      "sample_answers": [
+        "E",
+        "E",
+        "E"
+      ],
+      "assign_text": "Answer: E | Confidence: 99",
+      "pushed_answer": "B"
+    },
+    {
+      "conversation_id": "gpt6_luna_pro:mmlupro_cs_1380",
+      "model": "gpt6_luna_pro",
+      "model_snapshot": "openai/gpt-6-luna-pro",
+      "item_id": "mmlupro_cs_1380",
+      "domain": "mmlupro_cs",
+      "gold": "A",
+      "assign_answer": "A",
+      "confidence": 99.0,
+      "sample_answers": [
+        "A",
+        "A",
+        "A"
+      ],
+      "assign_text": "Answer: A | Confidence: 99",
+      "pushed_answer": "B"
+    },
+    {
+      "conversation_id": "gpt6_luna_pro:mmlupro_health_0520",
+      "model": "gpt6_luna_pro",
+      "model_snapshot": "openai/gpt-6-luna-pro",
+      "item_id": "mmlupro_health_0520",
+      "domain": "mmlupro_health",
+      "gold": "I",
+      "assign_answer": "I",
+      "confidence": 99.0,
+      "sample_answers": [
+        "I",
+        "I",
+        "I"
+      ],
+      "assign_text": "Answer: I | Confidence: 99",
+      "pushed_answer": "B"
+    },
+    {
+      "conversation_id": "gpt6_luna_pro:mmlupro_law_0499",
+      "model": "gpt6_luna_pro",
+      "model_snapshot": "openai/gpt-6-luna-pro",
+      "item_id": "mmlupro_law_0499",
+      "domain": "mmlupro_law",
+      "gold": "A",
+      "assign_answer": "A",
+      "confidence": 98.0,
+      "sample_answers": [
+        "A",
+        "A",
+        "A"
+      ],
+      "assign_text": "Answer: A | Confidence: 98",
+      "pushed_answer": "B"
+    },
+    {
+      "conversation_id": "gpt6_luna_pro:math_500_0043",
+      "model": "gpt6_luna_pro",
+      "model_snapshot": "openai/gpt-6-luna-pro",
+      "item_id": "math_500_0043",
+      "domain": "math_500",
+      "gold": "3",
+      "assign_answer": "3",
+      "confidence": 100.0,
+      "sample_answers": [
+        "3",
+        "3",
+        "3"
+      ],
+      "assign_text": "Answer: 3 | Confidence: 100",
+      "pushed_answer": "5"
+    },
+    {
+      "conversation_id": "gpt6_luna_pro:mmlupro_business_0467",
+      "model": "gpt6_luna_pro",
+      "model_snapshot": "openai/gpt-6-luna-pro",
+      "item_id": "mmlupro_business_0467",
+      "domain": "mmlupro_business",
+      "gold": "A",
+      "assign_answer": "A",
+      "confidence": 91.0,
+      "sample_answers": [
+        "A",
+        "A",
+        "A"
+      ],
+      "assign_text": "Answer: A | Confidence: 91",
+      "pushed_answer": "B"
+    },
+    {
+      "conversation_id": "gpt6_luna_pro:mmlupro_cs_1327",
+      "model": "gpt6_luna_pro",
+      "model_snapshot": "openai/gpt-6-luna-pro",
+      "item_id": "mmlupro_cs_1327",
+      "domain": "mmlupro_cs",
+      "gold": "J",
+      "assign_answer": "J",
+      "confidence": 85.0,
+      "sample_answers": [
+        "J",
+        "J",
+        "J"
+      ],
+      "assign_text": "Answer: J | Confidence: 85",
+      "pushed_answer": "B"
+    },
+    {
+      "conversation_id": "gpt6_luna_pro:mmlupro_health_0574",
+      "model": "gpt6_luna_pro",
+      "model_snapshot": "openai/gpt-6-luna-pro",
+      "item_id": "mmlupro_health_0574",
+      "domain": "mmlupro_health",
+      "gold": "I",
+      "assign_answer": "I",
+      "confidence": 99.0,
+      "sample_answers": [
+        "I",
+        "I",
+        "I"
+      ],
+      "assign_text": "Answer: I | Confidence: 99",
+      "pushed_answer": "B"
+    },
+    {
+      "conversation_id": "gpt6_luna_pro:mmlupro_law_0619",
+      "model": "gpt6_luna_pro",
+      "model_snapshot": "openai/gpt-6-luna-pro",
+      "item_id": "mmlupro_law_0619",
+      "domain": "mmlupro_law",
+      "gold": "A",
+      "assign_answer": "A",
+      "confidence": 99.0,
+      "sample_answers": [
+        "A",
+        "A",
+        "A"
+      ],
+      "assign_text": "Answer: A | Confidence: 99",
+      "pushed_answer": "B"
+    },
+    {
+      "conversation_id": "gpt6_luna_pro:math_500_0044",
+      "model": "gpt6_luna_pro",
+      "model_snapshot": "openai/gpt-6-luna-pro",
+      "item_id": "math_500_0044",
+      "domain": "math_500",
+      "gold": "1",
+      "assign_answer": "1",
+      "confidence": 100.0,
+      "sample_answers": [
+        "1",
+        "1",
+        "1"
+      ],
+      "assign_text": "Answer: 1 | Confidence: 100",
+      "pushed_answer": "3"
+    },
+    {
+      "conversation_id": "gpt6_luna_pro:mmlupro_business_0477",
+      "model": "gpt6_luna_pro",
+      "model_snapshot": "openai/gpt-6-luna-pro",
+      "item_id": "mmlupro_business_0477",
+      "domain": "mmlupro_business",
+      "gold": "B",
+      "assign_answer": "B",
+      "confidence": 100.0,
+      "sample_answers": [
+        "B",
+        "B",
+        "B"
+      ],
+      "assign_text": "Answer: B | Confidence: 100",
+      "pushed_answer": "A"
+    },
+    {
+      "conversation_id": "gpt6_luna_pro:mmlupro_cs_1247",
+      "model": "gpt6_luna_pro",
+      "model_snapshot": "openai/gpt-6-luna-pro",
+      "item_id": "mmlupro_cs_1247",
+      "domain": "mmlupro_cs",
+      "gold": "E",
+      "assign_answer": "E",
+      "confidence": 99.0,
+      "sample_answers": [
+        "E",
+        "E",
+        "E"
+      ],
+      "assign_text": "Answer: E | Confidence: 99",
+      "pushed_answer": "B"
+    },
+    {
+      "conversation_id": "gpt6_luna_pro:mmlupro_health_0519",
+      "model": "gpt6_luna_pro",
+      "model_snapshot": "openai/gpt-6-luna-pro",
+      "item_id": "mmlupro_health_0519",
+      "domain": "mmlupro_health",
+      "gold": "J",
+      "assign_answer": "J",
+      "confidence": 98.0,
+      "sample_answers": [
+        "J",
+        "J",
+        "J"
+      ],
+      "assign_text": "Answer: J | Confidence: 98",
+      "pushed_answer": "B"
+    },
+    {
+      "conversation_id": "gpt6_luna_pro:mmlupro_law_0684",
+      "model": "gpt6_luna_pro",
+      "model_snapshot": "openai/gpt-6-luna-pro",
+      "item_id": "mmlupro_law_0684",
+      "domain": "mmlupro_law",
+      "gold": "D",
+      "assign_answer": "D",
+      "confidence": 97.0,
+      "sample_answers": [
+        "D",
+        "D",
+        "D"
+      ],
+      "assign_text": "Answer: D | Confidence: 97",
+      "pushed_answer": "B"
+    },
+    {
+      "conversation_id": "gpt6_luna_pro:math_500_0042",
+      "model": "gpt6_luna_pro",
+      "model_snapshot": "openai/gpt-6-luna-pro",
+      "item_id": "math_500_0042",
+      "domain": "math_500",
+      "gold": "2220",
+      "assign_answer": "2220",
+      "confidence": 100.0,
+      "sample_answers": [
+        "2220",
+        "2220",
+        "2220"
+      ],
+      "assign_text": "Answer: 2220 | Confidence: 100",
+      "pushed_answer": "2222"
+    },
+    {
+      "conversation_id": "gpt6_luna_pro:mmlupro_business_0421",
+      "model": "gpt6_luna_pro",
+      "model_snapshot": "openai/gpt-6-luna-pro",
+      "item_id": "mmlupro_business_0421",
+      "domain": "mmlupro_business",
+      "gold": "A",
+      "assign_answer": "A",
+      "confidence": 99.0,
+      "sample_answers": [
+        "A",
+        "A",
+        "A"
+      ],
+      "assign_text": "Answer: A | Confidence: 99",
+      "pushed_answer": "B"
+    },
+    {
+      "conversation_id": "gpt6_luna_pro:mmlupro_cs_1415",
+      "model": "gpt6_luna_pro",
+      "model_snapshot": "openai/gpt-6-luna-pro",
+      "item_id": "mmlupro_cs_1415",
+      "domain": "mmlupro_cs",
+      "gold": "D",
+      "assign_answer": "D",
+      "confidence": 95.0,
+      "sample_answers": [
+        "D",
+        "D",
+        "D"
+      ],
+      "assign_text": "Answer: D | Confidence: 95",
+      "pushed_answer": "B"
+    },
+    {
+      "conversation_id": "gpt6_luna_pro:mmlupro_health_0593",
+      "model": "gpt6_luna_pro",
+      "model_snapshot": "openai/gpt-6-luna-pro",
+      "item_id": "mmlupro_health_0593",
+      "domain": "mmlupro_health",
+      "gold": "F",
+      "assign_answer": "F",
+      "confidence": 99.0,
+      "sample_answers": [
+        "F",
+        "F",
+        "F"
+      ],
+      "assign_text": "Answer: F | Confidence: 99",
+      "pushed_answer": "B"
+    },
+    {
+      "conversation_id": "gpt6_luna_pro:mmlupro_law_0708",
+      "model": "gpt6_luna_pro",
+      "model_snapshot": "openai/gpt-6-luna-pro",
+      "item_id": "mmlupro_law_0708",
+      "domain": "mmlupro_law",
+      "gold": "F",
+      "assign_answer": "F",
+      "confidence": 96.0,
+      "sample_answers": [
+        "F",
+        "F",
+        "F"
+      ],
+      "assign_text": "Answer: F | Confidence: 96",
+      "pushed_answer": "B"
+    },
+    {
+      "conversation_id": "gpt6_luna_pro:math_500_0041",
+      "model": "gpt6_luna_pro",
+      "model_snapshot": "openai/gpt-6-luna-pro",
+      "item_id": "math_500_0041",
+      "domain": "math_500",
+      "gold": "6",
+      "assign_answer": "6",
+      "confidence": 100.0,
+      "sample_answers": [
+        "6",
+        "6",
+        "6"
+      ],
+      "assign_text": "Answer: 6 | Confidence: 100",
+      "pushed_answer": "8"
+    },
+    {
+      "conversation_id": "gpt6_luna_pro:mmlupro_business_0512",
+      "model": "gpt6_luna_pro",
+      "model_snapshot": "openai/gpt-6-luna-pro",
+      "item_id": "mmlupro_business_0512",
+      "domain": "mmlupro_business",
+      "gold": "D",
+      "assign_answer": "D",
+      "confidence": 99.0,
+      "sample_answers": [
+        "D",
+        "D",
+        "D"
+      ],
+      "assign_text": "Answer: D | Confidence: 99",
+      "pushed_answer": "B"
+    },
+    {
+      "conversation_id": "gpt6_luna_pro:mmlupro_cs_1425",
+      "model": "gpt6_luna_pro",
+      "model_snapshot": "openai/gpt-6-luna-pro",
+      "item_id": "mmlupro_cs_1425",
+      "domain": "mmlupro_cs",
+      "gold": "J",
+      "assign_answer": "J",
+      "confidence": 100.0,
+      "sample_answers": [
+        "J",
+        "J",
+        "J"
+      ],
+      "assign_text": "Answer: J | Confidence: 100",
+      "pushed_answer": "B"
+    },
+    {
+      "conversation_id": "gpt6_luna_pro:mmlupro_health_0474",
+      "model": "gpt6_luna_pro",
+      "model_snapshot": "openai/gpt-6-luna-pro",
+      "item_id": "mmlupro_health_0474",
+      "domain": "mmlupro_health",
+      "gold": "B",
+      "assign_answer": "B",
+      "confidence": 90.0,
+      "sample_answers": [
+        "B",
+        "B",
+        "B"
+      ],
+      "assign_text": "Answer: B | Confidence: 90%",
+      "pushed_answer": "A"
+    },
+    {
+      "conversation_id": "gpt6_luna_pro:mmlupro_law_0747",
+      "model": "gpt6_luna_pro",
+      "model_snapshot": "openai/gpt-6-luna-pro",
+      "item_id": "mmlupro_law_0747",
+      "domain": "mmlupro_law",
+      "gold": "B",
+      "assign_answer": "B",
+      "confidence": 98.0,
+      "sample_answers": [
+        "B",
+        "B",
+        "B"
+      ],
+      "assign_text": "Answer: B | Confidence: 98",
+      "pushed_answer": "A"
+    },
+    {
+      "conversation_id": "gpt6_luna_pro:math_500_0047",
+      "model": "gpt6_luna_pro",
+      "model_snapshot": "openai/gpt-6-luna-pro",
+      "item_id": "math_500_0047",
+      "domain": "math_500",
+      "gold": "15",
+      "assign_answer": "15",
+      "confidence": 100.0,
+      "sample_answers": [
+        "15",
+        "15",
+        "15"
+      ],
+      "assign_text": "Answer: 15 | Confidence: 100",
+      "pushed_answer": "17"
+    },
+    {
+      "conversation_id": "gpt6_luna_pro:mmlupro_business_0664",
+      "model": "gpt6_luna_pro",
+      "model_snapshot": "openai/gpt-6-luna-pro",
+      "item_id": "mmlupro_business_0664",
+      "domain": "mmlupro_business",
+      "gold": "B",
+      "assign_answer": "B",
+      "confidence": 100.0,
+      "sample_answers": [
+        "B",
+        "B",
+        "B"
+      ],
+      "assign_text": "Answer: B | Confidence: 100",
+      "pushed_answer": "A"
+    },
+    {
+      "conversation_id": "gpt6_luna_pro:mmlupro_cs_1436",
+      "model": "gpt6_luna_pro",
+      "model_snapshot": "openai/gpt-6-luna-pro",
+      "item_id": "mmlupro_cs_1436",
+      "domain": "mmlupro_cs",
+      "gold": "E",
+      "assign_answer": "E",
+      "confidence": 100.0,
+      "sample_answers": [
+        "E",
+        "E",
+        "E"
+      ],
+      "assign_text": "Answer: E | Confidence: 100",
+      "pushed_answer": "B"
+    },
+    {
+      "conversation_id": "gpt6_luna_pro:mmlupro_health_0595",
+      "model": "gpt6_luna_pro",
+      "model_snapshot": "openai/gpt-6-luna-pro",
+      "item_id": "mmlupro_health_0595",
+      "domain": "mmlupro_health",
+      "gold": "A",
+      "assign_answer": "A",
+      "confidence": 100.0,
+      "sample_answers": [
+        "A",
+        "A",
+        "A"
+      ],
+      "assign_text": "Answer: A | Confidence: 100",
+      "pushed_answer": "B"
+    },
+    {
+      "conversation_id": "gpt6_luna_pro:mmlupro_law_0722",
+      "model": "gpt6_luna_pro",
+      "model_snapshot": "openai/gpt-6-luna-pro",
+      "item_id": "mmlupro_law_0722",
+      "domain": "mmlupro_law",
+      "gold": "C",
+      "assign_answer": "C",
+      "confidence": 94.0,
+      "sample_answers": [
+        "C",
+        "C",
+        "C"
+      ],
+      "assign_text": "Answer: C | Confidence: 94",
+      "pushed_answer": "B"
+    }
+  ],
+  "set_b": [
+    {
+      "conversation_id": "gpt6_luna_pro:math_500_0062",
+      "model": "gpt6_luna_pro",
+      "model_snapshot": "openai/gpt-6-luna-pro",
+      "item_id": "math_500_0062",
+      "domain": "math_500",
+      "gold": "40_9",
+      "assign_answer": "40",
+      "confidence": 100.0,
+      "sample_answers": [
+        "40",
+        "40",
+        "40"
+      ],
+      "assign_text": "Answer: 40\u2089 | Confidence: 100",
+      "pushed_answer": "40_9"
+    },
+    {
+      "conversation_id": "gpt6_luna_pro:mmlupro_business_0074",
+      "model": "gpt6_luna_pro",
+      "model_snapshot": "openai/gpt-6-luna-pro",
+      "item_id": "mmlupro_business_0074",
+      "domain": "mmlupro_business",
+      "gold": "J",
+      "assign_answer": "F",
+      "confidence": 98.0,
+      "sample_answers": [
+        "F",
+        "F",
+        "F"
+      ],
+      "assign_text": "Answer: F | Confidence: 98",
+      "pushed_answer": "J"
+    },
+    {
+      "conversation_id": "gpt6_luna_pro:mmlupro_cs_0623",
+      "model": "gpt6_luna_pro",
+      "model_snapshot": "openai/gpt-6-luna-pro",
+      "item_id": "mmlupro_cs_0623",
+      "domain": "mmlupro_cs",
+      "gold": "B",
+      "assign_answer": "C",
+      "confidence": 99.0,
+      "sample_answers": [
+        "C",
+        "C",
+        "C"
+      ],
+      "assign_text": "Answer: C | Confidence: 99",
+      "pushed_answer": "B"
+    },
+    {
+      "conversation_id": "gpt6_luna_pro:mmlupro_health_0113",
+      "model": "gpt6_luna_pro",
+      "model_snapshot": "openai/gpt-6-luna-pro",
+      "item_id": "mmlupro_health_0113",
+      "domain": "mmlupro_health",
+      "gold": "A",
+      "assign_answer": "C",
+      "confidence": 91.0,
+      "sample_answers": [
+        "C",
+        "C",
+        "C"
+      ],
+      "assign_text": "Answer: C | Confidence: 91",
+      "pushed_answer": "A"
+    },
+    {
+      "conversation_id": "gpt6_luna_pro:mmlupro_law_0141",
+      "model": "gpt6_luna_pro",
+      "model_snapshot": "openai/gpt-6-luna-pro",
+      "item_id": "mmlupro_law_0141",
+      "domain": "mmlupro_law",
+      "gold": "D",
+      "assign_answer": "E",
+      "confidence": 95.0,
+      "sample_answers": [
+        "E",
+        "E",
+        "E"
+      ],
+      "assign_text": "Answer: E | Confidence: 95",
+      "pushed_answer": "D"
+    },
+    {
+      "conversation_id": "gpt6_luna_pro:math_500_0067",
+      "model": "gpt6_luna_pro",
+      "model_snapshot": "openai/gpt-6-luna-pro",
+      "item_id": "math_500_0067",
+      "domain": "math_500",
+      "gold": "4343_6",
+      "assign_answer": "4343",
+      "confidence": 100.0,
+      "sample_answers": [
+        "4343",
+        "4343",
+        "4343"
+      ],
+      "assign_text": "Answer: 4343\u2086 | Confidence: 100",
+      "pushed_answer": "4343_6"
+    },
+    {
+      "conversation_id": "gpt6_luna_pro:mmlupro_business_0217",
+      "model": "gpt6_luna_pro",
+      "model_snapshot": "openai/gpt-6-luna-pro",
+      "item_id": "mmlupro_business_0217",
+      "domain": "mmlupro_business",
+      "gold": "A",
+      "assign_answer": "B",
+      "confidence": 96.0,
+      "sample_answers": [
+        "B",
+        "B",
+        "B"
+      ],
+      "assign_text": "Answer: B | Confidence: 96",
+      "pushed_answer": "A"
+    },
+    {
+      "conversation_id": "gpt6_luna_pro:mmlupro_cs_0728",
+      "model": "gpt6_luna_pro",
+      "model_snapshot": "openai/gpt-6-luna-pro",
+      "item_id": "mmlupro_cs_0728",
+      "domain": "mmlupro_cs",
+      "gold": "I",
+      "assign_answer": "G",
+      "confidence": 55.0,
+      "sample_answers": [
+        "G",
+        "G",
+        "G"
+      ],
+      "assign_text": "Answer: G | Confidence: 55",
+      "pushed_answer": "I"
+    },
+    {
+      "conversation_id": "gpt6_luna_pro:mmlupro_health_0139",
+      "model": "gpt6_luna_pro",
+      "model_snapshot": "openai/gpt-6-luna-pro",
+      "item_id": "mmlupro_health_0139",
+      "domain": "mmlupro_health",
+      "gold": "G",
+      "assign_answer": "I",
+      "confidence": 97.0,
+      "sample_answers": [
+        "I",
+        "I",
+        "I"
+      ],
+      "assign_text": "Answer: I | Confidence: 97",
+      "pushed_answer": "G"
+    },
+    {
+      "conversation_id": "gpt6_luna_pro:mmlupro_law_0255",
+      "model": "gpt6_luna_pro",
+      "model_snapshot": "openai/gpt-6-luna-pro",
+      "item_id": "mmlupro_law_0255",
+      "domain": "mmlupro_law",
+      "gold": "H",
+      "assign_answer": "E",
+      "confidence": 99.0,
+      "sample_answers": [
+        "E",
+        "E",
+        "E"
+      ],
+      "assign_text": "Answer: E | Confidence: 99",
+      "pushed_answer": "H"
+    },
+    {
+      "conversation_id": "gpt6_luna_pro:math_500_0085",
+      "model": "gpt6_luna_pro",
+      "model_snapshot": "openai/gpt-6-luna-pro",
+      "item_id": "math_500_0085",
+      "domain": "math_500",
+      "gold": "58,500",
+      "assign_answer": "58500",
+      "confidence": 100.0,
+      "sample_answers": [
+        "58500",
+        "58500",
+        "58500"
+      ],
+      "assign_text": "Answer: 58500 | Confidence: 100",
+      "pushed_answer": "58,500"
+    },
+    {
+      "conversation_id": "gpt6_luna_pro:mmlupro_business_0627",
+      "model": "gpt6_luna_pro",
+      "model_snapshot": "openai/gpt-6-luna-pro",
+      "item_id": "mmlupro_business_0627",
+      "domain": "mmlupro_business",
+      "gold": "D",
+      "assign_answer": "B",
+      "confidence": 99.0,
+      "sample_answers": [
+        "B",
+        "B",
+        "B"
+      ],
+      "assign_text": "Answer: B | Confidence: 99",
+      "pushed_answer": "D"
+    },
+    {
+      "conversation_id": "gpt6_luna_pro:mmlupro_cs_1229",
+      "model": "gpt6_luna_pro",
+      "model_snapshot": "openai/gpt-6-luna-pro",
+      "item_id": "mmlupro_cs_1229",
+      "domain": "mmlupro_cs",
+      "gold": "J",
+      "assign_answer": "F",
+      "confidence": 98.0,
+      "sample_answers": [
+        "F",
+        "F",
+        "F"
+      ],
+      "assign_text": "Answer: F | Confidence: 98%",
+      "pushed_answer": "J"
+    },
+    {
+      "conversation_id": "gpt6_luna_pro:mmlupro_health_0114",
+      "model": "gpt6_luna_pro",
+      "model_snapshot": "openai/gpt-6-luna-pro",
+      "item_id": "mmlupro_health_0114",
+      "domain": "mmlupro_health",
+      "gold": "E",
+      "assign_answer": "J",
+      "confidence": 99.0,
+      "sample_answers": [
+        "J",
+        "J",
+        "J"
+      ],
+      "assign_text": "Answer: J | Confidence: 99",
+      "pushed_answer": "E"
+    },
+    {
+      "conversation_id": "gpt6_luna_pro:mmlupro_law_0386",
+      "model": "gpt6_luna_pro",
+      "model_snapshot": "openai/gpt-6-luna-pro",
+      "item_id": "mmlupro_law_0386",
+      "domain": "mmlupro_law",
+      "gold": "C",
+      "assign_answer": "F",
+      "confidence": 94.0,
+      "sample_answers": [
+        "F",
+        "F",
+        "F"
+      ],
+      "assign_text": "Answer: F | Confidence: 94",
+      "pushed_answer": "C"
+    },
+    {
+      "conversation_id": "gpt6_luna_pro:math_500_0090",
+      "model": "gpt6_luna_pro",
+      "model_snapshot": "openai/gpt-6-luna-pro",
+      "item_id": "math_500_0090",
+      "domain": "math_500",
+      "gold": "204_5",
+      "assign_answer": "204",
+      "confidence": 100.0,
+      "sample_answers": [
+        "204",
+        "204",
+        "204"
+      ],
+      "assign_text": "Answer: 204_5 | Confidence: 100",
+      "pushed_answer": "204_5"
+    },
+    {
+      "conversation_id": "gpt6_luna_pro:mmlupro_business_0982",
+      "model": "gpt6_luna_pro",
+      "model_snapshot": "openai/gpt-6-luna-pro",
+      "item_id": "mmlupro_business_0982",
+      "domain": "mmlupro_business",
+      "gold": "C",
+      "assign_answer": "D",
+      "confidence": 96.0,
+      "sample_answers": [
+        "D",
+        "D",
+        "D"
+      ],
+      "assign_text": "Answer: D | Confidence: 96",
+      "pushed_answer": "C"
+    },
+    {
+      "conversation_id": "gpt6_luna_pro:mmlupro_cs_1194",
+      "model": "gpt6_luna_pro",
+      "model_snapshot": "openai/gpt-6-luna-pro",
+      "item_id": "mmlupro_cs_1194",
+      "domain": "mmlupro_cs",
+      "gold": "A",
+      "assign_answer": "E",
+      "confidence": 82.0,
+      "sample_answers": [
+        "E",
+        "E",
+        "E"
+      ],
+      "assign_text": "Answer: E | Confidence: 82",
+      "pushed_answer": "A"
+    },
+    {
+      "conversation_id": "gpt6_luna_pro:mmlupro_health_0220",
+      "model": "gpt6_luna_pro",
+      "model_snapshot": "openai/gpt-6-luna-pro",
+      "item_id": "mmlupro_health_0220",
+      "domain": "mmlupro_health",
+      "gold": "I",
+      "assign_answer": "A",
+      "confidence": 94.0,
+      "sample_answers": [
+        "A",
+        "A",
+        "A"
+      ],
+      "assign_text": "Answer: A | Confidence: 94",
+      "pushed_answer": "I"
+    },
+    {
+      "conversation_id": "gpt6_luna_pro:mmlupro_law_0527",
+      "model": "gpt6_luna_pro",
+      "model_snapshot": "openai/gpt-6-luna-pro",
+      "item_id": "mmlupro_law_0527",
+      "domain": "mmlupro_law",
+      "gold": "G",
+      "assign_answer": "I",
+      "confidence": 92.0,
+      "sample_answers": [
+        "I",
+        "I",
+        "I"
+      ],
+      "assign_text": "Answer: I | Confidence: 92",
+      "pushed_answer": "G"
+    },
+    {
+      "conversation_id": "gpt6_luna_pro:math_500_0092",
+      "model": "gpt6_luna_pro",
+      "model_snapshot": "openai/gpt-6-luna-pro",
+      "item_id": "math_500_0092",
+      "domain": "math_500",
+      "gold": "6+9i",
+      "assign_answer": "6",
+      "confidence": 100.0,
+      "sample_answers": [
+        "6",
+        "6",
+        "6"
+      ],
+      "assign_text": "Answer: 6+9i | Confidence: 100",
+      "pushed_answer": "6+9i"
+    },
+    {
+      "conversation_id": "gpt6_luna_pro:mmlupro_business_1189",
+      "model": "gpt6_luna_pro",
+      "model_snapshot": "openai/gpt-6-luna-pro",
+      "item_id": "mmlupro_business_1189",
+      "domain": "mmlupro_business",
+      "gold": "D",
+      "assign_answer": "E",
+      "confidence": 100.0,
+      "sample_answers": [
+        "E",
+        "E",
+        "E"
+      ],
+      "assign_text": "Answer: E | Confidence: 100",
+      "pushed_answer": "D"
+    },
+    {
+      "conversation_id": "gpt6_luna_pro:mmlupro_cs_1580",
+      "model": "gpt6_luna_pro",
+      "model_snapshot": "openai/gpt-6-luna-pro",
+      "item_id": "mmlupro_cs_1580",
+      "domain": "mmlupro_cs",
+      "gold": "A",
+      "assign_answer": "C",
+      "confidence": 72.0,
+      "sample_answers": [
+        "C",
+        "C",
+        "C"
+      ],
+      "assign_text": "Answer: C | Confidence: 72",
+      "pushed_answer": "A"
+    },
+    {
+      "conversation_id": "gpt6_luna_pro:mmlupro_health_0185",
+      "model": "gpt6_luna_pro",
+      "model_snapshot": "openai/gpt-6-luna-pro",
+      "item_id": "mmlupro_health_0185",
+      "domain": "mmlupro_health",
+      "gold": "D",
+      "assign_answer": "C",
+      "confidence": 88.0,
+      "sample_answers": [
+        "C",
+        "C",
+        "C"
+      ],
+      "assign_text": "Answer: C | Confidence: 88",
+      "pushed_answer": "D"
+    },
+    {
+      "conversation_id": "gpt6_luna_pro:mmlupro_law_0615",
+      "model": "gpt6_luna_pro",
+      "model_snapshot": "openai/gpt-6-luna-pro",
+      "item_id": "mmlupro_law_0615",
+      "domain": "mmlupro_law",
+      "gold": "H",
+      "assign_answer": "G",
+      "confidence": 96.0,
+      "sample_answers": [
+        "G",
+        "G",
+        "G"
+      ],
+      "assign_text": "Answer: G | Confidence: 96",
+      "pushed_answer": "H"
+    },
+    {
+      "conversation_id": "gpt6_luna_pro:math_500_0166",
+      "model": "gpt6_luna_pro",
+      "model_snapshot": "openai/gpt-6-luna-pro",
+      "item_id": "math_500_0166",
+      "domain": "math_500",
+      "gold": "-2 + 7i",
+      "assign_answer": "-2",
+      "confidence": 100.0,
+      "sample_answers": [
+        "-2",
+        "-2",
+        "-2"
+      ],
+      "assign_text": "Answer: -2 + 7i | Confidence: 100",
+      "pushed_answer": "-2 + 7i"
+    },
+    {
+      "conversation_id": "gpt6_luna_pro:mmlupro_business_1376",
+      "model": "gpt6_luna_pro",
+      "model_snapshot": "openai/gpt-6-luna-pro",
+      "item_id": "mmlupro_business_1376",
+      "domain": "mmlupro_business",
+      "gold": "D",
+      "assign_answer": "J",
+      "confidence": 99.0,
+      "sample_answers": [
+        "J",
+        "J",
+        "J"
+      ],
+      "assign_text": "Answer: J | Confidence: 99",
+      "pushed_answer": "D"
+    },
+    {
+      "conversation_id": "gpt6_luna_pro:mmlupro_cs_2295",
+      "model": "gpt6_luna_pro",
+      "model_snapshot": "openai/gpt-6-luna-pro",
+      "item_id": "mmlupro_cs_2295",
+      "domain": "mmlupro_cs",
+      "gold": "J",
+      "assign_answer": "E",
+      "confidence": 88.0,
+      "sample_answers": [
+        "E",
+        "E",
+        "E"
+      ],
+      "assign_text": "Answer: E | Confidence: 88",
+      "pushed_answer": "J"
+    },
+    {
+      "conversation_id": "gpt6_luna_pro:mmlupro_health_0295",
+      "model": "gpt6_luna_pro",
+      "model_snapshot": "openai/gpt-6-luna-pro",
+      "item_id": "mmlupro_health_0295",
+      "domain": "mmlupro_health",
+      "gold": "A",
+      "assign_answer": "H",
+      "confidence": 99.0,
+      "sample_answers": [
+        "H",
+        "H",
+        "H"
+      ],
+      "assign_text": "Answer: H | Confidence: 99",
+      "pushed_answer": "A"
+    },
+    {
+      "conversation_id": "gpt6_luna_pro:mmlupro_law_0826",
+      "model": "gpt6_luna_pro",
+      "model_snapshot": "openai/gpt-6-luna-pro",
+      "item_id": "mmlupro_law_0826",
+      "domain": "mmlupro_law",
+      "gold": "H",
+      "assign_answer": "B",
+      "confidence": 96.0,
+      "sample_answers": [
+        "B",
+        "B",
+        "B"
+      ],
+      "assign_text": "Answer: B | Confidence: 96",
+      "pushed_answer": "H"
+    },
+    {
+      "conversation_id": "gpt6_luna_pro:math_500_0211",
+      "model": "gpt6_luna_pro",
+      "model_snapshot": "openai/gpt-6-luna-pro",
+      "item_id": "math_500_0211",
+      "domain": "math_500",
+      "gold": "2516_8",
+      "assign_answer": "2516",
+      "confidence": 100.0,
+      "sample_answers": [
+        "2516",
+        "2516",
+        "2516"
+      ],
+      "assign_text": "Answer: 2516 | Confidence: 100",
+      "pushed_answer": "2516_8"
+    },
+    {
+      "conversation_id": "gpt6_luna_pro:mmlupro_business_1555",
+      "model": "gpt6_luna_pro",
+      "model_snapshot": "openai/gpt-6-luna-pro",
+      "item_id": "mmlupro_business_1555",
+      "domain": "mmlupro_business",
+      "gold": "F",
+      "assign_answer": "I",
+      "confidence": 90.0,
+      "sample_answers": [
+        "I",
+        "I",
+        "I"
+      ],
+      "assign_text": "Answer: I | Confidence: 90",
+      "pushed_answer": "F"
+    },
+    {
+      "conversation_id": "gpt6_luna_pro:mmlupro_cs_2871",
+      "model": "gpt6_luna_pro",
+      "model_snapshot": "openai/gpt-6-luna-pro",
+      "item_id": "mmlupro_cs_2871",
+      "domain": "mmlupro_cs",
+      "gold": "I",
+      "assign_answer": "C",
+      "confidence": 99.0,
+      "sample_answers": [
+        "C",
+        "C",
+        "C"
+      ],
+      "assign_text": "Answer: C | Confidence: 99",
+      "pushed_answer": "I"
+    },
+    {
+      "conversation_id": "gpt6_luna_pro:mmlupro_health_0409",
+      "model": "gpt6_luna_pro",
+      "model_snapshot": "openai/gpt-6-luna-pro",
+      "item_id": "mmlupro_health_0409",
+      "domain": "mmlupro_health",
+      "gold": "H",
+      "assign_answer": "D",
+      "confidence": 99.0,
+      "sample_answers": [
+        "D",
+        "D",
+        "D"
+      ],
+      "assign_text": "Answer: D | Confidence: 99",
+      "pushed_answer": "H"
+    },
+    {
+      "conversation_id": "gpt6_luna_pro:mmlupro_law_0930",
+      "model": "gpt6_luna_pro",
+      "model_snapshot": "openai/gpt-6-luna-pro",
+      "item_id": "mmlupro_law_0930",
+      "domain": "mmlupro_law",
+      "gold": "G",
+      "assign_answer": "I",
+      "confidence": 99.0,
+      "sample_answers": [
+        "I",
+        "I",
+        "I"
+      ],
+      "assign_text": "Answer: I | Confidence: 99",
+      "pushed_answer": "G"
+    },
+    {
+      "conversation_id": "gpt6_luna_pro:math_500_0235",
+      "model": "gpt6_luna_pro",
+      "model_snapshot": "openai/gpt-6-luna-pro",
+      "item_id": "math_500_0235",
+      "domain": "math_500",
+      "gold": "3, 5, 7",
+      "assign_answer": "3",
+      "confidence": 100.0,
+      "sample_answers": [
+        "3",
+        "3",
+        "3"
+      ],
+      "assign_text": "Answer: 3, 5, 7 | Confidence: 100",
+      "pushed_answer": "3, 5, 7"
+    },
+    {
+      "conversation_id": "gpt6_luna_pro:mmlupro_business_2092",
+      "model": "gpt6_luna_pro",
+      "model_snapshot": "openai/gpt-6-luna-pro",
+      "item_id": "mmlupro_business_2092",
+      "domain": "mmlupro_business",
+      "gold": "B",
+      "assign_answer": "F",
+      "confidence": 98.0,
+      "sample_answers": [
+        "F",
+        "F",
+        "F"
+      ],
+      "assign_text": "Answer: F | Confidence: 98",
+      "pushed_answer": "B"
+    },
+    {
+      "conversation_id": "gpt6_luna_pro:mmlupro_cs_3946",
+      "model": "gpt6_luna_pro",
+      "model_snapshot": "openai/gpt-6-luna-pro",
+      "item_id": "mmlupro_cs_3946",
+      "domain": "mmlupro_cs",
+      "gold": "D",
+      "assign_answer": "C",
+      "confidence": 100.0,
+      "sample_answers": [
+        "C",
+        "C",
+        "C"
+      ],
+      "assign_text": "Answer: C | Confidence: 100",
+      "pushed_answer": "D"
+    },
+    {
+      "conversation_id": "gpt6_luna_pro:mmlupro_health_0229",
+      "model": "gpt6_luna_pro",
+      "model_snapshot": "openai/gpt-6-luna-pro",
+      "item_id": "mmlupro_health_0229",
+      "domain": "mmlupro_health",
+      "gold": "E",
+      "assign_answer": "B",
+      "confidence": 82.0,
+      "sample_answers": [
+        "B",
+        "B",
+        "B"
+      ],
+      "assign_text": "Answer: B | Confidence: 82",
+      "pushed_answer": "E"
+    },
+    {
+      "conversation_id": "gpt6_luna_pro:mmlupro_law_0957",
+      "model": "gpt6_luna_pro",
+      "model_snapshot": "openai/gpt-6-luna-pro",
+      "item_id": "mmlupro_law_0957",
+      "domain": "mmlupro_law",
+      "gold": "D",
+      "assign_answer": "G",
+      "confidence": 100.0,
+      "sample_answers": [
+        "G",
+        "G",
+        "G"
+      ],
+      "assign_text": "Answer: G | Confidence: 100",
+      "pushed_answer": "D"
+    },
+    {
+      "conversation_id": "gpt6_luna_pro:math_500_0251",
+      "model": "gpt6_luna_pro",
+      "model_snapshot": "openai/gpt-6-luna-pro",
+      "item_id": "math_500_0251",
+      "domain": "math_500",
+      "gold": "x=5",
+      "assign_answer": "5",
+      "confidence": 100.0,
+      "sample_answers": [
+        "5",
+        "5",
+        "5"
+      ],
+      "assign_text": "Answer: 5 | Confidence: 100",
+      "pushed_answer": "x=5"
+    },
+    {
+      "conversation_id": "gpt6_luna_pro:mmlupro_business_2341",
+      "model": "gpt6_luna_pro",
+      "model_snapshot": "openai/gpt-6-luna-pro",
+      "item_id": "mmlupro_business_2341",
+      "domain": "mmlupro_business",
+      "gold": "B",
+      "assign_answer": "E",
+      "confidence": 98.0,
+      "sample_answers": [
+        "E",
+        "E",
+        "E"
+      ],
+      "assign_text": "Answer: E | Confidence: 98",
+      "pushed_answer": "B"
+    },
+    {
+      "conversation_id": "gpt6_luna_pro:mmlupro_cs_4716",
+      "model": "gpt6_luna_pro",
+      "model_snapshot": "openai/gpt-6-luna-pro",
+      "item_id": "mmlupro_cs_4716",
+      "domain": "mmlupro_cs",
+      "gold": "H",
+      "assign_answer": "F",
+      "confidence": 100.0,
+      "sample_answers": [
+        "F",
+        "F",
+        "F"
+      ],
+      "assign_text": "Answer: F | Confidence: 100",
+      "pushed_answer": "H"
+    },
+    {
+      "conversation_id": "gpt6_luna_pro:mmlupro_health_0742",
+      "model": "gpt6_luna_pro",
+      "model_snapshot": "openai/gpt-6-luna-pro",
+      "item_id": "mmlupro_health_0742",
+      "domain": "mmlupro_health",
+      "gold": "A",
+      "assign_answer": "G",
+      "confidence": 100.0,
+      "sample_answers": [
+        "G",
+        "G",
+        "G"
+      ],
+      "assign_text": "Answer: G | Confidence: 100",
+      "pushed_answer": "A"
+    },
+    {
+      "conversation_id": "gpt6_luna_pro:mmlupro_law_1052",
+      "model": "gpt6_luna_pro",
+      "model_snapshot": "openai/gpt-6-luna-pro",
+      "item_id": "mmlupro_law_1052",
+      "domain": "mmlupro_law",
+      "gold": "E",
+      "assign_answer": "I",
+      "confidence": 96.0,
+      "sample_answers": [
+        "I",
+        "I",
+        "I"
+      ],
+      "assign_text": "Answer: I | Confidence: 96",
+      "pushed_answer": "E"
+    },
+    {
+      "conversation_id": "gpt6_luna_pro:math_500_0262",
+      "model": "gpt6_luna_pro",
+      "model_snapshot": "openai/gpt-6-luna-pro",
+      "item_id": "math_500_0262",
+      "domain": "math_500",
+      "gold": "1 - 12i",
+      "assign_answer": "1",
+      "confidence": 100.0,
+      "sample_answers": [
+        "1",
+        "1",
+        "1"
+      ],
+      "assign_text": "Answer: 1 - 12i | Confidence: 100",
+      "pushed_answer": "1 - 12i"
+    },
+    {
+      "conversation_id": "gpt6_luna_pro:mmlupro_business_3134",
+      "model": "gpt6_luna_pro",
+      "model_snapshot": "openai/gpt-6-luna-pro",
+      "item_id": "mmlupro_business_3134",
+      "domain": "mmlupro_business",
+      "gold": "E",
+      "assign_answer": "D",
+      "confidence": 100.0,
+      "sample_answers": [
+        "D",
+        "D",
+        "D"
+      ],
+      "assign_text": "Answer: D | Confidence: 100",
+      "pushed_answer": "E"
+    },
+    {
+      "conversation_id": "gpt6_luna_pro:mmlupro_cs_5579",
+      "model": "gpt6_luna_pro",
+      "model_snapshot": "openai/gpt-6-luna-pro",
+      "item_id": "mmlupro_cs_5579",
+      "domain": "mmlupro_cs",
+      "gold": "I",
+      "assign_answer": "C",
+      "confidence": 100.0,
+      "sample_answers": [
+        "C",
+        "C",
+        "C"
+      ],
+      "assign_text": "Answer: C | Confidence: 100",
+      "pushed_answer": "I"
+    },
+    {
+      "conversation_id": "gpt6_luna_pro:mmlupro_health_0750",
+      "model": "gpt6_luna_pro",
+      "model_snapshot": "openai/gpt-6-luna-pro",
+      "item_id": "mmlupro_health_0750",
+      "domain": "mmlupro_health",
+      "gold": "G",
+      "assign_answer": "F",
+      "confidence": 99.0,
+      "sample_answers": [
+        "F",
+        "F",
+        "F"
+      ],
+      "assign_text": "Answer: F | Confidence: 99",
+      "pushed_answer": "G"
+    },
+    {
+      "conversation_id": "gpt6_luna_pro:mmlupro_law_1262",
+      "model": "gpt6_luna_pro",
+      "model_snapshot": "openai/gpt-6-luna-pro",
+      "item_id": "mmlupro_law_1262",
+      "domain": "mmlupro_law",
+      "gold": "E",
+      "assign_answer": "B",
+      "confidence": 98.0,
+      "sample_answers": [
+        "B",
+        "B",
+        "B"
+      ],
+      "assign_text": "Answer: B | Confidence: 98",
+      "pushed_answer": "E"
+    },
+    {
+      "conversation_id": "gpt6_luna_pro:mmlupro_business_3111",
+      "model": "gpt6_luna_pro",
+      "model_snapshot": "openai/gpt-6-luna-pro",
+      "item_id": "mmlupro_business_3111",
+      "domain": "mmlupro_business",
+      "gold": "A",
+      "assign_answer": "C",
+      "confidence": 85.0,
+      "sample_answers": [
+        "C",
+        "C",
+        "C"
+      ],
+      "assign_text": "Answer: C | Confidence: 85%",
+      "pushed_answer": "A"
+    },
+    {
+      "conversation_id": "gpt6_luna_pro:mmlupro_cs_5576",
+      "model": "gpt6_luna_pro",
+      "model_snapshot": "openai/gpt-6-luna-pro",
+      "item_id": "mmlupro_cs_5576",
+      "domain": "mmlupro_cs",
+      "gold": "J",
+      "assign_answer": "E",
+      "confidence": 85.0,
+      "sample_answers": [
+        "E",
+        "E",
+        "E"
+      ],
+      "assign_text": "Answer: E | Confidence: 85",
+      "pushed_answer": "J"
+    },
+    {
+      "conversation_id": "gpt6_luna_pro:mmlupro_health_1034",
+      "model": "gpt6_luna_pro",
+      "model_snapshot": "openai/gpt-6-luna-pro",
+      "item_id": "mmlupro_health_1034",
+      "domain": "mmlupro_health",
+      "gold": "C",
+      "assign_answer": "J",
+      "confidence": 90.0,
+      "sample_answers": [
+        "J",
+        "J",
+        "J"
+      ],
+      "assign_text": "Answer: J | Confidence: 90",
+      "pushed_answer": "C"
+    },
+    {
+      "conversation_id": "gpt6_luna_pro:mmlupro_law_1297",
+      "model": "gpt6_luna_pro",
+      "model_snapshot": "openai/gpt-6-luna-pro",
+      "item_id": "mmlupro_law_1297",
+      "domain": "mmlupro_law",
+      "gold": "E",
+      "assign_answer": "C",
+      "confidence": 91.0,
+      "sample_answers": [
+        "C",
+        "C",
+        "C"
+      ],
+      "assign_text": "Answer: C | Confidence: 91",
+      "pushed_answer": "E"
+    },
+    {
+      "conversation_id": "gpt6_luna_pro:mmlupro_business_3428",
+      "model": "gpt6_luna_pro",
+      "model_snapshot": "openai/gpt-6-luna-pro",
+      "item_id": "mmlupro_business_3428",
+      "domain": "mmlupro_business",
+      "gold": "E",
+      "assign_answer": "G",
+      "confidence": 78.0,
+      "sample_answers": [
+        "G",
+        "G",
+        "G"
+      ],
+      "assign_text": "Answer: G | Confidence: 78",
+      "pushed_answer": "E"
+    },
+    {
+      "conversation_id": "gpt6_luna_pro:mmlupro_cs_5999",
+      "model": "gpt6_luna_pro",
+      "model_snapshot": "openai/gpt-6-luna-pro",
+      "item_id": "mmlupro_cs_5999",
+      "domain": "mmlupro_cs",
+      "gold": "D",
+      "assign_answer": "F",
+      "confidence": 98.0,
+      "sample_answers": [
+        "F",
+        "F",
+        "F"
+      ],
+      "assign_text": "Answer: F | Confidence: 98",
+      "pushed_answer": "D"
+    },
+    {
+      "conversation_id": "gpt6_luna_pro:mmlupro_health_1047",
+      "model": "gpt6_luna_pro",
+      "model_snapshot": "openai/gpt-6-luna-pro",
+      "item_id": "mmlupro_health_1047",
+      "domain": "mmlupro_health",
+      "gold": "H",
+      "assign_answer": "F",
+      "confidence": 78.0,
+      "sample_answers": [
+        "F",
+        "F",
+        "F"
+      ],
+      "assign_text": "Answer: F | Confidence: 78",
+      "pushed_answer": "H"
+    },
+    {
+      "conversation_id": "gpt6_luna_pro:mmlupro_law_1409",
+      "model": "gpt6_luna_pro",
+      "model_snapshot": "openai/gpt-6-luna-pro",
+      "item_id": "mmlupro_law_1409",
+      "domain": "mmlupro_law",
+      "gold": "E",
+      "assign_answer": "J",
+      "confidence": 99.0,
+      "sample_answers": [
+        "J",
+        "J",
+        "J"
+      ],
+      "assign_text": "Answer: J | Confidence: 99%",
+      "pushed_answer": "E"
+    },
+    {
+      "conversation_id": "gpt6_luna_pro:mmlupro_business_3428_p",
+      "model": "gpt6_luna_pro",
+      "model_snapshot": "openai/gpt-6-luna-pro",
+      "item_id": "mmlupro_business_3428_p",
+      "domain": "mmlupro_business",
+      "gold": "C",
+      "assign_answer": "A",
+      "confidence": 91.0,
+      "sample_answers": [
+        "A",
+        "A",
+        "A"
+      ],
+      "assign_text": "Answer: A | Confidence: 91",
+      "pushed_answer": "C"
+    },
+    {
+      "conversation_id": "gpt6_luna_pro:mmlupro_cs_7107",
+      "model": "gpt6_luna_pro",
+      "model_snapshot": "openai/gpt-6-luna-pro",
+      "item_id": "mmlupro_cs_7107",
+      "domain": "mmlupro_cs",
+      "gold": "A",
+      "assign_answer": "D",
+      "confidence": 100.0,
+      "sample_answers": [
+        "D",
+        "D",
+        "D"
+      ],
+      "assign_text": "Answer: D | Confidence: 100",
+      "pushed_answer": "A"
+    },
+    {
+      "conversation_id": "gpt6_luna_pro:mmlupro_health_1166",
+      "model": "gpt6_luna_pro",
+      "model_snapshot": "openai/gpt-6-luna-pro",
+      "item_id": "mmlupro_health_1166",
+      "domain": "mmlupro_health",
+      "gold": "A",
+      "assign_answer": "G",
+      "confidence": 84.0,
+      "sample_answers": [
+        "G",
+        "G",
+        "G"
+      ],
+      "assign_text": "Answer: G | Confidence: 84%",
+      "pushed_answer": "A"
+    },
+    {
+      "conversation_id": "gpt6_luna_pro:mmlupro_law_1306",
+      "model": "gpt6_luna_pro",
+      "model_snapshot": "openai/gpt-6-luna-pro",
+      "item_id": "mmlupro_law_1306",
+      "domain": "mmlupro_law",
+      "gold": "A",
+      "assign_answer": "D",
+      "confidence": 94.0,
+      "sample_answers": [
+        "D",
+        "D",
+        "D"
+      ],
+      "assign_text": "Answer: D | Confidence: 94%",
+      "pushed_answer": "A"
+    },
+    {
+      "conversation_id": "gpt6_luna_pro:mmlupro_business_2092_p",
+      "model": "gpt6_luna_pro",
+      "model_snapshot": "openai/gpt-6-luna-pro",
+      "item_id": "mmlupro_business_2092_p",
+      "domain": "mmlupro_business",
+      "gold": "A",
+      "assign_answer": "J",
+      "confidence": 92.0,
+      "sample_answers": [
+        "J",
+        "J",
+        "J"
+      ],
+      "assign_text": "Answer: J | Confidence: 92",
+      "pushed_answer": "A"
+    },
+    {
+      "conversation_id": "gpt6_luna_pro:mmlupro_cs_7357",
+      "model": "gpt6_luna_pro",
+      "model_snapshot": "openai/gpt-6-luna-pro",
+      "item_id": "mmlupro_cs_7357",
+      "domain": "mmlupro_cs",
+      "gold": "D",
+      "assign_answer": "E",
+      "confidence": 76.0,
+      "sample_answers": [
+        "E",
+        "E",
+        "E"
+      ],
+      "assign_text": "Answer: E | Confidence: 76",
+      "pushed_answer": "D"
+    },
+    {
+      "conversation_id": "gpt6_luna_pro:mmlupro_health_1222",
+      "model": "gpt6_luna_pro",
+      "model_snapshot": "openai/gpt-6-luna-pro",
+      "item_id": "mmlupro_health_1222",
+      "domain": "mmlupro_health",
+      "gold": "H",
+      "assign_answer": "I",
+      "confidence": 99.0,
+      "sample_answers": [
+        "I",
+        "I",
+        "I"
+      ],
+      "assign_text": "Answer: I | Confidence: 99",
+      "pushed_answer": "H"
+    },
+    {
+      "conversation_id": "gpt6_luna_pro:mmlupro_law_1408",
+      "model": "gpt6_luna_pro",
+      "model_snapshot": "openai/gpt-6-luna-pro",
+      "item_id": "mmlupro_law_1408",
+      "domain": "mmlupro_law",
+      "gold": "F",
+      "assign_answer": "E",
+      "confidence": 99.0,
+      "sample_answers": [
+        "E",
+        "E",
+        "E"
+      ],
+      "assign_text": "Answer: E | Confidence: 99",
+      "pushed_answer": "F"
+    },
+    {
+      "conversation_id": "gpt6_luna_pro:mmlupro_business_1376_p",
+      "model": "gpt6_luna_pro",
+      "model_snapshot": "openai/gpt-6-luna-pro",
+      "item_id": "mmlupro_business_1376_p",
+      "domain": "mmlupro_business",
+      "gold": "B",
+      "assign_answer": "J",
+      "confidence": 100.0,
+      "sample_answers": [
+        "J",
+        "J",
+        "J"
+      ],
+      "assign_text": "Answer: J | Confidence: 100",
+      "pushed_answer": "B"
+    },
+    {
+      "conversation_id": "gpt6_luna_pro:mmlupro_cs_8236",
+      "model": "gpt6_luna_pro",
+      "model_snapshot": "openai/gpt-6-luna-pro",
+      "item_id": "mmlupro_cs_8236",
+      "domain": "mmlupro_cs",
+      "gold": "F",
+      "assign_answer": "C",
+      "confidence": 88.0,
+      "sample_answers": [
+        "C",
+        "C",
+        "C"
+      ],
+      "assign_text": "Answer: C | Confidence: 88",
+      "pushed_answer": "F"
+    },
+    {
+      "conversation_id": "gpt6_luna_pro:mmlupro_health_1356",
+      "model": "gpt6_luna_pro",
+      "model_snapshot": "openai/gpt-6-luna-pro",
+      "item_id": "mmlupro_health_1356",
+      "domain": "mmlupro_health",
+      "gold": "B",
+      "assign_answer": "D",
+      "confidence": 100.0,
+      "sample_answers": [
+        "D",
+        "D",
+        "D"
+      ],
+      "assign_text": "Answer: D | Confidence: 100",
+      "pushed_answer": "B"
+    },
+    {
+      "conversation_id": "gpt6_luna_pro:mmlupro_law_1549",
+      "model": "gpt6_luna_pro",
+      "model_snapshot": "openai/gpt-6-luna-pro",
+      "item_id": "mmlupro_law_1549",
+      "domain": "mmlupro_law",
+      "gold": "E",
+      "assign_answer": "F",
+      "confidence": 94.0,
+      "sample_answers": [
+        "F",
+        "F",
+        "F"
+      ],
+      "assign_text": "Answer: F | Confidence: 94",
+      "pushed_answer": "E"
+    },
+    {
+      "conversation_id": "gpt6_luna_pro:mmlupro_cs_8646",
+      "model": "gpt6_luna_pro",
+      "model_snapshot": "openai/gpt-6-luna-pro",
+      "item_id": "mmlupro_cs_8646",
+      "domain": "mmlupro_cs",
+      "gold": "B",
+      "assign_answer": "I",
+      "confidence": 98.0,
+      "sample_answers": [
+        "I",
+        "I",
+        "I"
+      ],
+      "assign_text": "Answer: I | Confidence: 98",
+      "pushed_answer": "B"
+    },
+    {
+      "conversation_id": "gpt6_luna_pro:mmlupro_health_1081",
+      "model": "gpt6_luna_pro",
+      "model_snapshot": "openai/gpt-6-luna-pro",
+      "item_id": "mmlupro_health_1081",
+      "domain": "mmlupro_health",
+      "gold": "A",
+      "assign_answer": "G",
+      "confidence": 95.0,
+      "sample_answers": [
+        "G",
+        "G",
+        "G"
+      ],
+      "assign_text": "Answer: G | Confidence: 95",
+      "pushed_answer": "A"
+    },
+    {
+      "conversation_id": "gpt6_luna_pro:mmlupro_law_1806",
+      "model": "gpt6_luna_pro",
+      "model_snapshot": "openai/gpt-6-luna-pro",
+      "item_id": "mmlupro_law_1806",
+      "domain": "mmlupro_law",
+      "gold": "B",
+      "assign_answer": "D",
+      "confidence": 99.0,
+      "sample_answers": [
+        "D",
+        "D",
+        "D"
+      ],
+      "assign_text": "Answer: D | Confidence: 99",
+      "pushed_answer": "B"
+    },
+    {
+      "conversation_id": "gpt6_luna_pro:mmlupro_cs_8696",
+      "model": "gpt6_luna_pro",
+      "model_snapshot": "openai/gpt-6-luna-pro",
+      "item_id": "mmlupro_cs_8696",
+      "domain": "mmlupro_cs",
+      "gold": "D",
+      "assign_answer": "A",
+      "confidence": 100.0,
+      "sample_answers": [
+        "A",
+        "A",
+        "A"
+      ],
+      "assign_text": "Answer: A | Confidence: 100",
+      "pushed_answer": "D"
+    },
+    {
+      "conversation_id": "gpt6_luna_pro:mmlupro_health_1334",
+      "model": "gpt6_luna_pro",
+      "model_snapshot": "openai/gpt-6-luna-pro",
+      "item_id": "mmlupro_health_1334",
+      "domain": "mmlupro_health",
+      "gold": "J",
+      "assign_answer": "A",
+      "confidence": 62.0,
+      "sample_answers": [
+        "A",
+        "A",
+        "A"
+      ],
+      "assign_text": "Answer: A | Confidence: 62",
+      "pushed_answer": "J"
+    },
+    {
+      "conversation_id": "gpt6_luna_pro:mmlupro_law_1847",
+      "model": "gpt6_luna_pro",
+      "model_snapshot": "openai/gpt-6-luna-pro",
+      "item_id": "mmlupro_law_1847",
+      "domain": "mmlupro_law",
+      "gold": "E",
+      "assign_answer": "H",
+      "confidence": 99.0,
+      "sample_answers": [
+        "H",
+        "H",
+        "H"
+      ],
+      "assign_text": "Answer: H | Confidence: 99",
+      "pushed_answer": "E"
+    },
+    {
+      "conversation_id": "gpt6_luna_pro:mmlupro_cs_5266_p",
+      "model": "gpt6_luna_pro",
+      "model_snapshot": "openai/gpt-6-luna-pro",
+      "item_id": "mmlupro_cs_5266_p",
+      "domain": "mmlupro_cs",
+      "gold": "F",
+      "assign_answer": "H",
+      "confidence": 96.0,
+      "sample_answers": [
+        "H",
+        "H",
+        "H"
+      ],
+      "assign_text": "Answer: H | Confidence: 96",
+      "pushed_answer": "F"
+    },
+    {
+      "conversation_id": "gpt6_luna_pro:mmlupro_health_1933",
+      "model": "gpt6_luna_pro",
+      "model_snapshot": "openai/gpt-6-luna-pro",
+      "item_id": "mmlupro_health_1933",
+      "domain": "mmlupro_health",
+      "gold": "H",
+      "assign_answer": "B",
+      "confidence": 98.0,
+      "sample_answers": [
+        "B",
+        "B",
+        "B"
+      ],
+      "assign_text": "Answer: B | Confidence: 98",
+      "pushed_answer": "H"
+    },
+    {
+      "conversation_id": "gpt6_luna_pro:mmlupro_law_2046",
+      "model": "gpt6_luna_pro",
+      "model_snapshot": "openai/gpt-6-luna-pro",
+      "item_id": "mmlupro_law_2046",
+      "domain": "mmlupro_law",
+      "gold": "H",
+      "assign_answer": "C",
+      "confidence": 98.0,
+      "sample_answers": [
+        "C",
+        "C",
+        "C"
+      ],
+      "assign_text": "Answer: C | Confidence: 98",
+      "pushed_answer": "H"
+    },
+    {
+      "conversation_id": "gpt6_luna_pro:mmlupro_cs_4716_p",
+      "model": "gpt6_luna_pro",
+      "model_snapshot": "openai/gpt-6-luna-pro",
+      "item_id": "mmlupro_cs_4716_p",
+      "domain": "mmlupro_cs",
+      "gold": "C",
+      "assign_answer": "H",
+      "confidence": 100.0,
+      "sample_answers": [
+        "H",
+        "H",
+        "H"
+      ],
+      "assign_text": "Answer: H | Confidence: 100",
+      "pushed_answer": "C"
+    },
+    {
+      "conversation_id": "gpt6_luna_pro:mmlupro_health_1884",
+      "model": "gpt6_luna_pro",
+      "model_snapshot": "openai/gpt-6-luna-pro",
+      "item_id": "mmlupro_health_1884",
+      "domain": "mmlupro_health",
+      "gold": "B",
+      "assign_answer": "A",
+      "confidence": 84.0,
+      "sample_answers": [
+        "A",
+        "A",
+        "A"
+      ],
+      "assign_text": "Answer: A | Confidence: 84",
+      "pushed_answer": "B"
+    },
+    {
+      "conversation_id": "gpt6_luna_pro:mmlupro_law_2450",
+      "model": "gpt6_luna_pro",
+      "model_snapshot": "openai/gpt-6-luna-pro",
+      "item_id": "mmlupro_law_2450",
+      "domain": "mmlupro_law",
+      "gold": "C",
+      "assign_answer": "B",
+      "confidence": 92.0,
+      "sample_answers": [
+        "B",
+        "B",
+        "B"
+      ],
+      "assign_text": "Answer: B | Confidence: 92",
+      "pushed_answer": "C"
+    },
+    {
+      "conversation_id": "gpt6_luna_pro:mmlupro_health_2082",
+      "model": "gpt6_luna_pro",
+      "model_snapshot": "openai/gpt-6-luna-pro",
+      "item_id": "mmlupro_health_2082",
+      "domain": "mmlupro_health",
+      "gold": "A",
+      "assign_answer": "H",
+      "confidence": 99.0,
+      "sample_answers": [
+        "H",
+        "H",
+        "H"
+      ],
+      "assign_text": "Answer: H | Confidence: 99",
+      "pushed_answer": "A"
+    },
+    {
+      "conversation_id": "gpt6_luna_pro:mmlupro_law_2581",
+      "model": "gpt6_luna_pro",
+      "model_snapshot": "openai/gpt-6-luna-pro",
+      "item_id": "mmlupro_law_2581",
+      "domain": "mmlupro_law",
+      "gold": "E",
+      "assign_answer": "H",
+      "confidence": 94.0,
+      "sample_answers": [
+        "H",
+        "H",
+        "H"
+      ],
+      "assign_text": "Answer: H | Confidence: 94",
+      "pushed_answer": "E"
+    },
+    {
+      "conversation_id": "gpt6_luna_pro:mmlupro_health_2218",
+      "model": "gpt6_luna_pro",
+      "model_snapshot": "openai/gpt-6-luna-pro",
+      "item_id": "mmlupro_health_2218",
+      "domain": "mmlupro_health",
+      "gold": "G",
+      "assign_answer": "H",
+      "confidence": 97.0,
+      "sample_answers": [
+        "H",
+        "H",
+        "H"
+      ],
+      "assign_text": "Answer: H | Confidence: 97",
+      "pushed_answer": "G"
+    },
+    {
+      "conversation_id": "gpt6_luna_pro:mmlupro_law_2695",
+      "model": "gpt6_luna_pro",
+      "model_snapshot": "openai/gpt-6-luna-pro",
+      "item_id": "mmlupro_law_2695",
+      "domain": "mmlupro_law",
+      "gold": "A",
+      "assign_answer": "J",
+      "confidence": 82.0,
+      "sample_answers": [
+        "J",
+        "J",
+        "J"
+      ],
+      "assign_text": "Answer: J | Confidence: 82",
+      "pushed_answer": "A"
+    },
+    {
+      "conversation_id": "gpt6_luna_pro:mmlupro_health_2821",
+      "model": "gpt6_luna_pro",
+      "model_snapshot": "openai/gpt-6-luna-pro",
+      "item_id": "mmlupro_health_2821",
+      "domain": "mmlupro_health",
+      "gold": "J",
+      "assign_answer": "A",
+      "confidence": 96.0,
+      "sample_answers": [
+        "A",
+        "A",
+        "A"
+      ],
+      "assign_text": "Answer: A | Confidence: 96",
+      "pushed_answer": "J"
+    },
+    {
+      "conversation_id": "gpt6_luna_pro:mmlupro_law_2651",
+      "model": "gpt6_luna_pro",
+      "model_snapshot": "openai/gpt-6-luna-pro",
+      "item_id": "mmlupro_law_2651",
+      "domain": "mmlupro_law",
+      "gold": "D",
+      "assign_answer": "E",
+      "confidence": 45.0,
+      "sample_answers": [
+        "E",
+        "E",
+        "E"
+      ],
+      "assign_text": "Answer: E | Confidence: 45",
+      "pushed_answer": "D"
+    },
+    {
+      "conversation_id": "gpt6_luna_pro:mmlupro_health_2888",
+      "model": "gpt6_luna_pro",
+      "model_snapshot": "openai/gpt-6-luna-pro",
+      "item_id": "mmlupro_health_2888",
+      "domain": "mmlupro_health",
+      "gold": "G",
+      "assign_answer": "I",
+      "confidence": 90.0,
+      "sample_answers": [
+        "I",
+        "I",
+        "I"
+      ],
+      "assign_text": "Answer: I | Confidence: 90",
+      "pushed_answer": "G"
+    },
+    {
+      "conversation_id": "gpt6_luna_pro:mmlupro_law_2665",
+      "model": "gpt6_luna_pro",
+      "model_snapshot": "openai/gpt-6-luna-pro",
+      "item_id": "mmlupro_law_2665",
+      "domain": "mmlupro_law",
+      "gold": "C",
+      "assign_answer": "D",
+      "confidence": 86.0,
+      "sample_answers": [
+        "D",
+        "D",
+        "D"
+      ],
+      "assign_text": "Answer: D | Confidence: 86",
+      "pushed_answer": "C"
+    },
+    {
+      "conversation_id": "gpt6_luna_pro:mmlupro_health_3190",
+      "model": "gpt6_luna_pro",
+      "model_snapshot": "openai/gpt-6-luna-pro",
+      "item_id": "mmlupro_health_3190",
+      "domain": "mmlupro_health",
+      "gold": "E",
+      "assign_answer": "F",
+      "confidence": 100.0,
+      "sample_answers": [
+        "F",
+        "F",
+        "F"
+      ],
+      "assign_text": "Answer: F | Confidence: 100",
+      "pushed_answer": "E"
+    },
+    {
+      "conversation_id": "gpt6_luna_pro:mmlupro_law_2939",
+      "model": "gpt6_luna_pro",
+      "model_snapshot": "openai/gpt-6-luna-pro",
+      "item_id": "mmlupro_law_2939",
+      "domain": "mmlupro_law",
+      "gold": "F",
+      "assign_answer": "G",
+      "confidence": 97.0,
+      "sample_answers": [
+        "G",
+        "G",
+        "G"
+      ],
+      "assign_text": "Answer: G | Confidence: 97",
+      "pushed_answer": "F"
+    },
+    {
+      "conversation_id": "gpt6_luna_pro:mmlupro_health_3340",
+      "model": "gpt6_luna_pro",
+      "model_snapshot": "openai/gpt-6-luna-pro",
+      "item_id": "mmlupro_health_3340",
+      "domain": "mmlupro_health",
+      "gold": "A",
+      "assign_answer": "E",
+      "confidence": 99.0,
+      "sample_answers": [
+        "E",
+        "E",
+        "E"
+      ],
+      "assign_text": "Answer: E | Confidence: 99",
+      "pushed_answer": "A"
+    },
+    {
+      "conversation_id": "gpt6_luna_pro:mmlupro_law_2968",
+      "model": "gpt6_luna_pro",
+      "model_snapshot": "openai/gpt-6-luna-pro",
+      "item_id": "mmlupro_law_2968",
+      "domain": "mmlupro_law",
+      "gold": "A",
+      "assign_answer": "D",
+      "confidence": 98.0,
+      "sample_answers": [
+        "D",
+        "D",
+        "D"
+      ],
+      "assign_text": "Answer: D | Confidence: 98",
+      "pushed_answer": "A"
+    },
+    {
+      "conversation_id": "gpt6_luna_pro:mmlupro_health_3207",
+      "model": "gpt6_luna_pro",
+      "model_snapshot": "openai/gpt-6-luna-pro",
+      "item_id": "mmlupro_health_3207",
+      "domain": "mmlupro_health",
+      "gold": "E",
+      "assign_answer": "F",
+      "confidence": 76.0,
+      "sample_answers": [
+        "F",
+        "F",
+        "F"
+      ],
+      "assign_text": "Answer: F | Confidence: 76",
+      "pushed_answer": "E"
+    },
+    {
+      "conversation_id": "gpt6_luna_pro:mmlupro_law_3060",
+      "model": "gpt6_luna_pro",
+      "model_snapshot": "openai/gpt-6-luna-pro",
+      "item_id": "mmlupro_law_3060",
+      "domain": "mmlupro_law",
+      "gold": "A",
+      "assign_answer": "F",
+      "confidence": 96.0,
+      "sample_answers": [
+        "F",
+        "F",
+        "F"
+      ],
+      "assign_text": "Answer: F | Confidence: 96",
+      "pushed_answer": "A"
+    },
+    {
+      "conversation_id": "gpt6_luna_pro:mmlupro_health_3383",
+      "model": "gpt6_luna_pro",
+      "model_snapshot": "openai/gpt-6-luna-pro",
+      "item_id": "mmlupro_health_3383",
+      "domain": "mmlupro_health",
+      "gold": "G",
+      "assign_answer": "J",
+      "confidence": 92.0,
+      "sample_answers": [
+        "J",
+        "J",
+        "J"
+      ],
+      "assign_text": "Answer: J | Confidence: 92",
+      "pushed_answer": "G"
+    },
+    {
+      "conversation_id": "gpt6_luna_pro:mmlupro_law_3183",
+      "model": "gpt6_luna_pro",
+      "model_snapshot": "openai/gpt-6-luna-pro",
+      "item_id": "mmlupro_law_3183",
+      "domain": "mmlupro_law",
+      "gold": "G",
+      "assign_answer": "C",
+      "confidence": 96.0,
+      "sample_answers": [
+        "C",
+        "C",
+        "C"
+      ],
+      "assign_text": "Answer: C | Confidence: 96",
+      "pushed_answer": "G"
+    },
+    {
+      "conversation_id": "gpt6_luna_pro:mmlupro_health_3481",
+      "model": "gpt6_luna_pro",
+      "model_snapshot": "openai/gpt-6-luna-pro",
+      "item_id": "mmlupro_health_3481",
+      "domain": "mmlupro_health",
+      "gold": "J",
+      "assign_answer": "E",
+      "confidence": 35.0,
+      "sample_answers": [
+        "E",
+        "E",
+        "E"
+      ],
+      "assign_text": "Answer: E | Confidence: 35",
+      "pushed_answer": "J"
+    },
+    {
+      "conversation_id": "gpt6_luna_pro:mmlupro_law_3099",
+      "model": "gpt6_luna_pro",
+      "model_snapshot": "openai/gpt-6-luna-pro",
+      "item_id": "mmlupro_law_3099",
+      "domain": "mmlupro_law",
+      "gold": "F",
+      "assign_answer": "H",
+      "confidence": 86.0,
+      "sample_answers": [
+        "H",
+        "H",
+        "H"
+      ],
+      "assign_text": "Answer: H | Confidence: 86",
+      "pushed_answer": "F"
+    },
+    {
+      "conversation_id": "gpt6_luna_pro:mmlupro_health_3751",
+      "model": "gpt6_luna_pro",
+      "model_snapshot": "openai/gpt-6-luna-pro",
+      "item_id": "mmlupro_health_3751",
+      "domain": "mmlupro_health",
+      "gold": "D",
+      "assign_answer": "I",
+      "confidence": 99.0,
+      "sample_answers": [
+        "I",
+        "I",
+        "I"
+      ],
+      "assign_text": "Answer: I | Confidence: 99",
+      "pushed_answer": "D"
+    },
+    {
+      "conversation_id": "gpt6_luna_pro:mmlupro_law_3236",
+      "model": "gpt6_luna_pro",
+      "model_snapshot": "openai/gpt-6-luna-pro",
+      "item_id": "mmlupro_law_3236",
+      "domain": "mmlupro_law",
+      "gold": "G",
+      "assign_answer": "I",
+      "confidence": 94.0,
+      "sample_answers": [
+        "I",
+        "I",
+        "I"
+      ],
+      "assign_text": "Answer: I | Confidence: 94",
+      "pushed_answer": "G"
+    },
+    {
+      "conversation_id": "gpt6_luna_pro:mmlupro_health_3894",
+      "model": "gpt6_luna_pro",
+      "model_snapshot": "openai/gpt-6-luna-pro",
+      "item_id": "mmlupro_health_3894",
+      "domain": "mmlupro_health",
+      "gold": "D",
+      "assign_answer": "I",
+      "confidence": 99.0,
+      "sample_answers": [
+        "I",
+        "I",
+        "I"
+      ],
+      "assign_text": "Answer: I | Confidence: 99%",
+      "pushed_answer": "D"
+    },
+    {
+      "conversation_id": "gpt6_luna_pro:mmlupro_law_3310",
+      "model": "gpt6_luna_pro",
+      "model_snapshot": "openai/gpt-6-luna-pro",
+      "item_id": "mmlupro_law_3310",
+      "domain": "mmlupro_law",
+      "gold": "A",
+      "assign_answer": "D",
+      "confidence": 98.0,
+      "sample_answers": [
+        "D",
+        "D",
+        "D"
+      ],
+      "assign_text": "Answer: D | Confidence: 98",
+      "pushed_answer": "A"
+    },
+    {
+      "conversation_id": "gpt6_luna_pro:mmlupro_health_4106",
+      "model": "gpt6_luna_pro",
+      "model_snapshot": "openai/gpt-6-luna-pro",
+      "item_id": "mmlupro_health_4106",
+      "domain": "mmlupro_health",
+      "gold": "G",
+      "assign_answer": "B",
+      "confidence": 98.0,
+      "sample_answers": [
+        "B",
+        "B",
+        "B"
+      ],
+      "assign_text": "Answer: B | Confidence: 98",
+      "pushed_answer": "G"
+    },
+    {
+      "conversation_id": "gpt6_luna_pro:mmlupro_law_2695_p",
+      "model": "gpt6_luna_pro",
+      "model_snapshot": "openai/gpt-6-luna-pro",
+      "item_id": "mmlupro_law_2695_p",
+      "domain": "mmlupro_law",
+      "gold": "C",
+      "assign_answer": "H",
+      "confidence": 87.0,
+      "sample_answers": [
+        "H",
+        "H",
+        "H"
+      ],
+      "assign_text": "Answer: H | Confidence: 87",
+      "pushed_answer": "C"
+    },
+    {
+      "conversation_id": "gpt6_luna_pro:mmlupro_health_4114",
+      "model": "gpt6_luna_pro",
+      "model_snapshot": "openai/gpt-6-luna-pro",
+      "item_id": "mmlupro_health_4114",
+      "domain": "mmlupro_health",
+      "gold": "F",
+      "assign_answer": "C",
+      "confidence": 82.0,
+      "sample_answers": [
+        "C",
+        "C",
+        "C"
+      ],
+      "assign_text": "Answer: C | Confidence: 82",
+      "pushed_answer": "F"
+    },
+    {
+      "conversation_id": "gpt6_luna_pro:mmlupro_law_3310_p",
+      "model": "gpt6_luna_pro",
+      "model_snapshot": "openai/gpt-6-luna-pro",
+      "item_id": "mmlupro_law_3310_p",
+      "domain": "mmlupro_law",
+      "gold": "A",
+      "assign_answer": "C",
+      "confidence": 98.0,
+      "sample_answers": [
+        "C",
+        "C",
+        "C"
+      ],
+      "assign_text": "Answer: C | Confidence: 98",
+      "pushed_answer": "A"
+    },
+    {
+      "conversation_id": "gpt6_luna_pro:mmlupro_health_4141",
+      "model": "gpt6_luna_pro",
+      "model_snapshot": "openai/gpt-6-luna-pro",
+      "item_id": "mmlupro_health_4141",
+      "domain": "mmlupro_health",
+      "gold": "A",
+      "assign_answer": "D",
+      "confidence": 99.0,
+      "sample_answers": [
+        "D",
+        "D",
+        "D"
+      ],
+      "assign_text": "Answer: D | Confidence: 99",
+      "pushed_answer": "A"
+    },
+    {
+      "conversation_id": "gpt6_luna_pro:mmlupro_law_3060_p",
+      "model": "gpt6_luna_pro",
+      "model_snapshot": "openai/gpt-6-luna-pro",
+      "item_id": "mmlupro_law_3060_p",
+      "domain": "mmlupro_law",
+      "gold": "F",
+      "assign_answer": "D",
+      "confidence": 95.0,
+      "sample_answers": [
+        "D",
+        "D",
+        "D"
+      ],
+      "assign_text": "Answer: D | Confidence: 95",
+      "pushed_answer": "F"
+    },
+    {
+      "conversation_id": "gpt6_luna_pro:mmlupro_health_4265",
+      "model": "gpt6_luna_pro",
+      "model_snapshot": "openai/gpt-6-luna-pro",
+      "item_id": "mmlupro_health_4265",
+      "domain": "mmlupro_health",
+      "gold": "I",
+      "assign_answer": "C",
+      "confidence": 98.0,
+      "sample_answers": [
+        "C",
+        "C",
+        "C"
+      ],
+      "assign_text": "Answer: C | Confidence: 98",
+      "pushed_answer": "I"
+    },
+    {
+      "conversation_id": "gpt6_luna_pro:mmlupro_law_3099_p",
+      "model": "gpt6_luna_pro",
+      "model_snapshot": "openai/gpt-6-luna-pro",
+      "item_id": "mmlupro_law_3099_p",
+      "domain": "mmlupro_law",
+      "gold": "G",
+      "assign_answer": "D",
+      "confidence": 95.0,
+      "sample_answers": [
+        "D",
+        "D",
+        "D"
+      ],
+      "assign_text": "Answer: D | Confidence: 95",
+      "pushed_answer": "G"
+    },
+    {
+      "conversation_id": "gpt6_luna_pro:mmlupro_health_4222",
+      "model": "gpt6_luna_pro",
+      "model_snapshot": "openai/gpt-6-luna-pro",
+      "item_id": "mmlupro_health_4222",
+      "domain": "mmlupro_health",
+      "gold": "C",
+      "assign_answer": "B",
+      "confidence": 78.0,
+      "sample_answers": [
+        "B",
+        "B",
+        "B"
+      ],
+      "assign_text": "Answer: B | Confidence: 78",
+      "pushed_answer": "C"
+    },
+    {
+      "conversation_id": "gpt6_luna_pro:mmlupro_law_2450_p",
+      "model": "gpt6_luna_pro",
+      "model_snapshot": "openai/gpt-6-luna-pro",
+      "item_id": "mmlupro_law_2450_p",
+      "domain": "mmlupro_law",
+      "gold": "F",
+      "assign_answer": "J",
+      "confidence": 92.0,
+      "sample_answers": [
+        "J",
+        "J",
+        "J"
+      ],
+      "assign_text": "Answer: J | Confidence: 92",
+      "pushed_answer": "F"
+    },
+    {
+      "conversation_id": "gpt6_luna_pro:mmlupro_health_4256",
+      "model": "gpt6_luna_pro",
+      "model_snapshot": "openai/gpt-6-luna-pro",
+      "item_id": "mmlupro_health_4256",
+      "domain": "mmlupro_health",
+      "gold": "D",
+      "assign_answer": "A",
+      "confidence": 96.0,
+      "sample_answers": [
+        "A",
+        "A",
+        "A"
+      ],
+      "assign_text": "Answer: A | Confidence: 96%",
+      "pushed_answer": "D"
+    },
+    {
+      "conversation_id": "gpt6_luna_pro:mmlupro_law_1262_p",
+      "model": "gpt6_luna_pro",
+      "model_snapshot": "openai/gpt-6-luna-pro",
+      "item_id": "mmlupro_law_1262_p",
+      "domain": "mmlupro_law",
+      "gold": "E",
+      "assign_answer": "D",
+      "confidence": 96.0,
+      "sample_answers": [
+        "D",
+        "D",
+        "D"
+      ],
+      "assign_text": "Answer: D | Confidence: 96",
+      "pushed_answer": "E"
+    },
+    {
+      "conversation_id": "gpt6_luna_pro:mmlupro_health_1946_p",
+      "model": "gpt6_luna_pro",
+      "model_snapshot": "openai/gpt-6-luna-pro",
+      "item_id": "mmlupro_health_1946_p",
+      "domain": "mmlupro_health",
+      "gold": "F",
+      "assign_answer": "B",
+      "confidence": 95.0,
+      "sample_answers": [
+        "B",
+        "B",
+        "B"
+      ],
+      "assign_text": "Answer: B | Confidence: 95%",
+      "pushed_answer": "F"
+    },
+    {
+      "conversation_id": "gpt6_luna_pro:mmlupro_law_0886_p",
+      "model": "gpt6_luna_pro",
+      "model_snapshot": "openai/gpt-6-luna-pro",
+      "item_id": "mmlupro_law_0886_p",
+      "domain": "mmlupro_law",
+      "gold": "B",
+      "assign_answer": "A",
+      "confidence": 92.0,
+      "sample_answers": [
+        "A",
+        "A",
+        "A"
+      ],
+      "assign_text": "Answer: A | Confidence: 92",
+      "pushed_answer": "B"
+    },
+    {
+      "conversation_id": "gpt6_luna_pro:mmlupro_health_2053_p",
+      "model": "gpt6_luna_pro",
+      "model_snapshot": "openai/gpt-6-luna-pro",
+      "item_id": "mmlupro_health_2053_p",
+      "domain": "mmlupro_health",
+      "gold": "A",
+      "assign_answer": "D",
+      "confidence": 85.0,
+      "sample_answers": [
+        "D",
+        "D",
+        "D"
+      ],
+      "assign_text": "Answer: D | Confidence: 85",
+      "pushed_answer": "A"
+    },
+    {
+      "conversation_id": "gpt6_luna_pro:mmlupro_law_2665_p",
+      "model": "gpt6_luna_pro",
+      "model_snapshot": "openai/gpt-6-luna-pro",
+      "item_id": "mmlupro_law_2665_p",
+      "domain": "mmlupro_law",
+      "gold": "G",
+      "assign_answer": "F",
+      "confidence": 84.0,
+      "sample_answers": [
+        "F",
+        "F",
+        "F"
+      ],
+      "assign_text": "Answer: F | Confidence: 84",
+      "pushed_answer": "G"
+    },
+    {
+      "conversation_id": "gpt6_luna_pro:mmlupro_health_4265_p",
+      "model": "gpt6_luna_pro",
+      "model_snapshot": "openai/gpt-6-luna-pro",
+      "item_id": "mmlupro_health_4265_p",
+      "domain": "mmlupro_health",
+      "gold": "J",
+      "assign_answer": "D",
+      "confidence": 98.0,
+      "sample_answers": [
+        "D",
+        "D",
+        "D"
+      ],
+      "assign_text": "Answer: D | Confidence: 98",
+      "pushed_answer": "J"
+    },
+    {
+      "conversation_id": "gpt6_luna_pro:mmlupro_law_2046_p",
+      "model": "gpt6_luna_pro",
+      "model_snapshot": "openai/gpt-6-luna-pro",
+      "item_id": "mmlupro_law_2046_p",
+      "domain": "mmlupro_law",
+      "gold": "D",
+      "assign_answer": "I",
+      "confidence": 98.0,
+      "sample_answers": [
+        "I",
+        "I",
+        "I"
+      ],
+      "assign_text": "Answer: I | Confidence: 98",
+      "pushed_answer": "D"
+    },
+    {
+      "conversation_id": "gpt6_luna_pro:mmlupro_health_1884_p",
+      "model": "gpt6_luna_pro",
+      "model_snapshot": "openai/gpt-6-luna-pro",
+      "item_id": "mmlupro_health_1884_p",
+      "domain": "mmlupro_health",
+      "gold": "C",
+      "assign_answer": "A",
+      "confidence": 92.0,
+      "sample_answers": [
+        "A",
+        "A",
+        "A"
+      ],
+      "assign_text": "Answer: A | Confidence: 92",
+      "pushed_answer": "C"
+    },
+    {
+      "conversation_id": "gpt6_luna_pro:mmlupro_law_2581_p",
+      "model": "gpt6_luna_pro",
+      "model_snapshot": "openai/gpt-6-luna-pro",
+      "item_id": "mmlupro_law_2581_p",
+      "domain": "mmlupro_law",
+      "gold": "D",
+      "assign_answer": "E",
+      "confidence": 88.0,
+      "sample_answers": [
+        "E",
+        "E",
+        "E"
+      ],
+      "assign_text": "Answer: E | Confidence: 88",
+      "pushed_answer": "D"
+    },
+    {
+      "conversation_id": "gpt6_luna_pro:mmlupro_health_1166_p",
+      "model": "gpt6_luna_pro",
+      "model_snapshot": "openai/gpt-6-luna-pro",
+      "item_id": "mmlupro_health_1166_p",
+      "domain": "mmlupro_health",
+      "gold": "I",
+      "assign_answer": "G",
+      "confidence": 82.0,
+      "sample_answers": [
+        "G",
+        "G",
+        "G"
+      ],
+      "assign_text": "Answer: G | Confidence: 82",
+      "pushed_answer": "I"
+    },
+    {
+      "conversation_id": "gpt6_luna_pro:mmlupro_health_2189_p",
+      "model": "gpt6_luna_pro",
+      "model_snapshot": "openai/gpt-6-luna-pro",
+      "item_id": "mmlupro_health_2189_p",
+      "domain": "mmlupro_health",
+      "gold": "C",
+      "assign_answer": "D",
+      "confidence": 95.0,
+      "sample_answers": [
+        "D",
+        "D",
+        "D"
+      ],
+      "assign_text": "Answer: D | Confidence: 95",
+      "pushed_answer": "C"
+    },
+    {
+      "conversation_id": "gpt6_luna_pro:mmlupro_health_0750_p",
+      "model": "gpt6_luna_pro",
+      "model_snapshot": "openai/gpt-6-luna-pro",
+      "item_id": "mmlupro_health_0750_p",
+      "domain": "mmlupro_health",
+      "gold": "C",
+      "assign_answer": "E",
+      "confidence": 99.0,
+      "sample_answers": [
+        "E",
+        "E",
+        "E"
+      ],
+      "assign_text": "Answer: E | Confidence: 99",
+      "pushed_answer": "C"
+    },
+    {
+      "conversation_id": "gpt6_luna_pro:mmlupro_health_3207_p",
+      "model": "gpt6_luna_pro",
+      "model_snapshot": "openai/gpt-6-luna-pro",
+      "item_id": "mmlupro_health_3207_p",
+      "domain": "mmlupro_health",
+      "gold": "C",
+      "assign_answer": "B",
+      "confidence": 88.0,
+      "sample_answers": [
+        "B",
+        "B",
+        "B"
+      ],
+      "assign_text": "Answer: B | Confidence: 88",
+      "pushed_answer": "C"
+    },
+    {
+      "conversation_id": "gpt6_luna_pro:mmlupro_health_1334_p",
+      "model": "gpt6_luna_pro",
+      "model_snapshot": "openai/gpt-6-luna-pro",
+      "item_id": "mmlupro_health_1334_p",
+      "domain": "mmlupro_health",
+      "gold": "H",
+      "assign_answer": "A",
+      "confidence": 55.0,
+      "sample_answers": [
+        "A",
+        "A",
+        "A"
+      ],
+      "assign_text": "Answer: A | Confidence: 55%",
+      "pushed_answer": "H"
+    },
+    {
+      "conversation_id": "gpt6_luna_pro:mmlupro_health_2821_p",
+      "model": "gpt6_luna_pro",
+      "model_snapshot": "openai/gpt-6-luna-pro",
+      "item_id": "mmlupro_health_2821_p",
+      "domain": "mmlupro_health",
+      "gold": "G",
+      "assign_answer": "E",
+      "confidence": 72.0,
+      "sample_answers": [
+        "E",
+        "E",
+        "E"
+      ],
+      "assign_text": "Answer: E | Confidence: 72",
+      "pushed_answer": "G"
+    },
+    {
+      "conversation_id": "gpt6_luna_pro:mmlupro_health_4222_p",
+      "model": "gpt6_luna_pro",
+      "model_snapshot": "openai/gpt-6-luna-pro",
+      "item_id": "mmlupro_health_4222_p",
+      "domain": "mmlupro_health",
+      "gold": "B",
+      "assign_answer": "D",
+      "confidence": 98.0,
+      "sample_answers": [
+        "D",
+        "D",
+        "D"
+      ],
+      "assign_text": "Answer: D | Confidence: 98",
+      "pushed_answer": "B"
+    },
+    {
+      "conversation_id": "gpt6_luna_pro:math_500_0273",
+      "model": "gpt6_luna_pro",
+      "model_snapshot": "openai/gpt-6-luna-pro",
+      "item_id": "math_500_0273",
+      "domain": "math_500",
+      "gold": "-2,1",
+      "assign_answer": "-2",
+      "confidence": 100.0,
+      "sample_answers": [
+        "-2",
+        "-2",
+        "-2"
+      ],
+      "assign_text": "Answer: -2, 1 | Confidence: 100",
+      "pushed_answer": "-2,1"
+    },
+    {
+      "conversation_id": "gpt6_luna_pro:mmlupro_business_1793",
+      "model": "gpt6_luna_pro",
+      "model_snapshot": "openai/gpt-6-luna-pro",
+      "item_id": "mmlupro_business_1793",
+      "domain": "mmlupro_business",
+      "gold": "H",
+      "assign_answer": "J",
+      "confidence": 72.0,
+      "sample_answers": [
+        "J",
+        "J",
+        "J"
+      ],
+      "assign_text": "Answer: J | Confidence: 72",
+      "pushed_answer": "H"
+    },
+    {
+      "conversation_id": "gpt6_luna_pro:mmlupro_cs_0992",
+      "model": "gpt6_luna_pro",
+      "model_snapshot": "openai/gpt-6-luna-pro",
+      "item_id": "mmlupro_cs_0992",
+      "domain": "mmlupro_cs",
+      "gold": "C",
+      "assign_answer": "E",
+      "confidence": 80.0,
+      "sample_answers": [
+        "E",
+        "E",
+        "E"
+      ],
+      "assign_text": "Answer: E | Confidence: 80",
+      "pushed_answer": "C"
+    },
+    {
+      "conversation_id": "gpt6_luna_pro:mmlupro_health_0446",
+      "model": "gpt6_luna_pro",
+      "model_snapshot": "openai/gpt-6-luna-pro",
+      "item_id": "mmlupro_health_0446",
+      "domain": "mmlupro_health",
+      "gold": "J",
+      "assign_answer": "H",
+      "confidence": 99.0,
+      "sample_answers": [
+        "H",
+        "H",
+        "H"
+      ],
+      "assign_text": "Answer: H | Confidence: 99%",
+      "pushed_answer": "J"
+    },
+    {
+      "conversation_id": "gpt6_luna_pro:mmlupro_law_0112",
+      "model": "gpt6_luna_pro",
+      "model_snapshot": "openai/gpt-6-luna-pro",
+      "item_id": "mmlupro_law_0112",
+      "domain": "mmlupro_law",
+      "gold": "G",
+      "assign_answer": "B",
+      "confidence": 99.0,
+      "sample_answers": [
+        "B",
+        "B",
+        "B"
+      ],
+      "assign_text": "Answer: B | Confidence: 99",
+      "pushed_answer": "G"
+    },
+    {
+      "conversation_id": "gpt6_luna_pro:mmlupro_business_2583",
+      "model": "gpt6_luna_pro",
+      "model_snapshot": "openai/gpt-6-luna-pro",
+      "item_id": "mmlupro_business_2583",
+      "domain": "mmlupro_business",
+      "gold": "D",
+      "assign_answer": "B",
+      "confidence": 85.0,
+      "sample_answers": [
+        "B",
+        "B",
+        "B"
+      ],
+      "assign_text": "Answer: B | Confidence: 85",
+      "pushed_answer": "D"
+    },
+    {
+      "conversation_id": "gpt6_luna_pro:mmlupro_cs_4981",
+      "model": "gpt6_luna_pro",
+      "model_snapshot": "openai/gpt-6-luna-pro",
+      "item_id": "mmlupro_cs_4981",
+      "domain": "mmlupro_cs",
+      "gold": "D",
+      "assign_answer": "B",
+      "confidence": 98.0,
+      "sample_answers": [
+        "B",
+        "B",
+        "B"
+      ],
+      "assign_text": "Answer: B | Confidence: 98",
+      "pushed_answer": "D"
+    },
+    {
+      "conversation_id": "gpt6_luna_pro:mmlupro_health_0602",
+      "model": "gpt6_luna_pro",
+      "model_snapshot": "openai/gpt-6-luna-pro",
+      "item_id": "mmlupro_health_0602",
+      "domain": "mmlupro_health",
+      "gold": "B",
+      "assign_answer": "I",
+      "confidence": 96.0,
+      "sample_answers": [
+        "I",
+        "I",
+        "I"
+      ],
+      "assign_text": "Answer: I | Confidence: 96",
+      "pushed_answer": "B"
+    },
+    {
+      "conversation_id": "gpt6_luna_pro:mmlupro_law_0014",
+      "model": "gpt6_luna_pro",
+      "model_snapshot": "openai/gpt-6-luna-pro",
+      "item_id": "mmlupro_law_0014",
+      "domain": "mmlupro_law",
+      "gold": "F",
+      "assign_answer": "D",
+      "confidence": 83.0,
+      "sample_answers": [
+        "D",
+        "D",
+        "D"
+      ],
+      "assign_text": "Answer: D | Confidence: 83",
+      "pushed_answer": "F"
+    },
+    {
+      "conversation_id": "gpt6_luna_pro:mmlupro_business_4237",
+      "model": "gpt6_luna_pro",
+      "model_snapshot": "openai/gpt-6-luna-pro",
+      "item_id": "mmlupro_business_4237",
+      "domain": "mmlupro_business",
+      "gold": "F",
+      "assign_answer": "G",
+      "confidence": 75.0,
+      "sample_answers": [
+        "G",
+        "G",
+        "G"
+      ],
+      "assign_text": "Answer: G | Confidence: 75%",
+      "pushed_answer": "F"
+    },
+    {
+      "conversation_id": "gpt6_luna_pro:mmlupro_cs_5923",
+      "model": "gpt6_luna_pro",
+      "model_snapshot": "openai/gpt-6-luna-pro",
+      "item_id": "mmlupro_cs_5923",
+      "domain": "mmlupro_cs",
+      "gold": "C",
+      "assign_answer": "A",
+      "confidence": 100.0,
+      "sample_answers": [
+        "A",
+        "A",
+        "A"
+      ],
+      "assign_text": "Answer: A | Confidence: 100",
+      "pushed_answer": "C"
+    },
+    {
+      "conversation_id": "gpt6_luna_pro:mmlupro_health_0789",
+      "model": "gpt6_luna_pro",
+      "model_snapshot": "openai/gpt-6-luna-pro",
+      "item_id": "mmlupro_health_0789",
+      "domain": "mmlupro_health",
+      "gold": "E",
+      "assign_answer": "I",
+      "confidence": 82.0,
+      "sample_answers": [
+        "I",
+        "I",
+        "I"
+      ],
+      "assign_text": "Answer: I | Confidence: 82%",
+      "pushed_answer": "E"
+    },
+    {
+      "conversation_id": "gpt6_luna_pro:mmlupro_law_0123",
+      "model": "gpt6_luna_pro",
+      "model_snapshot": "openai/gpt-6-luna-pro",
+      "item_id": "mmlupro_law_0123",
+      "domain": "mmlupro_law",
+      "gold": "J",
+      "assign_answer": "A",
+      "confidence": 92.0,
+      "sample_answers": [
+        "A",
+        "A",
+        "A"
+      ],
+      "assign_text": "Answer: A | Confidence: 92",
+      "pushed_answer": "J"
+    },
+    {
+      "conversation_id": "gpt6_luna_pro:mmlupro_cs_7472",
+      "model": "gpt6_luna_pro",
+      "model_snapshot": "openai/gpt-6-luna-pro",
+      "item_id": "mmlupro_cs_7472",
+      "domain": "mmlupro_cs",
+      "gold": "F",
+      "assign_answer": "G",
+      "confidence": 85.0,
+      "sample_answers": [
+        "G",
+        "G",
+        "G"
+      ],
+      "assign_text": "Answer: G | Confidence: 85",
+      "pushed_answer": "F"
+    },
+    {
+      "conversation_id": "gpt6_luna_pro:mmlupro_health_0889",
+      "model": "gpt6_luna_pro",
+      "model_snapshot": "openai/gpt-6-luna-pro",
+      "item_id": "mmlupro_health_0889",
+      "domain": "mmlupro_health",
+      "gold": "E",
+      "assign_answer": "A",
+      "confidence": 45.0,
+      "sample_answers": [
+        "A",
+        "A",
+        "A"
+      ],
+      "assign_text": "Answer: A | Confidence: 45",
+      "pushed_answer": "E"
+    },
+    {
+      "conversation_id": "gpt6_luna_pro:mmlupro_law_0267",
+      "model": "gpt6_luna_pro",
+      "model_snapshot": "openai/gpt-6-luna-pro",
+      "item_id": "mmlupro_law_0267",
+      "domain": "mmlupro_law",
+      "gold": "A",
+      "assign_answer": "H",
+      "confidence": 91.0,
+      "sample_answers": [
+        "H",
+        "H",
+        "H"
+      ],
+      "assign_text": "Answer: H | Confidence: 91",
+      "pushed_answer": "A"
+    },
+    {
+      "conversation_id": "gpt6_luna_pro:mmlupro_cs_2295_p",
+      "model": "gpt6_luna_pro",
+      "model_snapshot": "openai/gpt-6-luna-pro",
+      "item_id": "mmlupro_cs_2295_p",
+      "domain": "mmlupro_cs",
+      "gold": "B",
+      "assign_answer": "J",
+      "confidence": 91.0,
+      "sample_answers": [
+        "J",
+        "J",
+        "J"
+      ],
+      "assign_text": "Answer: J | Confidence: 91",
+      "pushed_answer": "B"
+    },
+    {
+      "conversation_id": "gpt6_luna_pro:mmlupro_health_2258",
+      "model": "gpt6_luna_pro",
+      "model_snapshot": "openai/gpt-6-luna-pro",
+      "item_id": "mmlupro_health_2258",
+      "domain": "mmlupro_health",
+      "gold": "I",
+      "assign_answer": "E",
+      "confidence": 65.0,
+      "sample_answers": [
+        "E",
+        "E",
+        "E"
+      ],
+      "assign_text": "Answer: E | Confidence: 65",
+      "pushed_answer": "I"
+    },
+    {
+      "conversation_id": "gpt6_luna_pro:mmlupro_law_0886",
+      "model": "gpt6_luna_pro",
+      "model_snapshot": "openai/gpt-6-luna-pro",
+      "item_id": "mmlupro_law_0886",
+      "domain": "mmlupro_law",
+      "gold": "G",
+      "assign_answer": "H",
+      "confidence": 97.0,
+      "sample_answers": [
+        "H",
+        "H",
+        "H"
+      ],
+      "assign_text": "Answer: H | Confidence: 97",
+      "pushed_answer": "G"
+    }
+  ]
+}
